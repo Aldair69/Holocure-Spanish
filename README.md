@@ -10,7 +10,7 @@ Un mod de Holocure que permite utilizar paquetes de idiomas dentro del juego. Es
 - Descarga `AurieInstaller.exe`, `AurieLoader.exe` y `AurieCore.dll` desde la última versión de Aurie https://github.com/AurieFramework/Aurie/releases
  - Nota: Este lanzador puede ser marcado como un troyano por tu antivirus (Posiblemente porque estamos haciendo que un ejecutable cargue dll externos). YYToolkit es de código abierto y ha sido utilizado en varias comunidades de modificación sin problemas.
 - Descarga `YYToolkit.dll` desde la última versión de YYToolkit https://github.com/AurieFramework/YYToolkit/releases
-- Lanza `AurieInstaller.exe`, haz clic en `Instalar marco de Aurie` y selecciona `HoloCure.exe`
+- Lanza `AurieInstaller.exe`, haz clic en `Instalar AurieFramework` y selecciona `HoloCure.exe`
  - Puedes encontrar `HoloCure.exe` a través de Steam haciendo clic en `Explorar archivos locales`
 - Copia `CallbackManagerMod.dll`, `HoloCureLanguagePackMod.dll` y `YYToolkit.dll` a `mods/Aurie`
 - Copia `AurieCore.dll` a `mods/Native`
