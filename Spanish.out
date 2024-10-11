@@ -1,0 +1,4150 @@
+	f_boxingDummy:
+		Spanish: ["Boxing Dummy", ""],
+	},
+	PsychoAxeName:
+		Spanish: "Psycho Axe",
+	},
+	a_ollie10Name:
+		Spanish: "Otsucrazy!",
+	},
+	a_aquaGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Minato Aqua.",
+	},
+	holoHouseObjectOption:
+		Spanish: ["Edit", "Remove"],
+	},
+	guraName:
+		Spanish: "GAWR GURA",
+	},
+	f_retroConsole:
+		Spanish: ["Retro Console", ""],
+	},
+	shionAttackName:
+		Spanish: "Murasaki Bolt",
+	},
+	SCTDescription:
+		Spanish: "Ten 5000 monedas.",
+	},
+	risuName:
+		Spanish: "AYUNDA RISU",
+	},
+	a_thankYouDescription:
+		Spanish: "Ver los créditos hasta el final.",
+	},
+	a_hardcoreGamerName:
+		Spanish: "Hardcore Gamer",
+	},
+	i_onion:
+		Spanish: ["Onion", "Onion Seed"],
+	},
+	faunaSpecialAttackDesc:
+	},
+	w_modern:
+		Spanish: ["Modern White Wall", ""],
+	},
+	DeathDescription:
+		Spanish: ["When defeating a target with [c_yellow]Scythe Swing[/color] or [c_yellow]Death[/color], there is a [c_green]20%[/color] chance to create an explosion for [c_green]60%[/color] damage, and a [c_green]5%[/color] chance to KO.", "When defeating a target with [c_yellow]Scythe Swing[/color] or [c_yellow]Death[/color], there is a [c_green]25%[/color] chance to create an explosion for [c_green]90%[/color] damage, and a [c_green]8%[/color] chance to KO.", "When defeating a target with [c_yellow]Scythe Swing[/color] or [c_yellow]Death[/color], there is a [c_green]30%[/color] chance to create an explosion for [c_green]120%[/color] damage, and a [c_green]10%[/color] chance to KO."],
+	},
+	BellyDancingDescription:
+		Spanish: ["While moving, gain 1 stack of [c_yellow]Belly Dance[/color] per sec. If Aki stops moving, unleash a burst that deals [c_green]20%[/color] damage per stack.", "While moving, gain 1 stack of [c_yellow]Belly Dance[/color] per sec. If Aki stops moving, unleash a burst that deals [c_green]30%[/color] damage per stack.", "While moving, gain 1 stack of [c_yellow]Belly Dance[/color] per sec. If Aki stops moving, unleash a burst that deals [c_green]40%[/color] damage per stack."],
+	},
+	sanaName:
+		Spanish: "TSUKUMO SANA",
+	},
+	a_mikoGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Sakura Miko.",
+	},
+	OmenDescription:
+		Spanish: ["[c_yellow]Tarot Cards[/color] has a [c_green]10%[/color] chance to create an [c_gray]Omen[/color], dealing [c_green]200%[/color] damage to targets. If Omen defeats a target, the special meter fills slightly.", "[c_yellow]Tarot Cards[/color] has a [c_green]15%[/color] chance to create an [c_gray]Omen[/color], dealing [c_green]250%[/color] damage to targets. If Omen defeats a target, the special meter fills slightly.", "[c_yellow]Tarot Cards[/color] has a [c_green]20%[/color] chance to create an [c_gray]Omen[/color], dealing [c_green]300%[/color] damage to targets. If Omen defeats a target, the special meter fills slightly."],
+	},
+	matsuriSpecialAttackName:
+		Spanish: "WASSHOI!",
+	},
+	f_hangingVines:
+		Spanish: ["Hanging Vines", ""],
+	},
+	TheBlacksmithDescription:
+		Spanish: ["Drop [c_green]1[/color] Falling Anvil every 8 seconds onto a nearby target dealing [c_green]300%[/color] damage. There is a 3% chance the Falling Anvil becomes Upgrade Anvil.", "Drop [c_green]2[/color] Falling Anvils every 8 seconds onto a nearby target dealing [c_green]400%[/color] damage. There is a 3% chance the Falling Anvil becomes Upgrade Anvil.", "Drop [c_green]3[/color] Falling Anvils every 8 seconds onto a nearby target dealing [c_green]500%[/color] damage. There is a 3% chance the Falling Anvil becomes Upgrade Anvil."],
+	},
+	ShacklesssDescription:
+		Spanish: ["Reduce the negative effects of any items placed on the player by [c_green]33%[/color].", "Reduce the negative effects of any items placed on the player by [c_green]66%[/color].", "Negate any negative effects of items placed on the player ."],
+	},
+	ameAttackName:
+		Spanish: "Pistol Shot",
+	},
+	a_sana10Name:
+		Spanish: "Limiters Released!",
+	},
+	OozoraPoliceDescription:
+		Spanish: ["Gain 2 Handcuff every 15 seconds, up to [c_green]4[/color]. When attacked, use 1 [c_cyan]Handcuff[/color] to arrest all targets within 60px, instantly defeating non-boss targets.", "Gain 2 Handcuff every 15 seconds, up to [c_green]6[/color]. When attacked, use 1 [c_cyan]Handcuff[/color] to arrest all targets within 60px, instantly defeating non-boss targets.", "Gain 2 Handcuff every 15 seconds, up to [c_green]8[/color]. When attacked, use 1 [c_cyan]Handcuff[/color] to arrest all targets within 60px, instantly defeating non-boss targets."],
+	},
+	a_diginDescription:
+		Spanish: "Cocina un plato.",
+	},
+	HalfDemonName:
+		Spanish: "Half Demon",
+	},
+	FaceMaskName:
+		Spanish: "Face Mask",
+	},
+	ErogeHeroDescription:
+		Spanish: ["When Miko conquers a target, Miko gains [c_pink]Ero[/color] for 4 seconds. With [c_pink]Ero[/color] heal [c_green]2[/color] HP every 2 seconds. Each conquest resets the timer.", "When Miko conquers a target, Miko gains [c_pink]Ero[/color] for 4 seconds. With [c_pink]Ero[/color], heal [c_green]3[/color] HP every 2 seconds. Each conquest resets the timer.", "When Miko conquers a target, Miko gains [c_pink]Ero[/color] for 4 seconds. With [c_pink]Ero[/color], heal [c_green]4[/color] HP every 2 seconds. Each conquest resets the timer."],
+	},
+	DownUnderName:
+		Spanish: "Down Under",
+	},
+	a_kiaraClearName:
+		Spanish: "Kikkeriki!",
+	},
+	MamaDescription:
+		Spanish: ["Every 4 seconds, heal 1% for each target within [c_green]100[/color]px, up to [c_green]10%[/color].", "Every 4 seconds, heal 1% for each target within [c_green]125[/color]px, up to [c_green]20%[/color].", "Every 4 seconds, heal 1% for each target within [c_green]150[/color]px, up to [c_green]30%[/color]."],
+	},
+	},
+	f_CRTTV:
+		Spanish: ["CRT TV", ""],
+	},
+	CultDescription:
+		Spanish: ["If any attack hits more than 4 times or 4 targets, every 4th hit will deal [c_green]2x[/color] damage.", "If any attack hits more than 4 times or 4 targets, every 4th hit will deal [c_green]3x[/color] damage.", "If any attack hits more than 4 times or 4 targets, every 4th hit will deal [c_green]4x[/color] damage."],
+	},
+	akiAttackDesc:
+		Spanish: ["Sends Aik to the closest as well as random targets and fires a beam.", "Increase damage by [c_green]20%[/color].", "Increase size of beam by [c_green]20%[/color].", "Send [c_green]3[/color] Aik.", "Reduce time between attacks by [c_green]15%[/color].", "Send [c_green]4[/color] Aik.", "Become a cross shape beam. Increase damage and size of beam by [c_green]30%[/color]. Has a chance to apply a debuff that reduces DEF by [c_green]30%[/color]."],
+	},
+	a_oraoraDescription:
+	},
+	a_areYouEvenThereName:
+		Spanish: "Are You Even There?",
+	},
+	mumeiAttackDesc:
+		Spanish: ["Shoot a bunch of feathers at a spread. Pierces through targets.", "Increase damage by [c_green]20%[/color].", "Increase hit limit by [c_green]5[/color].", "Shoot [c_green]1[/color] additional feather.", "Reduce the time between attacks by [c_green]30%[/color] and increase hit limit by [c_green]5[/color].", "Shoot [c_green]1[/color] additional feather.", "Feathers home into targets [c_green]3[/color] times."],
+	},
+	HoloLaserName:
+		Spanish: "Fan Beam",
+	},
+	guraSpecialAttackName:
+		Spanish: "Shark Call",
+	},
+	f_stoolA1:
+		Spanish: ["Stool A", ""],
+	},
+	CuteLaughName:
+		Spanish: "Cheerful Laugh",
+	},
+	ayameSpecialAttackDesc:
+	},
+	AnkimoDescription:
+		Spanish: ["Summon Ankimo. Ankimo runs to the targets closest to Sora and pulls them away. Pulled targets have a [c_green]20%[/color] chance to be immobilized for 3 seconds.", "Summon Ankimo. Ankimo runs to the targets closest to Sora and pulls them away. Pulled targets have a [c_green]25%[/color] chance to be immobilized for 3 seconds.", "Summon Ankimo. Ankimo runs to the targets closest to Sora and pulls them away. Pulled targets have a [c_green]30%[/color] chance to be immobilized for 3 seconds."],
+	},
+	PlushieDescription:
+		Spanish: ["Delay taken damage. On any hit by a target, take only [c_green]30%[/color] of the damage initially, then take the remaining damage gradually.", "Delay taken damage. On any hit by a target, take only [c_green]20%[/color] of the damage initially, then take the remaining damage gradually.", "Delay taken damage. On any hit by a target, take only [c_green]10%[/color] of the damage initially, then take the remaining damage gradually."],
+	},
+	a_welcomehomeName:
+		Spanish: "Welcome Home!",
+	},
+	a_highwayrobberyDescription:
+		Spanish: "Reúne 100.000 HoloCoins de los trabajadores de una vez.",
+	},
+	i_rice:
+		Spanish: ["Rice", "Rice Seed"],
+	},
+	GarlicDescription:
+		Spanish: ["Creates a [c_yellow]Magic Garlic[/color] that deals [c_green]100%[/color] damage to nearby targets. If Shion is within [c_green]60px[/color], slowly gain Special Gauge.", "Creates a [c_yellow]Magic Garlic[/color] that deals [c_green]125%[/color] damage to nearby targets. If Shion is within [c_green]110px[/color], slowly gain Special Gauge.", "Creates a [c_yellow]Magic Garlic[/color] that deals [c_green]150%[/color] damage to nearby targets. If Shion is within [c_green]160px[/color], slowly gain Special Gauge."],
+	},
+	FeastDescription:
+		Spanish: ["When a target is defeated, there is a [c_green]6%[/color] chance to drop other types of food that heal for 1, 3, 5, or 20 HP.", "When a target is defeated, there is a [c_green]8%[/color] chance to drop other types of food that heal for 1, 3, 5, or 20 HP.", "When a target is defeated, there is a [c_green]10%[/color] chance to drop other types of food that heal for 1, 3, 5, or 20 HP."],
+	},
+	w_sky:
+		Spanish: ["Sky Wall", ""],
+	},
+	TrailblazerName:
+		Spanish: "Trailblazer",
+	},
+	a_mioClearName:
+	},
+	GrindDescription:
+		Spanish: "Ten 1.000.000 de monedas.",
+	},
+	f_kroniClock:
+		Spanish: ["Kroni Clock", ""],
+	},
+	enchantDesc:
+		Spanish: "El arma gana efectos de bonificación aleatorios. Si ya hay efectos de bonificación, se vuelven a sortear.",
+	},
+	CatReflexesDescription:
+		Spanish: ["While moving, Crit is increased by [c_green]5%[/color]. If Zeta is invisible, increase Crit by a further 5%.", "While moving, Crit is increased by [c_green]10%[/color]. If Zeta is invisible, increase Crit by a further 5%.", "While moving, Crit is increased by [c_green]15%[/color]. If Zeta is invisible, increase Crit by a further 5%."],
+	},
+	a_shinyfishDescription:
+		Spanish: "Pesca un pez brillante.",
+	},
+	a_employeeName:
+		Spanish: "Employee of the Month",
+	},
+	nemuOptions:
+		Spanish: ["Buy", "Sell", "Talk", "Quit"],
+	},
+	HoshinovaDescription:
+		Spanish: ["Gain [c_purple]Hoshinova[/color] buff, increasing ATK by [c_green]20%[/color]. If taking damage, [c_purple]Hoshinova[/color] becomes [c_lavender]Moona[/color] for 5 seconds, reducing damage taken by 15% instead.", "Gain [c_purple]Hoshinova[/color] buff, increasing ATK by [c_green]40%[/color]. If taking damage, [c_purple]Hoshinova[/color] becomes [c_lavender]Moona[/color] for 5 seconds, reducing damage taken by 15% instead.", "Gain [c_purple]Hoshinova[/color] buff, increasing ATK by [c_green]60%[/color]. If taking damage, [c_purple]Hoshinova[/color] becomes [c_lavender]Moona[/color] for 5 seconds, reducing damage taken by 15% instead."],
+	},
+	a_koboGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Kobo Kanaeru.",
+	},
+	LabCoatName:
+		Spanish: "Researcher's Coat",
+	},
+	f_easternTable:
+		Spanish: ["Eastern Table", ""],
+	},
+	EldritchHorrorName:
+		Spanish: "Eldritch Horror",
+	},
+	deleteSaveWarning:
+		Spanish: "[c_red]Eliminarás todos tus datos. Todo el progreso y las configuraciones se perderán.
+(Al eliminar, el juego se cerrará)
+[/color][c_yellow]Mantén pulsado para confirmar.[/color]",
+(Upon deleting, the game will close)
+[/color][c_yellow]Hold button to confirm.[/color]",
+（削除した場合、ゲームが閉じられます。
+[c_yellow]ボタンの長押しで決定してください。[/color]",
+	},
+	SoloStickerDescription:
+		Spanish: ["Increase damage by [c_green]5%[/color] for each empty weapon slot.", "Increase damage by [c_green]10%[/color] for each empty weapon slot.", "Increase damage by [c_green]15%[/color] for each empty weapon slot."],
+	},
+	PurityAndInsanityName:
+		Spanish: "Purity And Insanity",
+	},
+	a_painPekoName:
+		Spanish: "Pain Peko",
+	},
+	PhoenixShieldName:
+		Spanish: "Phoenix Shield",
+	},
+	a_ayameGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Nakiri Ayame.",
+	},
+	MelMelCookingName:
+		Spanish: "Mel Mel Cooking",
+	},
+	LifeStealStickerDescription:
+		Spanish: ["Once per second, Weapon attacks may heal a random amount up to [c_green]5%[/color] of Max HP.", "Once per second, Weapon attacks may heal a random amount up to [c_green]10%[/color] of Max HP.", "Once per second, Weapon attacks may heal a random amount up to [c_green]15%[/color] of Max HP."],
+	},
+	itemTake:
+		Spanish: "Take",
+	},
+	GWSPillName:
+		Spanish: "GWS Pill",
+	},
+	f_TVStand:
+		Spanish: ["TV", ""],
+	},
+	CuttingDeepDescription:
+		Spanish: ["Increase Pick Up Range by [c_green]20%[/color]. If a target is within Anya's Pick Up Range, melee weapons have a [c_green]15%[/color] chance to hit twice.", "Increase Pick Up Range by [c_green]40%[/color]. If a target is within Anya's Pick Up Range, melee weapons have a [c_green]20%[/color] chance to hit twice.", "Increase Pick Up Range by [c_green]60%[/color]. If a target is within Anya's Pick Up Range, melee weapons have a [c_green]25%[/color] chance to hit twice."],
+	},
+	SecretAgentName:
+		Spanish: "Secret Agent",
+	},
+	azkiAttackName:
+		Spanish: "Diva Song",
+	},
+	a_zetaClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Vestia Zeta.",
+	},
+	a_huhName:
+		Spanish: "Eh?",
+	},
+	NonstopNutsName:
+		Spanish: "Nonstop Nuts",
+	},
+	i_tomato:
+		Spanish: ["Tomato", "Tomato Seed"],
+	},
+	generalClearName:
+		Spanish: "First Win!",
+	},
+	chocoName:
+		Spanish: "YUZUKI CHOCO",
+	},
+	SaplingName:
+		Spanish: "Sapling",
+	},
+	a_moonaGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Moona Hoshinova.",
+	},
+	fubukiAttackName:
+		Spanish: "Fox Tail",
+	},
+	f_Marble_bookshelf:
+		Spanish: ["Marble Bookshelf", ""],
+	},
+	a_shionClearName:
+		Spanish: "Neeeeeeeeeeeeeeeeeeeeee~",
+	},
+	optionButtons:
+	},
+	a_fishfearmeDescription:
+		Spanish: "Obtén 10 combos en el minijuego de pesca.",
+	},
+	MiCometDescription:
+		Spanish: ["Real business partners."],
+	},
+	fishRod:
+		Spanish: ["Buy This Rod?", "Buy", "Back"],
+	},
+	DragonBeamName:
+		Spanish: "Dragon Fire",
+	},
+	DancerDescription:
+		Spanish: ["Moving gradually heals 5% HP per 5 seconds and increases ATK by [c_green]2%[/color] every second, up to [c_green]40%[/color]. If stopped, buff will slowly decrease.", "Moving gradually heals 5% HP per 5 seconds and increases ATK by [c_green]3%[/color] every second, up to [c_green]60%[/color]. If stopped, buff will slowly decrease.", "[ "Moving gradually heals 5% HP per 5 seconds and increases ATK by [c_green]4%[/color] every second, up to [c_green]80%[/color]. Also increase critical hit chance by 1% per","stack. If stopped, buff will slowly decrease." ]"],
+	},
+	RulerOfSpaceName:
+		Spanish: "Speaker Of Space",
+	},
+	reineAttackName:
+		Spanish: "Peafowl Feathers",
+	},
+	a_koroneClearName:
+		Spanish: "Yubi Yubi!",
+	},
+	ManagersName:
+		Spanish: "Thank the Managers",
+	},
+	LadyOfPeafowlName:
+		Spanish: "Lady Of The Peafowl",
+	},
+		Spanish: ["Refrigerator", ""],
+	},
+	UberSheepName:
+		Spanish: "Uber Sheep",
+	},
+	CoexistenceDescription:
+		Spanish: ["Gain 1 [c_yellow]Coexistence[/color] per sec. At [c_green]60[/color] stacks, Change of Heart becomes Eldrich Form where both Haato and Haachama effects are active for [c_green]10[/color] seconds.", "Gain 1 [c_yellow]Coexistence[/color] per sec. At [c_green]55[/color] stacks, Change of Heart becomes Eldrich Form where both Haato and Haachama effects are active for [c_green]12[/color] seconds.", "Gain 1 [c_yellow]Coexistence[/color] per sec. At [c_green]50[/color] stacks, Change of Heart becomes Eldrich Form where both Haato and Haachama effects are active for [c_green]14[/color] seconds."],
+	},
+	a_petDogDescription:
+		Spanish: "Acaricia a Bubba como Amelia Watson.",
+	},
+	a_azkiGachikoiName:
+		Spanish: "True Pioneer",
+	},
+	f_window:
+		Spanish: ["Wooden Frame Window", ""],
+	},
+	enhanceFailed:
+		Spanish: "FAILED...",
+	},
+	subaruSpecialAttackDesc:
+		Spanish: "Crea un grito muy fuerte en la parte delantera, empujando hacia atrás y causando un 120% de daño continuo.",
+	},
+	BubbaName:
+		Spanish: "Bubba",
+	},
+	robocoAttackDesc:
+		Spanish: ["Shoots a few times in aimed direction.", "Shoot [c_green]1[/color] more bullet.", "Bullets [c_green]+1[/color] pierce.", "Reduce time between attacks by [c_green]15%[/color].", "Increase damage by [c_green]20%[/color].", "Shoot [c_green]1[/color] more bullet.", "Gun becomes a piercing blast."],
+	},
+	recommended:
+		Spanish: "Recommended Upgrades: ",
+	},
+	a_inaClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Ninomae Inanis.",
+	},
+	NoPressureName:
+		Spanish: "No Pressure",
+	},
+	KonKonDescription:
+		Spanish: ["Gain a 10% chance to dodge attacks. When dodging, there is a [c_green]60%[/color] chance to create a noise burst dealing [c_green]100%[/color] damage.", "Gain a 10% chance to dodge attacks. When dodging, there is a [c_green]70%[/color] chance to create a noise burst dealing [c_green]125%[/color] damage.", "Gain a 10% chance to dodge attacks. When dodging, there is a [c_green]80%[/color] chance to create a noise burst dealing [c_green]150%[/color] damage."],
+	},
+	WamyName:
+		Spanish: "Wamy.",
+	},
+	DuckASMRName:
+		Spanish: "Duck Whisper",
+	},
+	TailplugDescription:
+	},
+	critDescription:
+	},
+	SlowDownStickerDescription:
+		Spanish: ["Attacks have a [c_green]20%[/color] chance to slow targets by [c_green]15%[/color] and deal [c_green]30%[/color] weapon damage for 5 seconds.", "Attacks have a [c_green]25%[/color] chance to slow targets by [c_green]20%[/color] and deal [c_green]40%[/color] weapon damage for 5 seconds.", "Attacks have a [c_green]30%[/color] chance to slow targets by [c_green]25%[/color] and deal [c_green]50%[/color] weapon damage for 5 seconds."],
+	},
+	BlackMagicName:
+		Spanish: "Black Magic",
+	},
+	SausageName:
+		Spanish: "Sausage",
+	},
+	a_mumeiGachikoiName:
+		Spanish: "True Hooman",
+	},
+	f_Marble_Partition:
+		Spanish: ["Marble Partition", ""],
+	},
+	thousandDamageDescription:
+		Spanish: "Causa más de 1000 puntos de daño en un solo ataque.",
+	},
+	StreamOfTearsDescription:
+		Spanish: ["Nothing can stop the stream of tears."],
+	},
+	a_soloBeaterDescription:
+		Spanish: "Completa con solo tu arma principal",
+	},
+	a_fubukiGachikoiName:
+		Spanish: "True Sukonbu",
+	},
+	mikoAttackDesc:
+		Spanish: ["Swing a gohei that creates a burst of Sakura blossoms.", "Increase attack area by [c_green]20%[/color].", "Increase damage by [c_green]30%[/color].", "Swing [c_green]twice[/color].", "Reduce time between attacks by [c_green]15%[/color].", "Increase size by [c_green]30%[/color].", "On hit, target takes [c_green]25%[/color] extra damage for [c_green]1[/color] second."],
+	},
+	HPName:
+		Spanish: "Max HP UP",
+	},
+	fl_concrete:
+		Spanish: ["Concrete Floor", ""],
+	},
+	fandomTexts:
+		Spanish: ["Fandom: ", "Bonuses: ", "Gaining EXP:\n[c_yellow]-Clear a Stage or reach 30 min in Endless:[/color]\n    [c_yellow]Normal: 7 EXP   [/color][c_white]New clear 14 EXP[/color]\n    [c_yellow]Hard: 10 EXP   [/color][c_white]New clear 20 EXP[/color]\n[c_yellow]-G.Rank Up: 2 EXP   [/color][c_white](Max 20 times)[/color]\n"],
+	},
+	couchPotatoDescription:
+		Spanish: "Completa un juego en Modo Escenario sin moverte en absoluto.",
+	},
+	achTexts:
+		Spanish: ["Desbloqueado: ", "Completado: "],
+	},
+	a_kroniiGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Ouro Kronii.",
+	},
+	},
+	f_GamerChairD:
+		Spanish: ["Gamer Chair (Green)", ""],
+	},
+	stickerActionDesc:
+		Spanish: ["Apply this Stamp to the weapon.", "Remove or swap this Stamp to the Found slot.", "Spend the found Stamp to level the selected Stamp up."],
+	},
+	soraSpecialAttackName:
+	},
+	BodyPillowDescription:
+	},
+	a_powerLevellingName:
+		Spanish: "Power Leveling",
+	},
+	a_baeGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Hakos Baelz.",
+	},
+	JingisukanName:
+		Spanish: "Jingisukan",
+	},
+	haatoAttackName:
+		Spanish: "Red Heart",
+	},
+	f_WoodenBarrel:
+		Spanish: ["Wooden Barrel", ""],
+	},
+	enhanceSuccess:
+		Spanish: "SUCCESS!!!",
+	},
+	SubmitScoreText:
+		Spanish: ["Overwrite Daily Score?", "This will [c_red]overwrite[/color] the [c_red]existing[/color] daily high score, continue?", "New All-Time Best!", "New Daily Best!", "Failed to post score", "Posting Score", "No network connection"],
+	},
+	d_lobsterdinner:
+		Spanish: ["Lobster Dinner", "Increase Haste by 15%."],
+	},
+	a_iofiClearName:
+		Spanish: "OBISA!",
+	},
+	LunarConstructionName:
+		Spanish: "Lunar Construction",
+	},
+	koroneAttackName:
+		Spanish: "Orayo!",
+	},
+	TrumpetStickerDescription:
+		Spanish: ["Weapon will sound like a trumpet. There is no other effect.", "Weapon will doot harder.", "It will be harmful if this doots any louder."],
+	},
+	DeezName:
+		Spanish: "Deez",
+	},
+	SlumberName:
+		Spanish: "Slumber",
+	},
+	calliAttackName:
+		Spanish: "Scythe Swing",
+	},
+	BlacksmithsGearName:
+		Spanish: "Blacksmith's Gear",
+	},
+	ProjUpDescription:
+		Spanish: ["Adds [c_green]1[/color] additional shot to ranged multi-shot weapons. Does not affect melee weapons.", "Adds [c_green]2[/color] additional shots to ranged multi-shot weapons. Does not affect melee weapons.", ""],
+	},
+	a_nomainDescription:
+		Spanish: "Completa un escenario con la arma principal en el nivel 1 solo.",
+	},
+	a_akiClearName:
+		Spanish: "Alona~!",
+	},
+	inaSpecialAttackDesc:
+	},
+	workerLevelText:
+		Spanish: "Manager LV: ",
+	},
+	f_mountedSword:
+		Spanish: ["Mounted Sword", ""],
+	},
+	CurseBallDescription:
+		Spanish: ["Play ball! The more you play, the longer it stays."],
+	},
+	awakenedTag:
+		Spanish: "AWAKENED",
+	},
+	a_soraGachikoiName:
+		Spanish: "True Soratomo",
+	},
+	a_guraClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Gawr Gura.",
+	},
+	mikoName:
+		Spanish: "SAKURA MIKO",
+	},
+	fl_tatami:
+		Spanish: ["Tatami Floor", ""],
+	},
+	zetaSpecialAttackName:
+		Spanish: "Stealth Mode",
+	},
+	aquaSpecialAttackDesc:
+		Spanish: "Invoca un Neko gigante que corre a través del campo en la dirección apuntada, causando un 400% de daño y empujando hacia atrás a los objetivos.",
+	},
+	a_lovenatureName:
+		Spanish: "Love Nature",
+	},
+	okayuAttackDesc:
+		Spanish: ["Throw an onigiri in an arc.", "Increase damage by [c_green]20%[/color].", "Throw [c_green]2[/color] onigiri.", "Increase attack area by [c_green]40%[/color].", "Throw [c_green]4[/color] onigiri.", "Speed of onigiri is increased by [c_green]20%[/color].", "Throw [c_green]6[/color] onigiri and slows down targets by [c_green]30%[/color] for 5 seconds."],
+	},
+	MariLamyName:
+		Spanish: "Frozen Sea",
+	},
+	},
+	f_glassTable:
+		Spanish: ["Glass Table", ""],
+	},
+	EliteLavaDescription:
+		Spanish: ["Deja caer lava en el suelo, quemando objetivos lentamente.", "Aumenta el área de lava en un [c_green]20%[/color].", "Lanza [c_green]2[/color] cubos de lava.", "Aumenta el daño en un [c_green]30%[/color] y aumenta la duración de la lava en [c_green]1[/color] segundo.", "Aumenta el daño en un [c_green]30%[/color].", "Lanza [c_green]3[/color] cubos de lava.", "Lanza [c_green]4[/color] cubos de lava y aumenta el tamaño de la lava en un [c_green]20%[/color]."],
+	},
+	stickerFinish:
+		Spanish: "Finish",
+	},
+	ColdStickerDescription:
+		Spanish: ["On hit, if the player does not get attacked by the target for 4 seconds, the target may become Frozen and take [c_green]50%[/color] cold damage for 3 seconds.", "On hit, if the player does not get attacked by the target for 4 seconds, the target may become Frozen and take [c_green]60%[/color] cold damage for 3 seconds.", "On hit, if the player does not get attacked by the target for 4 seconds, the target may become Frozen and take [c_green]70%[/color] cold damage for 3 seconds."],
+	},
+	a_reineGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Pavolia Reine.",
+	},
+	a_bullethellName:
+		Spanish: "Bullet Hell Pro",
+	},
+	haatoName:
+		Spanish: "AKAI HAATO",
+	},
+	f_WoodenColumn:
+		Spanish: ["Wooden Column", ""],
+	},
+	SuccubusHornName:
+		Spanish: "Nurse's Horn",
+	},
+	d_strangeseafoodsoup:
+		Spanish: ["Strange Seafood Soup", "Greatly increases the chance of Halu appearing."],
+	},
+	controllerButtons:
+		Spanish: ["Confirmar/Deshacer", "Deshacer (Alt)", "Cancelar/Especial", "Especial (Alt)", "Inicio", "Menú", "Confirmar"],
+	},
+	ShortHeightDescription:
+		Spanish: ["Grants a [c_green]15%[/color] chance to dodge an attack. After dodging, increase movement speed by [c_green]30%[/color] and stay invulnerable for 0.50 second.", "Grants a [c_green]25%[/color] chance to dodge an attack. After dodging, increase movement speed by [c_green]40%[/color] and stay invulnerable for 0.50 second.", "Grants a [c_green]35%[/color] chance to dodge an attack. After dodging, increase movement speed by [c_green]50%[/color] and stay invulnerable for 0.50 seconds."],
+	},
+	baeAttackName:
+		Spanish: "Play Dice",
+	},
+	anyaAttackDesc:
+		Spanish: ["Summons daggers that fly forward.", "Summons [c_green]1[/color] more Keris.", "Increase damage by [c_green]20%[/color].", "Reduce time between attacks by [c_green]15%[/color].", "Increase damage by [c_green]25%[/color]. Summons [c_green]1[/color] more Keris.", "Summons [c_green]1[/color] more Keris and increase the size of the Keris by [c_green]50%[/color].", "Summon a large Keris blade from under up to 4 targets within Anya's Pick Up Range."],
+	},
+	a_irysClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Irys.",
+	},
+	lvlHundredDescription:
+		Spanish: "Alcanza el nivel 100 en un juego.",
+	},
+	f_Bathstool:
+		Spanish: ["Bathstool", ""],
+	},
+	defeatedYagooDescription:
+		Spanish: "Sé derrotado por un Yagoo.",
+	},
+	TantrumName:
+		Spanish: "Tantrum",
+	},
+	calliSpecialAttackDesc:
+		Spanish: "Temporalmente, aumenta el daño de la guadaña en un 300% y aumenta el daño de todos los golpes críticos a un 300% durante 15 segundos.",
+	},
+	attack:
+		Spanish: "ATTACK",
+	},
+	a_notTakingAnyChancesName:
+		Spanish: "Not taking any chances",
+	},
+	PerfectionName:
+		Spanish: "Perfection",
+	},
+	a_ameGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Amelia Watson.",
+	},
+	workerStats:
+		Spanish: ["Status: ", "Level: ", "Stamina: ", "EXP: ", "HoloCoin Rate: ", "Gathered: ", "Total: ", "Feed: "],
+	},
+	f_paintingA:
+		Spanish: ["Painting A", ""],
+	},
+	a_subaruGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Oozora Subaru.",
+	},
+	a_haatoClearName:
+		Spanish: "Big Red Heart!",
+	},
+	MiKoroneName:
+		Spanish: "MiKorone",
+	},
+	i_corn:
+		Spanish: ["Corn", "Corn Seed"],
+	},
+	gameShowNamesWarning:
+		Spanish: "(There may be potential profanity or other offensive language found in other player names in the leaderboard.)",
+	},
+	farmSoils:
+		Spanish: ["[ "Standard Soil","Soil used for farming.","Standard" ]", "[ "Expedited Soil","Soil that increases growth rate by 40%.","Expedited" ]", "[ "Enhanced Soil","Soil that increases the crop yield.","Enhanced" ]"],
+	},
+	DataCollectionDescription:
+		Spanish: ["On critical hits, non-melee attacks have a [c_green]15%[/color] chance to hit 50% additional EXP out of non-boss targets.", "On critical hits, non-melee attacks have a [c_green]20%[/color] chance to hit 50% additional EXP out of non-boss targets.", "On critical hits, non-melee attacks have a [c_green]25%[/color] chance to hit 50% additional EXP out of non-boss targets."],
+	},
+	SakeName:
+		Spanish: "Sake",
+	},
+	RelentlessOptimismName:
+		Spanish: "Sunny Optimism",
+	},
+	a_matsuriGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Natsuiro Matsuri.",
+	},
+	okayuSpecialAttackName:
+		Spanish: "Mogu Mogu",
+	},
+	irysSpecialAttackDesc:
+		Spanish: "La esperanza desciende desde la parte superior de la pantalla y luego explota, causando un 250% de daño.",
+	},
+	GravityName:
+		Spanish: "Gravity",
+	},
+	FriendName:
+		Spanish: "Friend",
+	},
+	f_goldTrophy2:
+		Spanish: ["Golden Clown Fish Trophy", ""],
+	},
+	UndeadName:
+		Spanish: "Undead",
+	},
+	DemonWhisperDescription:
+	},
+	PiggyBankName2:
+		Spanish: "Retrieved Piggy Bank",
+	},
+	a_risuClearName:
+		Spanish: "Purupuru ganbari Risu~!",
+	},
+	a_calliClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Mori Calliope.",
+	},
+	kaelaName:
+		Spanish: "KAELA KOVALSKIA",
+	},
+	gachaDescription:
+		Spanish: "Obtén un personaje aleatorio. Al obtener un personaje duplicado, aumenta ese personaje",
+	},
+	f_woodendresserA:
+		Spanish: ["Wooden Dresser", ""],
+	},
+		Spanish: ["Unagi Don", "Increase Max HP by 20."],
+	},
+	baeSpecialAttackName:
+		Spanish: "Absolute Chaos",
+	},
+	a_justRNGName:
+		Spanish: "Just RNG",
+	},
+	GodDescription:
+		Spanish: ["If a target attacks Matsuri, there is a [c_green]25%[/color] chance that a massive beam from the heavens will strike that target dealing [c_green]200%[/color] damage.", "If a target attacks Matsuri, there is a [c_green]33%[/color] chance that a massive beam from the heavens will strike that target dealing [c_green]400%[/color] damage.", "If a target attacks Matsuri, there is a [c_green]50%[/color] chance that a massive beam from the heavens will strike that target dealing [c_green]600%[/color] damage."],
+	},
+	f_bookshelfA:
+		Spanish: ["Wooden Bookshelf", ""],
+	},
+	defeatSilverYagooName:
+		Spanish: "Free Stickers",
+	},
+	SnowQueenName:
+		Spanish: "Snow Queen",
+	},
+	CivilizationDescription:
+		Spanish: ["ATK increases by [c_green]1%[/color] for every target currently on the screen, up to [c_green]100%[/color]. In addition, gain a further 1% for every 100 targets ever defeated.", "ATK increases by [c_green]1.50%[/color] for every target currently on the screen, up to [c_green]120%[/color]. In addition, gain a further 1% for every 100 targets ever defeated.", "ATK increases by [c_green]2%[/color] for every target currently on the screen, up to [c_green]150%[/color]. In addition, gain a further 1% for every 100 targets ever defeated."],
+	},
+	BLBookName:
+		Spanish: "BL Book",
+	},
+	PerformanceName:
+		Spanish: "Performance",
+	},
+	a_okayuGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Nekomata Okayu.",
+	},
+	a_anyaGachikoiName:
+		Spanish: "True Melfriend",
+	},
+	FullMealName:
+		Spanish: "Full Meal",
+	},
+	f_plantpotB:
+		Spanish: ["Plant Pot B", ""],
+	},
+	},
+	BreastplateDescription:
+		Spanish: ["Reduce damage taken by 25% and SPD by [c_red]10%[/color]. When attacked, there is a [c_green]50%[/color] chance the attacker also takes [c_green]200%[/color] damage.", "Reduce damage taken by 25% and SPD by [c_red]10%[/color]. When attacked, there is a [c_green]60%[/color] chance the attacker also takes [c_green]250%[/color] damage.", "Reduce damage taken by 25% and SPD by [c_red]10%[/color]. When attacked, there is a [c_green]70%[/color] chance the attacker also takes [c_green]300%[/color] damage.", "Reduce damage taken by 30%. When attacked, there is a [c_green]75%[/color] chance the attacker and all targets within 60px take [c_green]300%[/color] damage."],
+	},
+	risuAttackName:
+		Spanish: "Nuts",
+	},
+	a_suiseiGachikoiName:
+		Spanish: "True Hoshiyomi",
+	},
+	a_hammertimeDescription:
+		Spanish: "Usa el Martillo de Oro.",
+	},
+	NinjutsuDescription:
+	},
+	KnockbackModDescription:
+		Spanish: "+Efecto de empuje",
+	},
+	i_koi:
+		Spanish: "Koi Fish",
+	},
+	gameUseOption:
+		Spanish: ["Consent", "Don't Consent"],
+	},
+	FlatBoardName:
+		Spanish: "Flattening Board",
+	},
+	faunaAttackName:
+		Spanish: "Nature Shield",
+	},
+	ChickensFeatherName:
+		Spanish: "Chicken's Feather",
+	},
+	SizeUpDescription:
+		Spanish: ["Increase attack size by [c_green]15%[/color].", "Increase attack size by [c_green]20%[/color].", "Increase attack size by [c_green]25%[/color]."],
+	},
+	sanaAttackName:
+		Spanish: "Orbit",
+	},
+	a_melGachikoiName:
+		Spanish: "True Kapumin",
+	},
+	ollieSpecialAttackName:
+		Spanish: "Charge Rifle",
+	},
+	matsuriAttackName:
+		Spanish: "Ebifrion",
+	},
+	FriendzoneDescription:
+		Spanish: ["[ "Gain a buff that increases SPD by [c_green]20%[/color]. On the next hit taken, consume the buff to dodge the attack and gain 100% SPD and 100% dodge for 3 seconds.","The buff returns after 12 seconds." ]", "[ "Gain a buff that increases SPD by [c_green]25%[/color]. On the next hit taken, consume the buff to dodge the attack and gain 100% SPD and 100% dodge for 3 seconds.","The buff returns after 12 seconds." ]", "[ "Gain a buff that increases SPD by [c_green]30%[/color]. On the next hit taken, consume the buff to dodge the attack and gain 100% SPD and 100% dodge for 3 seconds.","The buff returns after 12 seconds." ]"],
+	},
+	f_goldTrophy7:
+		Spanish: ["Golden Puffer Fish Trophy", ""],
+	},
+	TheAncientOneName:
+		Spanish: "The Ancient One",
+	},
+	AttentionPleaseName:
+		Spanish: "Attention Please",
+	},
+	PikiPikiPimanName:
+		Spanish: "Piki Piki Piman",
+	},
+	a_robocoGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Roboco-san.",
+	},
+	a_chocoClearName:
+		Spanish: "My Cute Students~",
+	},
+	LimiterName:
+		Spanish: "Limiter",
+	},
+	YubiYubiDescription:
+		Spanish: ["Every 12s, Korone brainwashes targets. Defeating brainwashed targets grants 1 [c_orange]Yubi[/color] (max 30). Each [c_orange]Yubi[/color] increases Haste by [c_green]0.5%[/color] for 7 seconds.", "Every 12s, Korone brainwashes targets. Defeating brainwashed targets grants 1 [c_orange]Yubi[/color] (max 30). Each [c_orange]Yubi[/color] increases Haste by [c_green]0.75%[/color] for 7 seconds.", "Every 12s, Korone brainwashes targets. Defeating brainwashed targets grants 1 [c_orange]Yubi[/color] (max 30). Each [c_orange]Yubi[/color] increases Haste by [c_green]1%[/color] for 7 seconds."],
+	},
+	VampireName:
+		Spanish: "Genius Vampire",
+	},
+	ErofiName:
+		Spanish: "Erofi",
+	},
+	a_kiara10Description:
+		Spanish: "Alcanza 10 minutos con Takanashi Kiara.",
+	},
+	NurseDescription:
+	},
+	kroniiName:
+		Spanish: "OURO KRONII",
+	},
+	WeakenStickerName:
+		Spanish: "Weaken Stamp",
+	},
+	f_coffin:
+		Spanish: ["Vampire Coffin", ""],
+	},
+	cropsSuccess:
+		Spanish: "PICKED!",
+	},
+	BLLoverDescription:
+		Spanish: ["Endless BL, how shameless!"],
+	},
+	a_ollieClearName:
+		Spanish: "ZOMBANWA!",
+	},
+	a_area15Description:
+		Spanish: "Derrota al jefe del Escenario 4.",
+	},
+	melAttackDesc:
+		Spanish: ["Bite targets in front", "Each bite can steal the life of the target, healing [c_green]5%[/color] HP.", "Increase size of bite by [c_green]15%[/color].", "Increase damage by [c_green]20%[/color].", "Reduce time between attacks by [c_green]15%[/color].", "Increase damage by [c_green]25%[/color].", "Take a [c_green]second[/color], larger bite."],
+	},
+	holoHouseText:
+		Spanish: "Rest at your customizable home! Hang out and play a variety of minigames and earn different rewards.",
+	},
+	f_shrineBox:
+		Spanish: ["Shrine Box", ""],
+	},
+	StudyGlassesDescription:
+		Spanish: ["Increase EXP gain by [c_green]10%[/color]. On every level up, increase Weapon damage by 0.3%.", "Increase EXP gain by [c_green]15%[/color]. On every level up, increase Weapon damage by 0.3%.", "Increase EXP gain by [c_green]20%[/color]. On every level up, increase Weapon damage by 0.3%.", "Increase EXP gain by [c_green]25%[/color]. On every level up, increase Weapon damage by 0.3%.", "Increase EXP gain by [c_green]30%[/color]. On every level up, increase Weapon damage by 0.3%.", "Increase EXP gain by [c_green]40%[/color] and [c_green]double[/color] the chance of getting a Rainbow EXP drop. On every level up, increase Weapon damage by 0.3%."],
+	},
+	BreatheInAsacocoDescription:
+		Spanish: ["Limited time only for 5000 yen!!!"],
+	},
+	AyameDefenseFieldName:
+		Spanish: "Ayame Defense Field",
+	},
+	a_trueRNGDescription:
+		Spanish: "Fallar mejoras 5 veces en una ejecución.",
+	},
+	PleaseDontFailName:
+		Spanish: "Please Don't Fail",
+	},
+	a_harvestName:
+		Spanish: "Harvest Time",
+	},
+	KnockbackStickerDescription:
+	},
+	i_potato:
+		Spanish: ["Potato", "Potato Seed"],
+	},
+	FleshWoundDescription:
+		Spanish: "Pierde después de 10 minutos en un juego.",
+	},
+	w_polkaA:
+		Spanish: ["Polka Dot Wall A", ""],
+	},
+	DeathName:
+		Spanish: "Death",
+	},
+	chocoAttackDesc:
+		Spanish: ["Thrust a giant needle in front.", "Increase damage by [c_green]20%[/color].", "Increase size of attack by [c_green]20%[/color].", "Stab [c_green]twice[/color] with needle.", "Reduce time between attacks by [c_green]15%[/color] and increase damage by [c_green]30%[/color].", "Stab [c_green]3[/color] times with needle and needle fires [c_green]25%[/color] farther.", "Targets hit by the tip of the needle take [c_green]1.5[/color] times damage, and Critical hits have a [c_green]20%[/color] chance to heal Choco for [c_green]5[/color] HP."],
+	},
+	a_millionaireDescription:
+		Spanish: "Logra una puntuación de 1 millón o más en una sola ejecución.",
+	},
+	f_KFPbucket:
+		Spanish: ["KFP Bucket", ""],
+	},
+	WindMagicName:
+		Spanish: "Wind Magic",
+	},
+	ReverseStickerName:
+		Spanish: "Reverse Stamp",
+	},
+	ameName:
+		Spanish: "AMELIA WATSON",
+	},
+	a_sanaClearName:
+		Spanish: "Sana Is Eternal!",
+	},
+	a_donttouchDescription:
+		Spanish: "No",
+	},
+	KanaCocoName:
+		Spanish: "Holy Fire",
+	},
+	gameAbilities:
+	},
+	DamageModDescription:
+		Spanish: "Daño +15%",
+	},
+	BuyingPowerDescription:
+		Spanish: "Completa un escenario mientras usas Super Chatto Time.",
+	},
+	a_kiaraGachikoiName:
+		Spanish: "True KFP",
+	},
+		Spanish: ["When receiving any healing, targets within [c_green]100[/color]px are also "healed", taking [c_green]125%[/color] + X% damage where X is 2 times the heal amount.", "When receiving any healing, targets within [c_green]125[/color]px are also "healed", taking [c_green]150%[/color] + X% damage where X is 2 times the heal amount.", "When receiving any healing, targets within [c_green]150[/color]px are also "healed", taking [c_green]175%[/color] + X% damage where X is 2 times the heal amount."],
+	},
+	f_displayCase:
+		Spanish: ["Display Case", ""],
+	},
+	SololiveName:
+		Spanish: "Sololive",
+	},
+	akiName:
+		Spanish: "AKI ROSENTHAL",
+	},
+	a_pacifistDescription:
+		Spanish: "Deja a un jefe vivo durante 5 minutos o más.",
+	},
+	OniLadyName:
+		Spanish: "Lady of Oni",
+	},
+	a_artblockName:
+		Spanish: "Art Block",
+	},
+	HolyMilkDescription:
+	},
+	f_taikodrum:
+		Spanish: ["Taiko Drum", ""],
+	},
+	EnergyDrinkDescription:
+		Spanish: ["Increase Haste by [c_green]10%[/color] and SPD by [c_green]40%[/color], but reduce Max HP by [c_red]20%[/color] as well.", "Increase Haste by [c_green]15%[/color] and SPD by [c_green]50%[/color], but reduce Max HP by [c_red]20%[/color] as well.", "Increase Haste by [c_green]20%[/color] and SPD by [c_green]60%[/color], but reduce Max HP by [c_red]20%[/color] as well.", "Increase Haste by [c_green]30%[/color] and SPD by [c_green]60%[/color]."],
+	},
+	CuttingBoardDescription:
+	},
+	SpeedRunnerName:
+		Spanish: "Speed Runner",
+	},
+	shirakenElfriendReset:
+[c_red]Continue?[/color]",
+[c_red]Continue?[/color]",
+[c_red]実行しますか？[/color]",
+[c_red]Lanjut?[/color]",
+	},
+	BrokenDreamsDescription:
+		Spanish: ["The dream is dead and there is no hope. Bubble Shield also slows targets."],
+	},
+	a_welltrainedName:
+		Spanish: "Well Trained",
+	},
+	a_howcouldyouDescription:
+		Spanish: "Retira a un trabajador.",
+	},
+	koboAttackName:
+		Spanish: "Umbrella",
+	},
+	i_shrimp:
+		Spanish: "Shrimp",
+	},
+	HeadphonesDescription:
+	},
+	w_striped:
+		Spanish: ["Striped Wall", ""],
+	},
+	ChocoCoronetName:
+		Spanish: "Choco Coronet",
+	},
+	a_mioGachikoiName:
+		Spanish: "True Miofa",
+	},
+	f_lantern:
+		Spanish: ["Small Lantern", ""],
+	},
+	enchantSuccess:
+		Spanish: "Enchantment complete!",
+	},
+	UnitStickerDescription:
+		Spanish: ["Decrease damage of the main weapon by [c_red]30%[/color], but increase the damage of all other weapons by [c_green]4%[/color].", "Decrease damage of the main weapon by [c_red]40%[/color], but increase the damage of all other weapons by [c_green]6%[/color].", "Decrease damage of the main weapon by [c_red]50%[/color], but increase the damage of all other weapons by [c_green]8%[/color]."],
+	},
+	TheRapperDescription:
+		Spanish: ["Targets within [c_green]100px[/color] take [c_green]10%[/color] extra damage.", "Targets within [c_green]125px[/color] take [c_green]15%[/color] extra damage.", "Targets within [c_green]150px[/color] take [c_green]20%[/color] extra damage and an additional 10% of being a critical hit."],
+	},
+	a_shion10Description:
+		Spanish: "Alcanza 10 minutos con Murasaki Shion.",
+	},
+	a_faunaClearName:
+		Spanish: "Uuuuuuuuuuuuuuuuuuuuuuuuuuuu",
+	},
+	fishOptions:
+		Spanish: ["Buy", "Sell", "Exchange", "Talk", "Quit"],
+	},
+	TooHaluDescription:
+		Spanish: "Sé derrotado mientras usas Halu.",
+	},
+	a_korone10Description:
+		Spanish: "Alcanza 10 minutos con Inugami Korone.",
+	},
+	moonaAttackName:
+		Spanish: "Crescent Moon",
+	},
+	FoxKingDescription:
+		Spanish: ["Increase SPD by [c_green]10%[/color]. While moving, ATK is increased by 10% for each bonus 10% SPD Fubuki currently has, up to [c_green]100%[/color].", "Increase SPD by [c_green]15%[/color]. While moving, ATK is increased by 10% for each bonus 10% SPD Fubuki currently has, up to [c_green]125%[/color].", "Increase SPD by [c_green]20%[/color]. While moving, ATK is increased by 10% for each bonus 10% SPD Fubuki currently has, up to [c_green]150%[/color]."],
+	},
+	f_fireplace:
+		Spanish: ["Stone Fireplace", ""],
+	},
+	TearsHappinessDescription:
+		Spanish: "Derrota al jefe del Escenario 2.",
+	},
+	StellarName:
+		Spanish: "Stellar",
+	},
+	CandyName:
+		Spanish: "Candy Kingdom Sweets",
+	},
+	bloopDialogue:
+		Spanish: ["[ "Bloop","Welcome to my fish shop! I'm Bloop, and I trade in fishing goods~ See that pond in front of me? That's where you can fish up all kinds of sea life. If you trade me some of the fish, I'll pay you some sand in return." ]", "[ "Bloop","You already have a fishing rod, so you can start immediately. But your starting fishing rod isn't very good, so you won't be able to catch every kind of fish just yet. Worry not! I have a bunch of better rods that I can sell to you." ]", "[ "Bloop","What? You think I'll just give it to you for free?" ]", "[ "Bloop","Anyways, the more fish you catch in a row, the harder it'll be to catch them. But if you can do it, you'll get more bonus fish the more you catch. ISN' THAT GREAT!?" ]", "[ "Bloop","And if you're super DUPER lucky, you may even catch some.... SHINY fish!!!! Get me some of those, and I'll pay you lots for your troubles...." ]", "[ "Bloop","If you find yourself having TOO MUCH sand, I can trade them back for some HoloCoins. But why would you not want sand?" ]", "[ "Bloop","Well what are you waiting for? Get fishing already!!!" ]", "[ "Bloop","Wait, me? No you can't fish ME!!!" ]"],
+	},
+	AlienBrainwashingDescription:
+		Spanish: ["[ "Every 15 seconds, release a brainwashing wave that deals [c_green]200%[/color] damage and pacifies targets (max [c_green]10[/color]) for 3 seconds. Gain 1% crit for each target","brainwashed for 15 seconds." ]", "[ "Every 15 seconds, release a brainwashing wave that deals [c_green]300%[/color] damage and pacifies targets (max [c_green]15[/color]) for 3 seconds. Gain 1% crit for each target","brainwashed for 15 seconds." ]", "[ "Every 15 seconds, release a brainwashing wave that deals [c_green]400%[/color] damage and pacifies targets (max [c_green]20[/color]) for 3 seconds. Gain 1% crit for each target","brainwashed for 15 seconds." ]"],
+	},
+	a_partTimeJobName:
+		Spanish: "Part Time Job",
+	},
+	a_azkiClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con AZki.",
+	},
+	mumeiSpecialAttackDesc:
+	},
+	melName:
+		Spanish: "YOZORA MEL",
+	},
+	f_VRSet:
+		Spanish: ["VR Set", ""],
+	},
+	DLCName:
+		Spanish: "DLC",
+	},
+	subaruAttackDesc:
+		Spanish: ["Throws a very fast baseball in front.", "Increase damage by [c_green]20%[/color].", "Reduce time between attacks by [c_green]30%[/color].", "[c_green]Double[/color] the speed of the baseball and gain small [c_yellow]Knockback[/color] effect.", "Reduce time between attacks by [c_green]50%[/color].", "Increase hitlimit by [c_green]3[/color] and increase damage by [c_green]20%[/color].", "When Baseball is initially thrown, gain bonus damage of [c_green]100%[/color], but this bonus reduces over time."],
+	},
+	},
+	azkiSpecialAttackDesc:
+		Spanish: "Brilla un círculo de luces brillantes del escenario, dañando a todos los objetivos cercanos durante 6 segundos.",
+	},
+	a_zetaGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Vestia Zeta.",
+	},
+	},
+	mioSpecialAttackDesc:
+		Spanish: "Invoca a Hatotaurus durante 6 segundos que golpea continuamente hacia adelante. Durante este tiempo, Mio recibe un 30% menos de daño.",
+	},
+	koboSpecialAttackName:
+		Spanish: "UnDeRWaTeR",
+	},
+	i_turtle:
+		Spanish: "Turtle",
+	},
+	chocoSpecialAttackName:
+		Spanish: "S. Dynamite Body",
+	},
+	AstrologyName:
+		Spanish: "Astrology",
+	},
+	a_mumeiClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Nanashi Mumei.",
+	},
+	fubukiSpecialAttackDesc:
+		Spanish: "Invoca muchas katanas, girando alrededor durante 5 segundos. Durante este tiempo, Fubuki esquiva todos los ataques.",
+	},
+	f_Marble_Desk:
+		Spanish: ["Marble Desk", ""],
+	},
+	EncoreDescription:
+		Spanish: ["Every 7 seconds, create a burst of song dealing [c_green]100%[/color] damage. For every target defeated in the last 7 seconds, +10% song damage.", "Every 7 seconds, create a burst of song dealing [c_green]200%[/color] damage. For every target defeated in the last 7 seconds, +10% song damage.", "Every 7 seconds, create a burst of song dealing [c_green]300%[/color] damage. For every target defeated in the last 7 seconds, +10% song damage."],
+	},
+	DevilHatDescription:
+		Spanish: ["Attacks deal [c_green]1.2[/color] times damage if the target is farther than 130px away from the player. If less than 130px away, damage is reduced by [c_red]10%[/color].", "Attacks deal [c_green]1.4[/color] times damage if the target is farther than 130px away from the player. If less than 130px away, damage is reduced by [c_red]10%[/color].", "Attacks deal [c_green]1.6[/color] times damage if the target is farther than 130px away from the player. If less than 130px away, damage is reduced by [c_red]10%[/color]."],
+	},
+		Spanish: ["[ "Targets within [c_green]75px[/color] moves slower by [c_green]10%[/color] and takes [c_green]50%[/color] damage every second. If the target has less than 20% HP, there is a 20% chance to be converted","into a Harmless Takodachi." ]", "[ "Targets within [c_green]100px[/color] moves slower by [c_green]15%[/color] and takes [c_green]75%[/color] damage every second. If the target has less than 20% HP, there is a 20% chance to be converted","into a Harmless Takodachi." ]", "[ "Targets within [c_green]125px[/color] moves slower by [c_green]20%[/color] and takes [c_green]100%[/color] damage every second. If the target has less than 20% HP, there is a 20% chance to be converted","into a Harmless Takodachi." ]"],
+	},
+	CEOTearsDescription:
+	},
+	BounceBallName:
+		Spanish: "Bounce Ball",
+	},
+	a_shionGachikoiName:
+		Spanish: "True Shiokko",
+	},
+	a_fubukiClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Shirakami Fubuki.",
+	},
+	LivingWeaponName:
+		Spanish: "Living Weapon",
+	},
+	fandomBonuses:
+		Spanish: ["None", "1 random Skill gained at start of game\n[c_green]HP +5\nATK +5%\nSPD +5%[/color]", "3 random Skills gained at start of game\n[c_green]HP +10\nATK +10%\nSPD +10%[/color]", "All Skills maxed at start of game\n[c_green]HP +20\nATK +25%\nSPD +25%\nCRIT +5%[/color]"],
+	},
+	PowerOfAtlantisDescription:
+		Spanish: ["Every 10 seconds, create a whirlpool that draws in targets and takes [c_green]15%[/color] more damage, lasting 6 seconds and deals [c_green]30%[/color] damage every 0.5 seconds.", "Every 10 seconds, create a whirlpool that draws in targets and takes [c_green]30%[/color] more damage, lasting 6 seconds and deals [c_green]40%[/color] damage every 0.5 seconds.", "Every 10 seconds, create a whirlpool that draws in targets and takes [c_green]45%[/color] more damage, lasting 6 seconds and deals [c_green]50%[/color] damage every 0.5 seconds."],
+	},
+	a_koroneGachikoiName:
+		Spanish: "True Koronesuki",
+	},
+	iofiAttackDesc:
+		Spanish: ["Swings a giant paintbrush in front.", "Increase damage by [c_green]20%[/color].", "Swings the Paint Brush a [c_green]second[/color] time.", "Increase attack size by [c_green]20%[/color].", "Swings the Paint Brush [c_green]3[/color] times.", "Increase attack size by [c_green]25%[/color].", "Covers targets with paint, increasing Critical Hit chance by [c_green]15%[/color]. Target may also leave paint on the ground which deals 50% weapon damage."],
+	},
+	HiLevelDescription:
+		Spanish: ["Roboco gains [c_green]1%[/color] ATK for each level Roboco has, and [c_green]3%[/color] Crit for every 10 levels.", "Roboco gains [c_green]1.1%[/color] ATK for each level Roboco has, and [c_green]4%[/color] Crit for every 10 levels.", "Roboco gains [c_green]1.2%[/color] ATK for each level Roboco has, and [c_green]5%[/color] Crit for every 10 levels."],
+	},
+	GorillasPawName:
+		Spanish: "Gorilla's Paw",
+	},
+	FPSMasteryName:
+		Spanish: "FPS Mastery",
+	},
+	f_GamerChairA:
+		Spanish: ["Gamer Chair (Red)", ""],
+	},
+	DeliciousCookingName:
+		Spanish: "Chocotto Cooking",
+	},
+	soraAttackName:
+		Spanish: "Bright Star",
+	},
+	allAchievementDescription:
+		Spanish: "Completa todos los logros. Luego sal a fuera.",
+	},
+	a_plentyoffishDescription:
+		Spanish: "Pesca al menos uno de cada tipo de pez.",
+	},
+	a_bae10Name:
+		Spanish: "That's not Dollrys",
+	},
+	MuscleDescription:
+		Spanish: "Recibe un total de más de 500 puntos de daño en un juego.",
+	},
+	MembershipDescription:
+		Spanish: ["Lose [c_red]3[/color] HoloCoin every second. If HoloCoins is more than 0, increase ATK by [c_green]30%[/color] and take [c_green]10%[/color] less damage.", "Lose [c_red]3[/color] HoloCoin every second. If HoloCoins is more than 0, increase ATK by [c_green]40%[/color] and take [c_green]18%[/color] less damage.", "Lose [c_red]3[/color] HoloCoin every second. If HoloCoins is more than 0, increase ATK by [c_green]50%[/color] and take [c_green]25%[/color] less damage."],
+	},
+	JingisukanDescription:
+	},
+	f_Wooden_DiningTable:
+		Spanish: ["Wooden Dining Table", ""],
+	},
+	dontNeedDescription:
+		Spanish: "Completa un juego en Modo Escenario sin usar Especial después de desbloquearlo.",
+	},
+	d_burgermeal:
+		Spanish: ["Burger Meal", "Burgers drop twice as often."],
+	},
+	shopItemButtons:
+		Spanish: ["Buy", "Refund", "Tears Menu"],
+	},
+	BabyLanguageDescription:
+		Spanish: ["Attacks have a [c_green]10%[/color] chance to create a [c_pink]Nyeh[/color], dealing [c_green]50%[/color] damage and confuses targets, reducing their ATK and SPD by 30% for 3 seconds.", "Attacks have a [c_green]15%[/color] chance to create a [c_pink]Nyeh[/color], dealing [c_green]75%[/color] damage and confuses targets, reducing their ATK and SPD by 30% for 3 seconds.", "Attacks have a [c_green]20%[/color] chance to create a [c_pink]Nyeh[/color], dealing [c_green]100%[/color] damage and confuses targets, reducing their ATK and SPD by 30% for 3 seconds."],
+	},
+	robocoName:
+		Spanish: "ROBOCO-SAN",
+	},
+	AbsoluteWallDescription:
+		Spanish: ["Summon forth the Great Wall of Hololive. Has a small chance to protect from projectiles."],
+	},
+	a_inaGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Ninomae Inanis.",
+	},
+	InugamiEnduranceName:
+		Spanish: "Endurance",
+	},
+	WamyWaterName:
+		Spanish: "Wamy Water",
+	},
+	CritModDescription:
+		Spanish: "Daño crítico +10%",
+	},
+	ATKDescription:
+		Spanish: "Aumenta todo el poder de ataque en un 8%.",
+	},
+	a_muscleName:
+		Spanish: "Muscle",
+	},
+	LegendarySausageDescription:
+		Spanish: ["A continously spinning sausage. Spins faster as you move."],
+	},
+	inaAttackName:
+		Spanish: "Summon Tentacle",
+	},
+	workerEnterName:
+		Spanish: "Worker Name: ",
+	},
+	f_Marble_Table:
+		Spanish: ["Marble Table", ""],
+	},
+	ENCurseName:
+		Spanish: "EN's Curse",
+	},
+	ThousandMileStareDescription:
+		Spanish: "Derrota al jefe del Escenario 1 Difícil.",
+	},
+	SPDName:
+		Spanish: "SPD UP",
+	},
+	SharkBiteDescription:
+		Spanish: ["Attacks have a [c_green]10%[/color] chance to place 1 [c_blue]Bite Mark[/color] (max 5), where targets take [c_green]6%[/color] more damage, and have a 20% chance to heal you 1% when defeated.", "Attacks have a [c_green]15%[/color] chance to place 1 [c_blue]Bite Mark[/color] (max 5), where targets take [c_green]9%[/color] more damage, and have a 20% chance to heal you 1% when defeated.", "Attacks have a [c_green]20%[/color] chance to place 1 [c_blue]Bite Mark[/color] (max 5), where targets take [c_green]12%[/color] more damage, and have a 20% chance to heal you 1% when defeated."],
+	},
+	a_soraClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Tokino Sora.",
+	},
+	a_fullCollabName:
+		Spanish: "Full Collab",
+	},
+	newItems:
+		Spanish: "New furniture items have arrived!",
+	},
+	kiaraAttackDesc:
+	},
+	fl_pinkCarpet:
+		Spanish: ["Pink Carpet Floor", ""],
+	},
+	zetaAttackName:
+		Spanish: "Silencer Pistol",
+	},
+	VirtualDivaName:
+		Spanish: "Virtual Diva",
+	},
+	SuperChattoTimeDescription:
+		Spanish: ["Targets drop [c_green]20%[/color] more HoloCoins. All HoloCoins are picked automatically.", "Targets drop [c_green]40%[/color] more HoloCoins. All HoloCoins are picked automatically.", "Targets drop [c_green]60%[/color] more HoloCoins. All HoloCoins are picked automatically.", "Targets drop [c_green]80%[/color] more HoloCoins. All HoloCoins are picked automatically.", "Targets drop [c_green]100%[/color] more HoloCoins. All HoloCoins are picked automatically.", "Targets drop [c_green]150%[/color] more HoloCoins. All HoloCoins are picked automatically. For every 10 times HoloCoins are picked, permanently gain 1% ATK."],
+	},
+	couchPotatoName:
+		Spanish: "Couch Potato",
+	},
+	CheekyBratName:
+		Spanish: "Cheeky Brat",
+	},
+		Spanish: ["Increase Pick Up Range by [c_green]20%[/color]. Targets within Aqua's Pick Up Range takes [c_green]10%[/color] more crit damage.", "Increase Pick Up Range by [c_green]40%[/color]. Targets within Aqua's Pick Up Range takes [c_green]20%[/color] more crit damage.", "Increase Pick Up Range by [c_green]60%[/color]. Targets within Aqua's Pick Up Range takes [c_green]30%[/color] more crit damage."],
+	},
+	PraiseDescription:
+		Spanish: ["[ "For every 1 HP healed or every second of not taking damage, Kobo gains [c_holoblue]Praise[/color]. When [c_holoblue]Praise[/color] is maxed, Kobo gains [c_green]30%[/color] ATK for 10 seconds and","[c_holoblue]Praise[/color] resets to 0. Kobo loses half [c_holoblue]Praise[/color] when taking damage." ]", "[ "For every 1 HP healed or every second of not taking damage, Kobo gains [c_holoblue]Praise[/color]. When [c_holoblue]Praise[/color] is maxed, Kobo gains [c_green]40%[/color] ATK for 10 seconds and","[c_holoblue]Praise[/color] resets to 0. Kobo loses half [c_holoblue]Praise[/color] when taking damage." ]", "[ "For every 1 HP healed or every second of not taking damage, Kobo gains [c_holoblue]Praise[/color]. When [c_holoblue]Praise[/color] is maxed, Kobo gains [c_green]50%[/color] ATK for 10 seconds and","[c_holoblue]Praise[/color] resets to 0. Kobo loses half [c_holoblue]Praise[/color] when taking damage." ]"],
+	},
+	a_lookImOnTVDescription:
+		Spanish: "Ver la TV durante 10 segundos.",
+	},
+	MoonSongDescription:
+		Spanish: ["Every 10 seconds, Moona sings to create a [c_green]small[/color] moving orb of music that draws targets in, slowly dealing [c_green]100%[/color] damage per half second.", "Every 10 seconds, Moona sings to create a [c_green]medium[/color] moving orb of music that draws targets in, slowly dealing [c_green]125%[/color] damage per half second.", "Every 10 seconds, Moona sings to create a [c_green]large[/color] moving orb of music that draws targets in, slowly dealing [c_green]150%[/color] damage per half second."],
+	},
+	iofiSpecialAttackName:
+		Spanish: "Draw!",
+	},
+	hiscoreButtons:
+		Spanish: ["", "Seleccionar tabla", "[ "TODOS LOS TIEMPOS","DIARIO" ]", "Siguiente", "Anterior", "Mi puntuación", "Salir"],
+	},
+	f_GamerChairF:
+		Spanish: ["Gamer Chair (Purple)", ""],
+	},
+	EliteCookingName:
+		Spanish: "Elite Cooking",
+	},
+	DelusionalDescription:
+		Spanish: "Derrota a al menos 5000 objetivos en un escenario.",
+	},
+	},
+	a_barebonesDescription:
+		Spanish: "Completa un escenario sin items.",
+	},
+	InjectionAsacocoName:
+		Spanish: "Injection Type Asacoco",
+	},
+	HopeSodaName:
+		Spanish: "Hope Soda",
+	},
+	firstBossDescription:
+		Spanish: "Derrota al jefe del Escenario 1.",
+	},
+	yagoostatueName:
+		Spanish: "Hai...",
+	},
+	f_woodenBedB:
+		Spanish: ["Wooden Bed (Red)", ""],
+	},
+	useFood:
+		Spanish: "Use Food",
+	},
+	d_pokebowl:
+		Spanish: ["Poke Bowl", "Increase Pick Up Range by 40%."],
+	},
+	SeisoRepDescription:
+		Spanish: ["[ "Every 12 seconds, gain [c_yellow]Seiso[/color]. Negate the next hit and become [c_yellow]Unseiso[/color] for 5 seconds. While Unseiso, closeby targets take [c_green]200%[/color] damage and stunned for"," 0.5 seconds." ]", "[ "Every 12 seconds, gain [c_yellow]Seiso[/color]. Negate the next hit and become [c_yellow]Unseiso[/color] for 5 seconds. While Unseiso, closeby targets take [c_green]250%[/color] damage and stunned for"," 0.5 seconds." ]", "[ "Every 12 seconds, gain [c_yellow]Seiso[/color]. Negate the next hit and become [c_yellow]Unseiso[/color] for 5 seconds. While Unseiso, closeby targets take [c_green]300%[/color] damage and stunned for"," 0.5 seconds." ]"],
+	},
+	RoboDischargeName:
+		Spanish: "Robo-Discharge",
+	},
+	anvilUpgrade:
+		Spanish: ["Upgrade", "Enchant"],
+	},
+	recruitStats:
+		Spanish: ["Name: ", "Fandom: ", "Efficiency: ", "Stamina: ", "Max Level: ", "EXP Rate: "],
+	},
+	a_iofiGachikoiName:
+		Spanish: "True Ioforia",
+	},
+	nousagiADialogue:
+		Spanish: ["[ "Usaken Nousagi","Sorry pal, this road is closed for now. The Usada Casino is still under construction and it probably won't be done for some more months. Why don'tcha come back another time." ]"],
+	},
+	koroneSpecialAttackDesc:
+		Spanish: "Crea olas de Yubis gigantes explotando. Los objetivos derrotados pierden sus Yubis.",
+	},
+	CritUpDescription:
+		Spanish: ["Increase the chance of critical hits caused by this weapon by [c_green]10%[/color].", "Increase the chance of critical hits caused by this weapon by [c_green]20%[/color].", "Increase the chance of critical hits caused by this weapon by [c_green]30%[/color]."],
+	},
+	calliName:
+		Spanish: "MORI CALLIOPE",
+	},
+	ATKUPDescription:
+		Spanish: ["Increase damage of weapon by [c_green]15%[/color] and crit damage by [c_green]5%[/color].", "Increase damage of weapon by [c_green]20%[/color] and crit damage by [c_green]10%[/color].", "Increase damage of weapon by [c_green]25%[/color] and crit damage by [c_green]15%[/color]."],
+	},
+	a_nothoughtsDescription:
+		Spanish: "Completa un escenario solo eligiendo la primera opción sin reintentos.",
+	},
+	a_akiGachikoiName:
+		Spanish: "True Rosetai",
+	},
+	GuardianTreeDescription:
+		Spanish: ["When healing, a branch will grow under a random nearby target dealing [c_green]200%[/color] damage.", "When healing, a branch will grow under a random nearby target dealing [c_green]250%[/color] damage.", "When healing, a branch will grow under a random nearby target dealing [c_green]300%[/color] damage."],
+	},
+	FuburaComingName:
+		Spanish: "Fubura is coming",
+	},
+	workerOptions:
+		Spanish: ["Status", "Feed", "Change Name", "Retire"],
+	},
+	f_nightstandA:
+		Spanish: ["Wooden Nightstand", ""],
+	},
+	CursedDescription:
+		Spanish: "Derrota al jefe del Escenario 3.",
+	},
+	RapDogDescription:
+		Spanish: ["Drop some HOT BEATS where targets hit take 20% more damage."],
+	},
+	a_stealfishName:
+		Spanish: "Thanks for the Fish",
+	},
+	a_guraGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Gawr Gura.",
+	},
+	kiaraSpecialAttackDesc:
+	},
+	i_axolotl:
+		Spanish: "Axolotl",
+	},
+	hasteDescription:
+	},
+	gameResume:
+		Spanish: "Continuar",
+	},
+	fl_wooden:
+		Spanish: ["Wooden Floor A", ""],
+	},
+	farmingConfirm:
+		Spanish: ["Planting the following:", "and"],
+	},
+	SimpOfAllTimeName:
+		Spanish: "Simp Of All Time",
+	},
+	a_luckyDayName:
+		Spanish: "Lucky Day",
+	},
+	okayuName:
+		Spanish: "NEKOMATA OKAYU",
+	},
+	irysAttackDesc:
+		Spanish: ["Shoots dual light and dark blast.", "Increase damage by [c_green]20%[/color].", "Increase attack area by [c_green]50%[/color]. Each blast can pierce [c_green]+3[/color] times.", "Reduce the time between attacks by [c_green]25%[/color].", "Can [c_yellow]pierce[/color] through targets.", "Increase damage by [c_green]33%[/color].", "Blast becomes a short beam that hits many times."],
+	},
+	graphicOptions:
+	},
+	f_goldTrophy10:
+	},
+	EliteName:
+		Spanish: "Elite",
+	},
+	BombStickerDescription:
+		Spanish: ["Attacks have a [c_green]10%[/color] chance to cause an explosion that hits nearby targets for 30% of the weapon's damage.", "Attacks have a [c_green]20%[/color] chance to cause an explosion that hits nearby targets for 30% of the weapon's damage.", "Attacks have a [c_green]30%[/color] chance to cause an explosion that hits nearby targets for 30% of the weapon's damage."],
+	},
+	a_rhythmmasterDescription:
+		Spanish: "Obtén 50 combos en el minijuego de pesca.",
+	},
+	a_burgerName:
+		Spanish: "Hamburger Country Yeah!",
+	},
+	NakiriumDescription:
+		Spanish: ["Increase SPD by [c_green]2%[/color] (max [c_green]40%[/color]) for every target within 120px. If a target is defeated within 120px, they drop [c_green]10%[/color] bonus EXP.", "Increase SPD by [c_green]3%[/color] (max [c_green]60%[/color]) for every target within 120px. If a target is defeated within 120px, they drop [c_green]15%[/color] bonus EXP.", "Increase SPD by [c_green]4%[/color] (max [c_green]80%[/color]) for every target within 120px. If a target is defeated within 120px, they drop [c_green]20%[/color] bonus EXP."],
+	},
+	haatoSpecialAttackName:
+		Spanish: "Change of Heart",
+	},
+	f_woodenDesk:
+		Spanish: ["Wooden Desk", ""],
+	},
+	d_tempura:
+		Spanish: ["Tempura", "Increase ATK by 30%."],
+	},
+	anyaName:
+		Spanish: "ANYA MELFISSA",
+	},
+	AcerolaJuiceDescription:
+		Spanish: ["When eating food, Mel drinks Acerola Juice, gaining [c_green]30%[/color] ATK and SPD for 5 seconds. The next [c_green]4[/color] weapon attacks will have [c_yellow]Life-steal[/color].", "When eating food, Mel drinks Acerola Juice, gaining [c_green]40%[/color] ATK and SPD for 5 seconds. The next [c_green]6[/color] weapon attacks will have [c_yellow]Life-steal[/color].", "When eating food, Mel drinks Acerola Juice, gaining [c_green]50%[/color] ATK and SPD for 5 seconds. The next [c_green]8[/color] weapon attacks will have [c_yellow]Life-steal[/color]."],
+	},
+	a_irysGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para IRyS.",
+	},
+		Spanish: ["Throw glowstick in all directions that explode into song!"],
+	},
+	f_beanbag:
+		Spanish: ["Bean Bag", ""],
+	},
+	defeatGoldenYagooDescription:
+		Spanish: "Derrota a un Yagoo dorado.",
+	},
+	SnowQueenDescription:
+		Spanish: ["Freeze everything around, dealing constant damage. Also increases Crit chance by 20%."],
+	},
+	a_obliteratedName:
+		Spanish: "Obliterated",
+	},
+	a_anyaClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Anya Melfissa.",
+	},
+	levelFoodOption:
+		Spanish: ["Hamburger", "Recover [c_green]20%[/color] HP."],
+	},
+	workerWarning:
+		Spanish: "Warning: You will not be able to get this worker back!",
+	},
+	f_paintingC:
+		Spanish: ["Painting C", ""],
+	},
+	RingOfFitnessDescription:
+		Spanish: ["Continously throw a ring of fitness balls. Hope nobody walks in."],
+	},
+	a_suiseiClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Hoshimachi Suisei.",
+	},
+	a_haatoGachikoiName:
+		Spanish: "True Haaton",
+	},
+	NinjaHeadbandName:
+		Spanish: "Ninja Headband",
+	},
+	mikoSpecialAttackName:
+		Spanish: "Demon Lord's Domain",
+	},
+	KlutzName:
+		Spanish: "Klutz",
+	},
+	i_garlic:
+		Spanish: ["Garlic", "Garlic Seed"],
+	},
+	HasteUpDescription:
+		Spanish: ["Reduce the time between attacks by [c_green]15%[/color].", "Reduce the time between attacks by [c_green]20%[/color].", "Reduce the time between attacks by [c_green]25%[/color]."],
+	},
+	gameStamps:
+		Spanish: "Stamps",
+	},
+	superTag:
+		Spanish: "Super ",
+	},
+	a_melClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Yozora Mel.",
+	},
+	ollieAttackName:
+		Spanish: "Path of Sincerity",
+	},
+	MaterialGrindName:
+		Spanish: "Material Grind",
+	},
+	f_goldTrophy4:
+		Spanish: ["Golden Koi Fish Trophy", ""],
+	},
+	stockTooltip:
+		Spanish: "this is a placeholder",
+	},
+	BoneBrosDescription:
+		Spanish: ["Don't bite the hand that feeds you if it's holding a knife."],
+	},
+	a_risuGachikoiName:
+		Spanish: "True Risuner",
+	},
+	a_calliGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Mori Calliope.",
+	},
+	kaelaSpecialAttackDesc:
+	},
+	HalfAngelDescription:
+		Spanish: ["When landing a critical hit on a target, there is a [c_green]10%[/color] chance to heal [c_green]1[/color] HP. There is a 0.3 second cooldown between each heal.", "When landing a critical hit on a target, there is a [c_green]15%[/color] chance to heal [c_green]2[/color] HP. There is a 0.3 second cooldown between each heal.", "When landing a critical hit on a target, there is a [c_green]20%[/color] chance to heal [c_green]3[/color] HP. There is a 0.3 second cooldown between each heal."],
+	},
+	f_woodenPC:
+		Spanish: ["Wooden PC", ""],
+	},
+	SuicopathName:
+		Spanish: "Suicopath",
+	},
+	d_vegetarianburger:
+		Spanish: ["Vegetarian Burger and Fries", "Automatically Heal 50% HP if Hp drops below 25% up to 10 times."],
+	},
+	a_kaelaClearName:
+		Spanish: "Otsulemao~",
+	},
+	KroniicopterDescription:
+		Spanish: ["Increase SPD and Haste by [c_green]10%[/color]. If Clock Hands lands a critical hit, gain another [c_green]10%[/color] to SPD and Haste for 5 seconds.", "Increase SPD and Haste by [c_green]15%[/color]. If Clock Hands lands a critical hit, gain another [c_green]15%[/color] to SPD and Haste for 5 seconds.", "Increase SPD and Haste by [c_green]20%[/color]. If Clock Hands lands a critical hit, gain another [c_green]20%[/color] to SPD and Haste for 5 seconds."],
+	},
+	},
+	f_BoxB:
+		Spanish: ["Cardboard Box B", ""],
+	},
+	tutText:
+		Spanish: ["Run", "Strafe"],
+	},
+	defeatYagooName:
+		Spanish: "I'm CEO now",
+	},
+	cropsHarvested:
+		Spanish: "Total Harvest:  ",
+	},
+	SnowSakeDescription:
+		Spanish: ["Throw a bottle that shatters into a Snowflake. Has a 30% chance to cause [c_blue]Frozen[/color]."],
+	},
+	PsychoAxeDescription:
+		Spanish: ["Lanza un hacha que gira en espiral alejándose del jugador.", "Aumenta el tamaño del hacha en [c_green]20%[/color]. Aumenta el daño en [c_green]20%[/color].", "Reduce el tiempo entre ataques en [c_green]20%[/color].", "Aumenta el daño en [c_green]33%[/color] y el tamaño en [c_green]20%[/color].", "Elimina el límite de golpes y dura [c_green]1[/color] segundo más.", "Aumenta el tamaño del ataque en [c_green]50%[/color].", "Aumenta el daño en [c_green]50%[/color]."],
+	},
+	a_ollie10Description:
+		Spanish: "Alcanza 10 minutos con Kureji Ollie.",
+	},
+	a_aquaClearName:
+		Spanish: "KonAqua!",
+	},
+	guraAttackName:
+	},
+	f_redBed:
+		Spanish: ["Red Bed", ""],
+	},
+	TimeBubbleName:
+		Spanish: "Time Bubble",
+	},
+	shionAttackDesc:
+		Spanish: ["Fires a quick magic bolt in front.", "Shoot [c_green]2[/color] magic blasts.", "Increase hit limit by [c_green]3[/color].", "Increase damage and speed by [c_green]20%[/color].", "Reduce time between attacks by [c_green]20%[/color].", "Shoot [c_green]3[/color] magic blasts.", "When hitting a target, there is a [c_green]30%[/color] chance to shoot [c_green]additional[/color] homing magic missiles to the target."],
+	},
+	RatNGName:
+		Spanish: "RatNG",
+	},
+	a_tankclassName:
+		Spanish: "Tank class",
+	},
+	a_hardcoreGamerDescription:
+		Spanish: "Completa un escenario en Modo Hardcore.",
+	},
+	i_mantaray:
+		Spanish: "Manta Ray",
+	},
+	faunaName:
+		Spanish: "CERES FAUNA",
+	},
+	w_flat:
+		Spanish: ["Flat Wall", ""],
+	},
+	stageNames:
+		Spanish: ["Grassy Plains", "Holo Office", "Grassy Plains (NOCHE)", "Halloween Castle", "Holo Office (TARDE)", "Main Entrance", "Gelora Bung Yagoo", "Halloween Castle (MYTH)"],
+	},
+	a_mikoClearName:
+		Spanish: "Nyahello!",
+	},
+	matsuriSpecialAttackDesc:
+	},
+	HistoryName:
+		Spanish: "Bloodthirsty",
+	},
+	f_goldTrophy9:
+		Spanish: ["Golden Turtle Trophy", ""],
+	},
+	emptySticker:
+		Spanish: "Place a sticker in an empty slot to power up your weapon!",
+	},
+	ameAttackDesc:
+	},
+	a_sana10Description:
+		Spanish: "Alcanza 10 minutos con Tsukumo Sana.",
+	},
+	a_chocoGachikoiName:
+		Spanish: "True Chocomate",
+	},
+	KanaCocoDescription:
+	},
+	HalfDemonDescription:
+		Spanish: ["Increase damage by [c_green]3%[/color], up to [c_green]30%[/color], for 5 seconds every time Irys heals. Each heal resets the timer.", "Increase damage by [c_green]5%[/color], up to [c_green]50%[/color], for 5 seconds every time Irys heals. Each heal resets the timer.", "Increase damage by [c_green]7.00%[/color], up to [c_green]70.00%[/color], for 5 seconds every time Irys heals. Each heal resets the timer."],
+	},
+	fishingFailed:
+		Spanish: "The fish escaped.",
+	},
+	FaceMaskDescription:
+	},
+	DownUnderDescription:
+	},
+	suiseiAttackName:
+		Spanish: "Axe Swing",
+	},
+	cookOptions:
+		Spanish: ["Cook", "Help", "Quit"],
+	},
+	achievementButtons:
+		Spanish: ["Logros", "Fandoms", "Salir", "????"],
+	},
+	a_kiaraClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Takanashi Kiara.",
+	},
+	kroniiSpecialAttackName:
+		Spanish: "Ruler of Time",
+	},
+		Spanish: "Desbloquea todos los personajes.",
+	},
+	f_couchA:
+		Spanish: ["Simple Couch", ""],
+	},
+	a_ollieGachikoiName:
+		Spanish: "True Zomrade",
+	},
+	a_areYouEvenThereDescription:
+		Spanish: "¿Estás ahí?",
+	},
+	HoloLaserDescription:
+		Spanish: ["Shoot a powerful laser beam from the microphone. Horizontal Only.", "Increase size by [c_green]30%[/color].", "Reduce attack cooldown by [c_green]0.5[/color] second.", "Increase damage by [c_green]50%[/color].", "Reduce attack cooldown by [c_green]0.5[/color] second.", "Increase beam size by [c_green]50%[/color].", "Fire an additional beam behind."],
+	},
+	guraSpecialAttackDesc:
+		Spanish: "Invoca un tiburón que causa un 500% de daño a todos los objetivos alrededor. Gura se vuelve roja, aumentando ATK en un 50% y SPD en un 25% durante 15 segundos.",
+	},
+	f_sinkcounterA:
+		Spanish: ["Marble Sink ", ""],
+	},
+	EnemyThenName:
+		Spanish: "You're The Enemy, Then",
+	},
+	CuteLaughDescription:
+		Spanish: ["The closer a target is within 150px, the more damage they receive, up to [c_green]50%[/color].", "The closer a target is within 150px, the more damage they receive, up to [c_green]100%[/color].", "The closer a target is within 150px, the more damage they receive, up to [c_green]150%.[/color]."],
+	},
+	shionSpecialAttackName:
+		Spanish: "KusogaKick ",
+	},
+	risuSpecialAttackName:
+		Spanish: "Big Nuts",
+	},
+	ayameName:
+		Spanish: "NAKIRI AYAME",
+	},
+	a_welcomehomeDescription:
+		Spanish: "Ve a la Holo House.",
+	},
+	a_heyheyName:
+		Spanish: "Hey Hey",
+	},
+	i_radish:
+		Spanish: ["Radish", "Radish Seed"],
+	},
+	w_polkaC:
+		Spanish: ["Polka Dot Wall C", ""],
+	},
+	TrailblazerDescription:
+		Spanish: ["Increase SPD by [c_green]10%[/color]. Leave a burning fire underneath Kiara whenever she moves that deals [c_green]30%[/color] damage per hit. Lasts 5 seconds.", "Increase SPD by [c_green]15%[/color]. Leave a burning fire underneath Kiara whenever she moves that deals [c_green]50%[/color] damage per hit. Lasts 5 seconds.", "[ "Increase SPD by [c_green]20%[/color]. Leave a burning fire underneath Kiara whenever she moves that deals [c_green]75%[/color] damage per hit. Lasts 5 seconds. Also slows","targets for 3 seconds." ]"],
+	},
+	CreditCardName:
+		Spanish: "Credit Card",
+	},
+	sanaSpecialAttackName:
+		Spanish: "Become Beeg",
+	},
+	AromatherapyName:
+		Spanish: "Aromatherapy",
+	},
+	a_mioClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Ookami Mio.",
+	},
+	ImDieDescription:
+		Spanish: ["Throw a Bomb that attaches to a target. When target is defeated, the bomb explodes."],
+	},
+	f_kitchencounterB:
+		Spanish: ["Marble Counter ", ""],
+	},
+	DetectiveEyeName:
+		Spanish: "Detective Eye",
+	},
+	ameSpecialAttackName:
+		Spanish: "Slow Time",
+	},
+	a_sanaGachikoiName:
+		Spanish: "True Sanallite",
+	},
+	a_employeeDescription:
+		Spanish: "Sube de nivel a un trabajador hasta su nivel máximo.",
+	},
+	nemuDialogue2:
+	},
+	fishingSuccess:
+		Spanish: "CAUGHT!",
+	},
+	YummyName:
+		Spanish: "Yummy",
+	},
+	suiseiSpecialAttackName:
+		Spanish: "Summon Blocks",
+	},
+	DamagePlusModDescription:
+		Spanish: "Daño +25%",
+	},
+	a_koboClearName:
+		Spanish: "I am under the water",
+	},
+	LabCoatDescription:
+		Spanish: ["Gain 1% EXP per 2 seconds. When HP is full, the EXP rate slowly increases to [c_green]2%[/color] and is reset to 1% when taking damage.", "Gain 1% EXP per 2 seconds. When HP is full, the EXP rate slowly increases to [c_green]3%[/color] and is reset to 1% when taking damage.", "Gain 1% EXP per 2 seconds. When HP is full, the EXP rate slowly increases to [c_green]4%[/color] and is reset to 1% when taking damage."],
+	},
+	},
+	},
+	EldritchHorrorDescription:
+		Spanish: ["Summons unknown horrors. May [c_yellow]Life-steal[/color] up to 5% HP from targets defeated in whirlpool."],
+	},
+	PurityAndInsanityDescription:
+		Spanish: ["[ "In Haato form, heal [c_green]3[/color] HP every 2 seconds. In Haachama form, [c_yellow]Red Heart[/color] can poison targets around, dealing [c_green]30%[/color] damage per second. Targets","can gain up to 5 stacks of poison." ]", "[ "In Haato form, heal [c_green]5[/color] HP every 2 seconds. In Haachama form, [c_yellow]Red Heart[/color] can poison targets around, dealing [c_green]40%[/color] damage per second. Targets","can gain up to 5 stacks of poison." ]", "[ "In Haato form, heal [c_green]7[/color] HP every 2 seconds. In Haachama form, [c_yellow]Red Heart[/color] can poison targets around, dealing [c_green]50%[/color] damage per second. Targets","can gain up to 5 stacks of poison." ]"],
+	},
+	akiSpecialAttackName:
+		Spanish: "Shallys",
+	},
+	a_painPekoDescription:
+		Spanish: "Suelta un objeto super.",
+	},
+	PhoenixShieldDescription:
+		Spanish: ["Every 10 seconds gain [c_green]1[/color] stack of Phoenix Shield. The next damage taken is halved and become invulnerable for 0.25 seconds.", "Every 10 seconds gain [c_green]2[/color] stacks of Phoenix Shield. The next two hits taken is halved and become invulnerable for 0.25 seconds.", "Every 10 seconds gain [c_green]3[/color] stacks of Phoenix Shield. The next three hits taken is halved and become invulnerable for 0.25 seconds."],
+	},
+	a_ayameClearName:
+		Spanish: "Yodayo!",
+	},
+	MelMelCookingDescription:
+		Spanish: ["[ "Every 15 seconds, scatter [c_green]3[/color] Mel Mel Cooking. Closeby targets will slowly move towards the cooking to eat it, which deals slow damage.","Mel can also eat her own cooking to heal for [c_green]4[/color] HP." ]", "[ "Every 15 seconds, scatter [c_green]4[/color] Mel Mel Cooking. Closeby targets will slowly move towards the cooking to eat it, which deals slow damage.","Mel can also eat her own cooking to heal for [c_green]6[/color] HP." ]", "[ "Every 15 seconds, scatter [c_green]5[/color] Mel Mel Cooking. Closeby targets will slowly move towards the cooking to eat it, which deals slow damage.","Mel can also eat her own cooking to heal for [c_green]8[/color] HP." ]"],
+	},
+	GWSPillDescription:
+		Spanish: ["While the Special meter is still charging, increase crit by [c_green]15%[/color].", "While the Special meter is still charging, increase crit by [c_green]20%[/color].", "While the Special meter is still charging, increase crit by [c_green]25%[/color]."],
+	},
+	f_TreasureChestA:
+		Spanish: ["Treasure Chest", ""],
+	},
+	StunStickerName:
+		Spanish: "Pacifist Stamp",
+	},
+	ComputationName:
+		Spanish: "Battery Charged",
+	},
+	SecretAgentDescription:
+		Spanish: ["[ "Gain a buff that allows Zeta to dodge the next hit (20s cooldown). On dodge, Zeta turns invisible for 4 seconds. All damage dealt is increased by [c_green]30%[/color]","any time Zeta is invisible." ]", "[ "Gain a buff that allows Zeta to dodge the next hit (20s cooldown). On dodge, Zeta turns invisible for 4 seconds. All damage dealt is increased by [c_green]50%[/color]","any time Zeta is invisible." ]", "[ "Gain a buff that allows Zeta to dodge the next hit (20s cooldown). On dodge, Zeta turns invisible for 4 seconds. All damage dealt is increased by [c_green]70%[/color]","any time Zeta is invisible." ]"],
+	},
+	azkiAttackDesc:
+		Spanish: ["Send a flying musical note in front.", "Increase damage by [c_green]20%[/color].", "Reduce time between attacks by [c_green]15%[/color].", "Increase attack area by [c_green]20%[/color].", "Increase damage by [c_green]25%[/color] and speed by [c_green]25%[/color].", "Reduce time between attacks by [c_green]25%[/color].", "When hitting a target, there is a [c_green]30%[/color] chance that the music note sends [c_green]2[/color] more notes that deal [c_green]75%[/color] damage."],
+	},
+	a_zeta10Name:
+		Spanish: "A Little Trollin",
+	},
+	a_huhDescription:
+		Spanish: "¿Eh?",
+	},
+	NonstopNutsDescription:
+	},
+	mioAttackName:
+		Spanish: "Tarot Cards",
+	},
+	koboName:
+		Spanish: "KOBO KANAERU",
+	},
+	i_strawberry:
+		Spanish: ["Strawberry", "Strawberry Seed"],
+	},
+	generalClearDescription:
+		Spanish: "Completa tu primer juego.",
+	},
+	StarHalberdName:
+		Spanish: "Crescent Bardiche",
+	},
+	SaplingDescription:
+		Spanish: ["[ "Defeated targets have a [c_green]5%[/color] chance to drop saplings. A sapling heals 3% and increase Fauna's ATK and SPD by [c_green]30%[/color] for 15 seconds.","After 10 seconds, uncollected saplings will move towards Fauna." ]", "[ "Defeated targets have a [c_green]7%[/color] chance to drop saplings. A sapling heals 3% and increase Fauna's ATK and SPD by [c_green]50%[/color] for 15 seconds.","After 10 seconds, uncollected saplings will move towards Fauna." ]", "[ "Defeated targets have a [c_green]10%[/color] chance to drop saplings. A sapling heals 3% and increase Fauna's ATK and SPD by [c_green]70%[/color] for 15 seconds.","After 10 seconds, uncollected saplings will move towards Fauna." ]"],
+	},
+	a_moonaClearName:
+		Spanish: "Moon Moon~ Moonafic Dayo!",
+	},
+	fubukiAttackDesc:
+		Spanish: ["Swipes Tail in front at close range.", "Increase damage by [c_green]20%[/color].", "Increase attack area by [c_green]20%[/color].", "Swing tail in [c_green]front[/color] and [c_green]back[/color].", "Reduce time between attacks by [c_green]15%[/color].", "Increase attack area by [c_green]20%[/color].", "If Fox tail hits a target, there is a [c_green]20%[/color] chance to summon a [c_yellow]Fubuki Sword[/color] that deals [c_green]100%[/color] damage."],
+	},
+	f_Marble_Bed:
+		Spanish: ["Marble Bed", ""],
+	},
+	a_shionClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Murasaki Shion.",
+	},
+	a_faunaGachikoiName:
+		Spanish: "True Sapling",
+	},
+	gameFinalizeOption:
+		Spanish: ["Start!", "Restart"],
+	},
+	DragonBeamDescription:
+		Spanish: ["The power of a once LEGENDARY Dragon. The OG."],
+	},
+	CopyStickerName:
+		Spanish: "Marking Stamp",
+	},
+	RulerOfSpaceDescription:
+		Spanish: ["Area and all attacks damage increase by [c_green]10%[/color]. All attack damage is also increased by area increasing effects.", "Area and all attacks damage increase by [c_green]20%[/color]. All attack damage is also increased by area increasing effects.", "Area and all attacks damage increase by [c_green]30%[/color]. All attack damage is also increased by area increasing effects."],
+	},
+	reineAttackDesc:
+		Spanish: ["Shoots a spread of feathers in front and back.", "Shoots [c_green]1[/color] more feather.", "Increase damage by [c_green]20%[/color].", "Reduce time between attacks by [c_green]15%[/color].", "Shoots [c_green]1[/color] more feather.", "Shoots [c_green]1[/color] more feather and flies out farther.", "Shoot spreads of feathers all around."],
+	},
+	a_koroneClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Inugami Korone.",
+	},
+	moonaName:
+		Spanish: "MOONA HOSHINOVA",
+	},
+	ManagersDescription:
+		Spanish: "Derrota al jefe del Escenario 2 Difícil.",
+	},
+	LadyOfPeafowlDescription:
+		Spanish: ["[ "When picking up HoloCoins, gain 1 [c_blue]Royal Tea[/color], increasing Crit Damage by 1% (max [c_green]30%[/color]) for 30 seconds. The duration recovers [c_green]1[/color] seconds each","time Reine picks up more HoloCoins." ]", "[ "When picking up HoloCoins, gain 1 [c_blue]Royal Tea[/color], increasing Crit Damage by 1% (max [c_green]50%[/color]) for 30 seconds. The duration recovers [c_green]2[/color] seconds each","time Reine picks up more HoloCoins." ]", "[ "When picking up HoloCoins, gain 1 [c_blue]Royal Tea[/color], increasing Crit Damage by 1% (max [c_green]70%[/color]) for 30 seconds. The duration recovers [c_green]3[/color] seconds each","time Reine picks up more HoloCoins." ]"],
+	},
+		Spanish: ["[ "Put on a Special Live! Reduce Special cooldown by [c_green]30%[/color]. Whenever activating the Special, increase all","stats by 50% for 10 seconds (can only activate once per 30 seconds)." ]"],
+	},
+	GOOptions:
+		Spanish: ["Reintentar", "Selección de personaje", "Menú principal", "Enviar puntuación"],
+	},
+	f_foxBurger:
+		Spanish: ["Fox Burger Chair", ""],
+	},
+	UberSheepDescription:
+	},
+	bloopShop:
+		Spanish: "Bloop's Fish Shop",
+	},
+	a_payToWinName:
+		Spanish: "Pay To Win",
+	},
+	a_azkiGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para AZki.",
+	},
+	melSpecialAttackName:
+		Spanish: "Banpire",
+	},
+	XPotatoName:
+		Spanish: "X-Potato",
+	},
+	f_WashingMachine:
+		Spanish: ["Washing Machine", ""],
+	},
+	subaruName:
+		Spanish: "OOZORA SUBARU",
+	},
+	shopCategories:
+		Spanish: ["Mejoras", "Mejoras de Stats", "Otros"],
+	},
+	BubbaDescription:
+		Spanish: ["Obtén un perro que ataca objetivos aleatorios, infligiendo [c_green]100%[/color] de tu daño base por golpe.", "Obtén ub perro que ataca objetivos aleatorios, infligiendo [c_green]200%[/color] de tu daño base por golpe.", "Obtén un perro que ataca objetivos aleatorios, infligiendo [c_green]300%[/color] de tu daño base por golpe y aturde a los objetivos durante 2 segundos al golpear."],
+	},
+	a_ina10Name:
+		Spanish: "Sorry",
+	},
+	FocusShadesName:
+		Spanish: "Focus Shades",
+	},
+	WamyDescription:
+		Spanish: "Completa cualquier escenario mientras usas Sake.",
+	},
+	BlackMagicDescription:
+		Spanish: ["[ "Every 8 seconds, create a warp zone on the ground (max 2) that releases a blast dealing [c_green]200%[/color] damage. If there are 2 warp zones, Shion can enter and","teleport through the portals." ]", "[ "Every 8 seconds, create a warp zone on the ground (max 2) that releases a blast dealing [c_green]300%[/color] damage. If there are 2 warp zones, Shion can enter and","teleport through the portals." ]", "[ "Every 8 seconds, create a warp zone on the ground (max 2) that releases a blast dealing [c_green]400%[/color] damage. If there are 2 warp zones, Shion can enter and","teleport through the portals." ]"],
+	},
+	SausageDescription:
+		Spanish: ["If there are targets nearby, swings a small sausage towards the closest target.", "Increase damage by [c_green]20%[/color].", "Adds a small [c_yellow]knockback[/color] on hit.", "Reduce the time between attacks by [c_green]20%[/color].", "Increase attack area by and damage by [c_green]30%[/color].", "Reduce the time between attacks by [c_green]20%[/color].", "Sausage swing becomes a [c_green]2-hit combo[/color]."],
+	},
+	renameText:
+		Spanish: "Change Your Username:",
+	},
+	ProjectileModDescription:
+		Spanish: "+1 proyectil",
+	},
+	a_mumeiGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Nanashi Mumei.",
+	},
+	f_Marble_LaptopDesk:
+		Spanish: ["Marble Laptop Desk", ""],
+	},
+	WorkaholicName:
+		Spanish: "Workaholic",
+	},
+	a_skillissueName:
+		Spanish: "Skill Issue",
+	},
+	a_fubukiGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Shirakami Fubuki.",
+	},
+	fl_blueCarpet:
+		Spanish: ["Blue Carpet Floor", ""],
+	},
+	fandomNames:
+		Spanish: ["Newcomer", "Fan", "Oshi", "Gachikoi"],
+	},
+	SensitiveVoiceName:
+		Spanish: "Sensitive Voice",
+	},
+	aquaAttackName:
+		Spanish: "Cleaning Broom",
+	},
+	reineSpecialAttackName:
+		Spanish: "5x Tonjok",
+	},
+	a_kroniiClearName:
+		Spanish: "GWAK!",
+	},
+	moonaSpecialAttackName:
+		Spanish: "Moon Goddess",
+	},
+	iofiName:
+		Spanish: "AIRANI IOFIFTEEN",
+	},
+	f_GamerChairC:
+		Spanish: ["Gamer Chair (Yellow)", ""],
+	},
+	soraSpecialAttackDesc:
+	},
+	a_powerLevellingDescription:
+	},
+	a_baeClearName:
+		Spanish: "Boom Boom Boom!",
+	},
+	LightBeamName:
+		Spanish: "Light Beam",
+	},
+	HopeName:
+		Spanish: "Hope",
+	},
+	haatoAttackDesc:
+		Spanish: ["Create big red hearts. In Haato form, hearts knock enemies back. In Haachama form, damage is increased by 50%.", "Increase damage by [c_green]20%[/color].", "Increase size of hearts and spin radius by [c_green]10%[/color].", "Add an [c_green]additional[/color] heart.", "Hearts last [c_green]0.33[/color] second longer.", "Increase damage by [c_green]25%[/color].", "Hearts spiral out at the end. In Haato form, Hearts apply [c_green]-30%[/color] DEF debuff. In Haachama form, apply [c_green]-30%[/color] ATK debuff."],
+	},
+	f_Wooden_TallCabinet:
+		Spanish: ["Wooden Tall Cabinet", ""],
+	},
+	dontNeedName:
+		Spanish: "I don't need it",
+	},
+	d_fruitsandwich:
+		Spanish: ["Fruit Sandwich", "Targets drop 30% more HoloCoins."],
+	},
+	shopItemTexts:
+	},
+	robocoSpecialAttackName:
+		Spanish: "Hi-Spec Mode",
+	},
+	PoltatoPCName:
+		Spanish: "Poltato PC",
+	},
+	AbsoluteWallName:
+		Spanish: "Absolute Wall",
+	},
+	a_iofiClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Airani Iofifteen.",
+	},
+	LunarConstructionDescription:
+		Spanish: ["[ "Targets may drop Lunar Blocks. At 5 Blocks, Moona creates a Lunar Rabbit, which explodes on nearby targets dealing [c_green]300%[/color] damage. If Lunar Rabbit"," defeats a target, gain Special Meter." ]", "[ "Targets may drop Lunar Blocks. At 5 Blocks, Moona creates a Lunar Rabbit, which explodes on nearby targets dealing [c_green]400%[/color] damage. If Lunar Rabbit"," defeats a target, gain Special Meter." ]", "[ "Targets may drop Lunar Blocks. At 5 Blocks, Moona creates a Lunar Rabbit, which explodes on nearby targets dealing [c_green]500%[/color] damage. If Lunar Rabbit"," defeats a target, gain Special Meter." ]"],
+	},
+	koroneAttackDesc:
+	},
+	DeezDescription:
+		Spanish: ["Inflicts [c_yellow]Internal[/color] damage. Risu's Main Weapon has a [c_green]10%[/color] chance to inflict damage equal to 25% of a non-boss target's HP.", "Inflicts [c_yellow]Internal[/color] damage. Risu's Main Weapon has a [c_green]15%[/color] chance to inflict damage equal to 25% of a non-boss target's HP.", "Inflicts [c_yellow]Internal[/color] damage. Risu's Main Weapon has a [c_green]20%[/color] chance to inflict damage equal to 25% of a non-boss target's HP."],
+	},
+	SlumberDescription:
+		Spanish: ["[ "When not moving for over 1 second, reduce all targets' SPD by 75%. Then, every 2 seconds Anya heals [c_green]9%[/color] HP and gain up to 10 stacks of [c_orange]Resting[/color],","which reduces damage taken by 5% but also reduces all damage dealt by [c_red]7%[/color] each. After waking up, Anya can not sleep again for 2 seconds." ]", "[ "When not moving for over 1 second, reduce all targets' SPD by 75%. Then, every 2 seconds Anya heals [c_green]12%[/color] HP and gain up to 10 stacks of [c_orange]Resting[/color],","which reduces damage taken by 5% but also reduces all damage dealt by [c_red]7%[/color] each. After waking up, Anya can not sleep again for 2 seconds." ]", "[ "When not moving for over 1 second, reduce all targets' SPD by 75%. Then, every 2 seconds Anya heals [c_green]15%[/color] HP and gain up to 10 stacks of [c_orange]Resting[/color],","which reduces damage taken by 5% but also reduces all damage dealt by [c_red]7%[/color] each. After waking up, Anya can not sleep again for 2 seconds." ]"],
+	},
+	calliAttackDesc:
+		Spanish: ["Swings in a half circle arc in front.", "Increase damage by [c_green]20%[/color].", "Increase attack area by [c_green]15%[/color].", "Increase damage by [c_green]30%[/color].", "Reduce the time between attacks by [c_green]10%[/color].", "Increase attack area by [c_green]10%[/color].", "Increase damage by [c_green]40%[/color]. Has a 10% chance to instant KO."],
+	},
+	BlacksmithsGearDescription:
+		Spanish: ["Normal anvils can be used twice. Only applies to anvils since taking this item.", "Normal anvils can be used twice. Weapon enhancements increase damage by [c_green]2.5[/color] instead of 2 per level.", "Normal anvils can be used twice. Weapon enhancements increase damage by [c_green]3[/color] instead of 2 per level."],
+	},
+	a_MythOrTreatName:
+		Spanish: "All Outta Candy",
+	},
+	a_akiClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Aki Rosenthal.",
+	},
+	inaName:
+		Spanish: "NINOMAE INANIS",
+	},
+	workerLeveled:
+		Spanish: "Worker Leveled up!",
+	},
+	f_Microwave:
+		Spanish: ["Microwave", ""],
+	},
+	a_soraGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Tokino Sora.",
+	},
+	a_fullyLoadedName:
+		Spanish: "Fully Loaded",
+	},
+	kiaraName:
+		Spanish: "TAKANASHI KIARA",
+	},
+	fl_stoneFloor:
+		Spanish: ["Stone Floor", ""],
+	},
+	zetaSpecialAttackDesc:
+		Spanish: "Se vuelve invisible durante 8 segundos. Mientras está invisible, Zeta no recibe daño y todos los objetivos dejan de moverse hacia Zeta.",
+	},
+	farmConfirm:
+		Spanish: ["Confirm", "Cancel"],
+	},
+	BeetleName:
+		Spanish: "Beetle",
+	},
+	SafeISwearName:
+		Spanish: "It's Safe I Swear",
+	},
+	aquaName:
+		Spanish: "MINATO AQUA",
+	},
+	a_lovenatureDescription:
+		Spanish: "Cosecha al menos uno de cada tipo de cultivo.",
+	},
+	MoonSongName:
+		Spanish: "Moon Song",
+	},
+	MariLamyDescription:
+		Spanish: ["Endless waves of ice that slows targets."],
+	},
+	},
+	f_GamerChairH:
+		Spanish: ["Gamer Chair (White)", ""],
+	},
+	tenThousandDamageName:
+		Spanish: "Over Nine Thousand?!",
+	},
+	boingName:
+		Spanish: "Boing",
+	},
+	RainbowStickerName:
+		Spanish: "RGB Stamp",
+	},
+	pickupRangeName:
+		Spanish: "Pick Up Range UP",
+	},
+	a_reineClearName:
+		Spanish: "Attention Please!",
+	},
+	a_bullethellDescription:
+		Spanish: "Completa un escenario difícil sin recibir daño de proyectiles.",
+	},
+	LightnessStickerName:
+		Spanish: "Lightness Stamp",
+	},
+	yesno:
+		Spanish: ["Si", "No"],
+	},
+	f_woodenBedD:
+		Spanish: ["Wooden Bed (Yellow)", ""],
+	},
+	timestageNames:
+		Spanish: ["Concert Stage"],
+	},
+	SuccubusHornDescription:
+	},
+	d_spicyudon:
+		Spanish: ["Spicy Seafood Udon", "When taking damage, increase Special meter."],
+	},
+	baeAttackDesc:
+		Spanish: ["Throw out a die. The number on the die determines the damage.", "Increase damage by [c_green]30%[/color].", "Throw [c_green]2[/color] dice.", "Dice shoots out farther, and increase area of attack by [c_green]30%[/color].", "Adds small [c_yellow]knockback[/color] on hit.", "Increase damage by [c_green]30%[/color].", "Throw [c_green]3[/color] dice."],
+	},
+	PolyglotName:
+		Spanish: "Polyglot",
+	},
+	a_irys10Name:
+		Spanish: "VSinger",
+	},
+	nousagiCDialogue:
+		Spanish: ["[ "Usaken Nousagi","Save us.... She's working us to death...." ]"],
+	},
+	lvlFiftyName:
+		Spanish: "Decked Out",
+	},
+	f_baegemite:
+		Spanish: ["Baegemite", ""],
+	},
+	TantrumDescription:
+		Spanish: ["[ "When attacked, gain 1 Tantrum (max 10), and Kobo has a chance to heal 10% HP while creating an extremely loud cry that deals [c_green]400%[/color] damage to all","targets. Each Tantrum stack increases the chance by 5%. Consume all stacks if effect is triggered." ]", "[ "When attacked, gain 1 Tantrum (max 10), and Kobo has a chance to heal 10% HP while creating an extremely loud cry that deals [c_green]500%[/color] damage to all","targets. Each Tantrum stack increases the chance by 5%. Consume all stacks if effect is triggered." ]", "[ "When attacked, gain 1 Tantrum (max 10), and Kobo has a chance to heal 10% HP while creating an extremely loud cry that deals [c_green]600%[/color] damage to all","targets. Each Tantrum stack increases the chance by 5%. Consume all stacks if effect is triggered." ]"],
+	},
+	a_notTakingAnyChancesDescription:
+	},
+	PerfectionDescription:
+		Spanish: ["If HP is full, increase ATK, SPD, Pick Up Range by [c_green]20%[/color]. Also increase Haste and Crit by [c_green]10%[/color].", "If HP is full, increase ATK, SPD, Pick Up Range by [c_green]33%[/color]. Also increase Haste and Crit by [c_green]15%[/color].", "If HP is full, increase ATK, SPD, Pick Up Range by [c_green]50%[/color]. Also increase Haste and Crit by [c_green]20%[/color]. If HP is not full, heal HP by 5% every 3 seconds."],
+	},
+	a_ameClearName:
+		Spanish: "*HIC*",
+	},
+	GlowstickDescription:
+		Spanish: ["Lanza un Glowstick a un objetivo cercano y luego gira de regreso al jugador.", "Aumenta el daño en un [c_green]20%[/color].", "Aumenta el límite de golpes en [c_green]10[/color] y lanza [c_green]1[/color] Glowstick adicional", "Aumenta el tamaño del Glowstick en un [c_green]25%[/color].", "Lanza [c_green]1[/color] Glowstick adicional.", "Aumenta el daño en un [c_green]33%[/color].", "Lanza [c_green]1[/color] Glowstick adicional."],
+	},
+	fullCollabName:
+		Spanish: "Full Collab",
+	},
+	f_OfficeChair:
+		Spanish: ["Office Chair", ""],
+	},
+	RapDogName:
+		Spanish: "Rap Dog",
+	},
+	a_subaruClearName:
+		Spanish: "Ajimaru Ajimaru!",
+	},
+	a_haatoClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Akai Haato.",
+	},
+	i_clownfish:
+		Spanish: "Clownfish",
+	},
+	hasteName:
+		Spanish: "Haste UP",
+	},
+	gameShowNames:
+		Spanish: "Display other player names in leaderboard?",
+	},
+	farmOptions:
+		Spanish: ["Plant Seed", "Remove Plant", "Quit", "Water", "Harvest"],
+	},
+	CRaticalHitName:
+		Spanish: "CRATitcal Hit",
+	},
+	CheerleaderName:
+		Spanish: "Cheerleader",
+	},
+	SakeDescription:
+	},
+	RelentlessOptimismDescription:
+		Spanish: ["[ "Haste [c_green]+5%[/color]. When taking damage, there is a [c_green]20%[/color] chance to gain 1 [c_cyan]Optimism[/color] (max 10). If HP reaches 0, gain 2% HP and 0.5 seconds of Invincibility for","each stack of Optimism." ]", "[ "Haste [c_green]+10%[/color]. When taking damage, there is a [c_green]25%[/color] chance to gain 1 [c_cyan]Optimism[/color] (max 10). If HP reaches 0, gain 2% HP and 0.5 seconds of Invincibility for","each stack of Optimism." ]", "[ "Haste [c_green]+15%[/color]. When taking damage, there is a [c_green]30%[/color] chance to gain 1 [c_cyan]Optimism[/color] (max 10). If HP reaches 0, gain 2% HP and 0.5 seconds of Invincibility for","each stack of Optimism." ]"],
+	},
+	preIntroText:
+		Spanish: ["This is a nonprofit unofficial fan game of Hololive Productions talents.\n\nAll characters and other intellectual properties found in this game belong to Cover Corp.\n\nThe in-game characters are not intended to be wholly accurate representations of the VTubers.\n\nPlease support the official rights holders, and all the wonderful talents of Hololive.\n\nThank you for playing!", "\n\nGame may contain fast moving images and flashing bright lights.\n\nPlease be advised. "],
+	},
+	a_matsuriClearName:
+		Spanish: "Wasshoi! Wasshoi!",
+	},
+	okayuSpecialAttackDesc:
+	},
+	MasterOfBlocksName:
+		Spanish: "Blocks Master",
+	},
+	irysName:
+		Spanish: "IRYS",
+	},
+	GravityDescription:
+		Spanish: ["Every 5 seconds, create a gravitational blast that deals [c_green]125%[/color] damage. Damage is also increased by area increasing effects.", "Every 5 seconds, create a gravitational blast that deals [c_green]150%[/color] damage. Damage is also increased by area increasing effects.", "Every 5 seconds, create a gravitational blast that deals [c_green]200%[/color] damage. Damage is also increased by area increasing effects."],
+	},
+	FriendDescription:
+		Spanish: ["Summon Friend that uses Bird Feather at [c_green]50%[/color] Power.", "Summon Friend that uses Bird Feather as well as [c_green]1[/color] other random weapon at [c_green]65%[/color] Power.", "Summon Friend that uses Bird Feather as well as [c_green]2[/color] other random weapons at [c_green]80%[/color] Power."],
+	},
+	WhispererName:
+		Spanish: "Whisperer",
+	},
+	f_goldTrophy12:
+		Spanish: ["Golden Axolotl Trophy", ""],
+	},
+	UndeadDescription:
+		Spanish: ["[ "If HP reaches 0, Ollie gains [c_red]Undead[/color] and can not die for 10 seconds (10s cooldown). However, each time this activates, Ollie loses [c_red]50%[/color] Max HP for","1 minute. Gain 2% ATK for every [c_green]3[/color] Max HP lost." ]", "[ "If HP reaches 0, Ollie gains [c_red]Undead[/color] and can not die for 10 seconds (10s cooldown). However, each time this activates, Ollie loses [c_red]50%[/color] Max HP for","1 minute. Gain 2% ATK for every [c_green]2[/color] Max HP lost." ]", "[ "If HP reaches 0, Ollie gains [c_red]Undead[/color] and can not die for 10 seconds (10s cooldown). However, each time this activates, Ollie loses [c_red]50%[/color] Max HP for","1 minute. Gain 2% ATK for every [c_green]1[/color] Max HP lost." ]"],
+	},
+	RainCloudName:
+		Spanish: "Rain Shaman",
+	},
+	PiggyBankName:
+		Spanish: "Stolen Piggy Bank",
+	},
+	a_risuClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Ayunda Risu.",
+	},
+	a_calli10Name:
+		Spanish: "I Like the Cotton Candy Flavor",
+	},
+	LightningWeinerName:
+		Spanish: "Lightning Wiener",
+	},
+	kaelaAttackName:
+		Spanish: "Blacksmith Hammer",
+	},
+	fishChain:
+		Spanish: "Bonus Fish:  ",
+	},
+	f_WoodenDoor:
+		Spanish: ["Wooden Door", ""],
+	},
+	TimeToUpgradeName:
+		Spanish: "Time To Upgrade",
+	},
+	d_turtlesoup:
+		Spanish: ["Turtle Soup", "Greatly increases the chance of all EXP-related items appearing."],
+	},
+	baeSpecialAttackDesc:
+		Spanish: "Lanza todas las armas actuales con retraso cero durante 5 segundos.",
+	},
+	anyaSpecialAttackName:
+		Spanish: "Blade Form",
+	},
+	a_justRNGDescription:
+		Spanish: "Fallar una mejora de +1 a +2",
+	},
+	kroniiAttackName:
+		Spanish: "Clock Hands",
+	},
+	},
+	f_bodyPillow:
+		Spanish: ["Body Pillow", ""],
+	},
+	defeatSilverYagooDescription:
+		Spanish: "Derrota a un Yagoo plateado.",
+	},
+	BLBookDescription:
+	},
+	PerformanceDescription:
+		Spanish: ["For each second while moving, [c_green]+2%[/color] SPD (max [c_green]20%[/color]) and [c_green]+2%[/color] dodge chance (max [c_green]20%[/color]). Both buffs lose 2 stacks if receiving damage.", "For each second while moving, [c_green]+4%[/color] SPD (max [c_green]40%[/color]) and [c_green]+3%[/color] dodge chance (max [c_green]30%[/color]). Both buffs lose 2 stacks if receiving damage.", "For each second while moving, [c_green]+6%[/color] SPD (max [c_green]60%[/color]) and [c_green]+4%[/color] dodge chance (max [c_green]40%[/color]). Both buffs lose 2 stacks if receiving damage."],
+	},
+	a_okayuClearName:
+		Spanish: "Mogu Mogu... Okayu!",
+	},
+	a_anyaGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Anya Melfissa.",
+	},
+	MukiroseName:
+		Spanish: "Mukirose",
+	},
+	levelMoneyOption:
+		Spanish: ["HoloCoin", "Gain [c_green]100[/color] HoloCoins."],
+	},
+	HoloBombName:
+		Spanish: "Holo Bomb",
+	},
+	FullMealDescription:
+		Spanish: ["Todo el healing es duplicado."],
+	},
+	f_plantpotA:
+		Spanish: ["Plant Pot A", ""],
+	},
+	ayameAttackName:
+		Spanish: "Dual Katana",
+	},
+	risuAttackDesc:
+		Spanish: ["Throws several nuts in front.", "Increase damage by [c_green]20%[/color].", "[c_green]1[/color] more Nut.", "Reduce time between attacks by [c_green]15%[/color].", "[c_green]1[/color] more Nut.", "Increase damage by [c_green]20%[/color] and speed of Nuts by [c_green]50%[/color].", "Increase attack size by [c_green]30%[/color]. Nuts bounce once when hitting the edge of the screen."],
+	},
+	a_suiseiGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Hoshimachi Suisei.",
+	},
+	a_hallucinatedName:
+		Spanish: "Hallucinated",
+	},
+	i_greenbeans:
+		Spanish: ["Green Bean", "Green Bean Seed"],
+	},
+	gameUseName:
+		Spanish: "¿Consientes en utilizar tu nombre de usuario al enviar puntuaciones a la tabla de clasificación?
+Si optas por no hacerlo, cualquier puntuación que elijas enviar se almacenará y se mostrará como "Anónimo".
+
+Puedes cambiar esta configuración más adelante.",
+If you opt-out, any scores you choose to submit will be stored and displayed as "Anonymous".
+
+ You may change this setting later.",
+同意しない場合、表示は "Anonymous"になります。
+
+後からでも設定の変更は可能です。",
+
+	},
+	FlatBoardDescription:
+		Spanish: ["Siente la ira de las tablas de cortar...!?"],
+	},
+	faunaAttackDesc:
+		Spanish: ["Crea 3 hojas afiladas que se espiralan hacia afuera.", "Aumenta el daño en un [c_green]20%[/color] y aumenta el límite de golpes en [c_green]5[/color].", "Reduce el tiempo entre ataques en un [c_green]15%[/color].", "Dispara [c_green]2[/color] hojas adicionales.", "Aumenta el área de ataque en un [c_green]30%[/color] y aumenta el límite de golpes en [c_green]5[/color].", "Aumenta el daño en un [c_green]30%[/color] y elimina el límite de golpes.", "Dispara [c_green]2[/color] hojas adicionales y apunta hacia los objetivos."],
+	},
+	ChickensFeatherDescription:
+		Spanish: ["Obtén [c_green]1[/color] resurrección. Al resucitar, cura instantáneamente el 50% de HP y todos los objetivos no jefes son derrotados.", "Obtén [c_green]2[/color] resurrecciones. Al resucitar, cura instantáneamente el 50% de HP y todos los objetivos no jefes son derrotados.", "Obtén [c_green]3[/color] resurrecciones. Al resucitar, cura instantáneamente el 50% de HP y todos los objetivos no jefes son derrotados.", "Obtén [c_green]5[/color] resurrecciones. En cada resurrección, gana permanentemente [c_green]+20%[/color]/[c_green]+10%[/color] de ATA/VELOCIDAD respectivamente, cura instantáneamente el 50% de HP, y todos los objetivos no jefes son derrotados."],
+	},
+	sanaAttackDesc:
+		Spanish: ["Crea un planeta en órbita. Golpea múltiples objetivos.", "Aumenta el daño en un [c_green]20%[/color].", "Aumenta el área de ataque en un [c_green]20%[/color] y el alcance en un [c_green]20%[/color].", "Aumenta el daño en un [c_green]33%[/color].", "Aumenta el área de ataque en un [c_green]30%[/color] y el alcance en un [c_green]30%[/color].", "Reduce el tiempo entre ataques en un [c_green]10%[/color].", "Crea un [c_green]segundo[/color] planeta y repele a los objetivos."],
+	},
+	a_melGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Yozora Mel.",
+	},
+	ollieSpecialAttackDesc:
+		Spanish: "Dispara un haz apuntado inicialmente, y luego dispara un segundo haz cargado poco después. Cada objetivo golpeado por el haz inicial aumenta el tamaño y el daño del segundo haz.",
+	},
+	matsuriAttackDesc:
+	},
+	HistoryDescription:
+		Spanish: ["Cuando un objetivo es derrotado, obtén 1 acumulación de [c_red]Sed de sangre[/color]. Al llegar a 20 acumulaciones, Mumei cura el 10% de HP y gana [c_green]30%[/color] de ATA durante 10 segundos.", "Cuando un objetivo es derrotado, obtén 1 acumulación de [c_red]Sed de sangre[/color]. Al llegar a 20 acumulaciones, Mumei cura el 10% de HP y gana [c_green]45%[/color] de ATA durante 10 segundos.", "Cuando un objetivo es derrotado, obtén 1 acumulación de [c_red]Sed de sangre[/color]. Al llegar a 20 acumulaciones, Mumei cura el 10% de HP y gana [c_green]60%[/color] de ATA durante 10 segundos."],
+	},
+	GreedStickerName:
+		Spanish: "Greed Stamp",
+	},
+	f_goldTrophy6:
+		Spanish: ["Golden Eel Trophy", ""],
+	},
+	TheAncientOneDescription:
+	},
+	AttentionPleaseDescription:
+	},
+	PikiPikiPimanDescription:
+		Spanish: ["Obtén [c_green]15[/color] de HP máximo. Por cada [c_green]6[/color] puntos de HP máximo total, aumenta el daño del arma principal y los ataques especiales en un 1%.", "Obtén [c_green]20[/color] de HP máximo. Por cada [c_green]5[/color] puntos de HP máximo total, aumenta el daño del arma principal y los ataques especiales en un 1%.", "Obtén [c_green]25[/color] de HP máximo. Por cada [c_green]4[/color] puntos de HP máximo total, aumenta el daño del arma principal y los ataques especiales en un 1%.", "Al ser golpeado, aumenta el crítico en un 25% durante 10 segundos.", "Al ser golpeado, aumenta el crítico en un 30% durante 10 segundos."],
+	},
+	a_robocoClearName:
+		Spanish: "He-robo~",
+	},
+	a_chocoClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Yuzuki Choco.",
+	},
+	LimiterDescription:
+		Spanish: ["Gain [c_green]100%[/color] Pick Up Range.", "Gain [c_green]200%[/color] Pick Up Range.", "Gain [c_green]300%[/color] Pick Up Range.", "Gain [c_green]500%[/color] Pick Up Range. EXP and HoloCoin gain is increased by [c_green]15%[/color]."],
+	},
+	VampireDescription:
+		Spanish: ["On [c_yellow]Life-steal[/color] heals, create [c_green]1[/color] Bat that flies to the closest target to deal 120% damage.", "On [c_yellow]Life-steal[/color] heals, create [c_green]2[/color] Bats that flies to the closest target to deal 120% damage.", "On [c_yellow]Life-steal[/color] heals, create [c_green]3[/color] Bats that flies to the closest target to deal 120% damage."],
+	},
+	ErofiDescription:
+		Spanish: ["Once per second, after Iofi takes damage from an attack, Iofi immediately heals [c_green]1%[/color] HP for every target within 50px.", "Once per second, after Iofi takes damage from an attack, Iofi immediately heals [c_green]2%[/color] HP for every target within 50px.", "Once per second, after Iofi takes damage from an attack, Iofi immediately heals [c_green]3%[/color] HP for every target within 50px."],
+	},
+		Spanish: "Just Bandage",
+	},
+	portDisplay:
+		Spanish: ["Half", "Full"],
+	},
+	a_kaelaGachikoiName:
+		Spanish: "True Pemaloe",
+	},
+	herdTitles:
+		Spanish: ["Worker List", "Hire Workers", "Collection", "Status"],
+	},
+	WeakenStickerDescription:
+		Spanish: ["Attacks have a [c_green]20%[/color] chance to reduce ATK and DEF of targets by [c_green]20%[/color] and [c_green]5%[/color] temporarily. Flower.", "Attacks have a [c_green]25%[/color] chance to reduce ATK and DEF of targets by [c_green]25%[/color] and [c_green]7%[/color] temporarily. Flower.", "Attacks have a [c_green]30%[/color] chance to reduce ATK and DEF of targets by [c_green]30%[/color] and [c_green]10%[/color] temporarily. Flower."],
+	},
+	f_Clock:
+		Spanish: ["Basic Clock", ""],
+	},
+	SnowSakeName:
+		Spanish: "Snow Flower Sake",
+	},
+	a_ollieClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Kureji Ollie.",
+	},
+	a_aquaGachikoiName:
+		Spanish: "True AquaCrew",
+	},
+	itemDrop:
+		Spanish: "Drop",
+	},
+	holoHousePause:
+		Spanish: ["Inventory", "Build Mode", "Settings", "Quit to Title"],
+	},
+	f_sharkplush:
+		Spanish: ["Shark Plush", ""],
+	},
+	shionName:
+		Spanish: "MURASAKI SHION",
+	},
+	SCTName:
+		Spanish: "It's Super Chat Time",
+	},
+	AyameDefenseFieldDescription:
+		Spanish: ["After taking [c_green]6[/color] hits of damage, negate the next hit taken and become invincible for [c_green]2[/color] seconds. There is a 10 second cooldown after buff ends.", "After taking [c_green]5[/color] hits of damage, negate the next hit taken and become invincible for [c_green]3[/color] seconds. There is a 10 second cooldown after buff ends.", "After taking [c_green]4[/color] hits of damage, negate the next hit taken and become invincible for [c_green]4[/color] seconds. There is a 10 second cooldown after buff ends."],
+	},
+	a_thankYouName:
+		Spanish: "Thank You",
+	},
+	PleaseDontFailDescription:
+		Spanish: "Mejora un arma una vez.",
+	},
+	a_harvestDescription:
+		Spanish: "Cosecha una planta.",
+	},
+	i_peppers:
+		Spanish: ["Pepper", "Pepper Seed"],
+	},
+	faunaSpecialAttackName:
+		Spanish: "Mother Nature",
+	},
+	w_ocean:
+		Spanish: ["Ocean Wall", ""],
+	},
+	stageSelectTexts:
+	},
+	BellyDancingName:
+		Spanish: "Belly Dancing",
+	},
+	a_mikoGachikoiName:
+		Spanish: "True 35P",
+	},
+	OmenName:
+		Spanish: "Omen",
+	},
+	f_hardcoreTrophy:
+		Spanish: ["Hardcore Trophy", ""],
+	},
+	WindMagicDescription:
+		Spanish: ["On crits, increase Haste by [c_green]1%[/color], up to 20%. Additionally, there is a [c_green]20%[/color] chance to cast Wind Blast at the closest target dealing [c_green]100%[/color] damage.", "On crits, increase Haste by [c_green]1%[/color], up to 20%. Additionally, there is a [c_green]25%[/color] chance to cast Wind Blast at the closest target dealing [c_green]150%[/color] damage.", "On crits, increase Haste by [c_green]1%[/color], up to 20%. Additionally, there is a [c_green]30%[/color] chance to cast Wind Blast at the closest target dealing [c_green]200%[/color] damage."],
+	},
+	TheBlacksmithName:
+		Spanish: "The Blacksmith",
+	},
+	ShacklesssName:
+		Spanish: "Kusogaki Shackles",
+	},
+	ReverseStickerDescription:
+		Spanish: ["Weapon will fire backwards. There is no other effect.", "Weapon will reverse the reverse effect, thereby now rendering this stamp completely pointless.", "Weapon will reverse the reversing of the reverse effect. How many times are you going to do this?"],
+	},
+	a_sanaClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Tsukumo Sana.",
+	},
+	OozoraPoliceName:
+		Spanish: "Oozora Police",
+	},
+	a_diginName:
+		Spanish: "Dig In!",
+	},
+	ErogeHeroName:
+		Spanish: "Eroge Hero",
+	},
+	suiseiName:
+		Spanish: "HOSHIMACHI SUISEI",
+	},
+	a_kiaraGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Takanashi Kiara.",
+	},
+	MamaName:
+		Spanish: "Mama",
+	},
+	f_demonSword:
+		Spanish: ["Oni Swords", ""],
+	},
+	CultName:
+	},
+	SololiveDescription:
+		Spanish: ["Increase Max HP By [c_green]10[/color]. If there are no targets within 75px, gain [c_green]40%[/color] ATK. Otherwise, gain [c_green]40%[/color] SPD.", "Increase Max HP By [c_green]15[/color]. If there are no targets within 75px, gain [c_green]50%[/color] ATK. Otherwise, gain [c_green]50%[/color] SPD.", "Increase Max HP By [c_green]20[/color]. If there are no targets within 75px, gain [c_green]60%[/color] ATK. Otherwise, gain [c_green]60%[/color] SPD."],
+	},
+	akiAttackName:
+		Spanish: "Aik",
+	},
+	a_oraoraName:
+		Spanish: "Orarara",
+	},
+	OniLadyDescription:
+		Spanish: ["Defeating a target that has been hit by [c_yellow]Dual Katana[/color] will increase Haste by 1% (max [c_green]20%[/color]). Buff decreases by 1% every second.", "Defeating a target that has been hit by [c_yellow]Dual Katana[/color] will increase Haste by 1% (max [c_green]30%[/color]). Buff decreases by 1% every second.", "Defeating a target that has been hit by [c_yellow]Dual Katana[/color] will increase Haste by 1% (max [c_green]40%[/color]). Buff decreases by 1% every second."],
+	},
+	a_artblockDescription:
+		Spanish: "Espera los 20 segundos completos en Iofi",
+	},
+	mumeiAttackName:
+		Spanish: "Bird Feather",
+	},
+	f_stove:
+		Spanish: ["Kitchen Stove", ""],
+	},
+	SpeedRunnerDescription:
+		Spanish: "Completa un escenario en Modo Tiempo.",
+	},
+	shirakenElfriendOptions:
+		Spanish: ["Buy", "Reset", "Help", "Quit"],
+	},
+	ayameSpecialAttackName:
+		Spanish: "Spirit of the Oni",
+	},
+	AnkimoName:
+		Spanish: "Ankimo",
+	},
+	PlushieName:
+		Spanish: "Plushie",
+	},
+	a_welltrainedDescription:
+		Spanish: "Obtén el nivel 4 de gerente",
+	},
+	a_highwayrobberyName:
+		Spanish: "Highway Robbery ",
+	},
+	koboAttackDesc:
+		Spanish: ["Swings umbrella in front.", "Increase damage by [c_green]20%[/color].", "Increase attack size by [c_green]20%[/color].", "Adds a small [c_yellow]knockback[/color] effect.", "Reduce time between attacks by [c_green]15%[/color].", "Increase damage and attack size by [c_green]25%[/color].", "Splashes rain drops in front in a spread."],
+	},
+	i_shark:
+		Spanish: "Shark",
+	},
+	GarlicName:
+		Spanish: "Magic Garlic",
+	},
+	FeastName:
+		Spanish: "Feast",
+	},
+	w_stone:
+		Spanish: ["Stone Wall", ""],
+	},
+	CreditsList:
+		Spanish: "Todos los personajes pertenecen a Cover Corp
+
+- PROGRAMADORES -
+Seirai
+ullrefrepro
+
+- ANIMADORES -
+DuDuL
+Smpletan
+Caliyaki
+Kaitsu
+
+- ARTISTAS DE ENTORNO -
+Taho
+MQPixel
+ROM
+
+- ILUSTRADORES -
+Potato7192
+
+- INTERFAZ -
+Jeremy Hobbs (Ribbon Black)
+
+- MÚSICA -
+Eufrik
+Patterns
+Raining Marbles
+
+
+Canción: Suspect
+Artista: hololive IDOL PROJECT
+
+Canción: Candy-Go-Round
+Artista: hololive IDOL PROJECT
+
+Canción: Shijoshugi Adtruck
+Artista: hololive IDOL PROJECT
+
+Canción: Koyoi wa Halloween Night!
+Artista: hololive IDOL PROJECT
+
+Canción: Stardust Canción
+Artista: hololive IDOL PROJECT
+
+Canción: Asuiro ClearSky
+Artista: hololive IDOL PROJECT
+
+Artista: hololive Indonesia
+
+Canción: Myth or Treat
+Artista: holoMyth
+
+Canción: Welcome Home (Yumemiru Sora e)
+Artista: hololive IDOL PROJECT
+
+Canción: Ochame Kinou
+Artista: LamazeP
+
+
+- TRADUCTORES -
+
+Traducción al japonés
+
+ハイテンションガイジン(HighGai)
+Miss Wendi Gogh
+
+Traducción al indonesio
+
+Minyak Sayur
+D.D.Investigator
+Pincen
+
+Traducción al español
+
+AldairSoraki
+
+- QA -
+Avi 'Sinful' Mishra
+Scorchedwing
+Erg
+Katomon
+Carmatime
+Kaitsu
+Cremepuff
+Tsubi
+Zenora
+Caliyaki0
+
+- AGRADECIMIENTOS -
+Walfie
+2Snacks
+Dex
+Furaisen
+SeafoamBoi
+Sausage Legend (Milk Co)
+
+
+GRACIAS POR JUGAR!!!",
+
+
+- PROGRAMMERS -
+Seirai
+nullrefrepro
+
+- ANIMATORS -
+DuDuL
+Smpletan
+Caliyaki
+Kaitsu
+
+- Environment Artists -
+Taho
+MQPixel
+ROM
+
+- ILLUSTRATORS -
+Potato7192
+
+- UI -
+Jeremy Hobbs (Ribbon Black)
+
+- MUSIC -
+Eufrik
+Patterns
+Raining Marbles
+
+
+Song: Suspect
+Artist: hololive IDOL PROJECT
+
+ Song: Candy-Go-Round
+Artist: hololive IDOL PROJECT
+
+ Song: Shijoshugi Adtruck
+Artist: hololive IDOL PROJECT
+
+ Song: Koyoi wa Halloween Night!
+Artist: hololive IDOL PROJECT
+
+ Song: Stardust Song
+Artist: hololive IDOL PROJECT
+
+ Song: Asuiro ClearSky
+Artist: hololive IDOL PROJECT
+
+Artist: hololive Indonesia
+
+ Song: Myth or Treat
+Artist: holoMyth
+
+ Song: Welcome Home (Yumemiru Sora e)
+Artist: hololive IDOL PROJECT
+
+ Song: Ochame Kinou
+Artist: LamazeP
+
+
+- TRANSLATORS -
+
+Japanese Translation
+
+ハイテンションガイジン(HighGai)
+Miss Wendi Gogh
+
+Indonesian Translation
+
+Minyak Sayur
+D.D.Investigator
+Pincen
+
+- QA - 
+Avi 'Sinful' Mishra
+Scorchedwing
+Erg
+Katomon
+Carmatime
+Kaitsu
+Cremepuff
+Tsubi
+Zenora
+Caliyaki
+
+- SPECIAL THANKS - 
+ Walfie 
+ 2Snacks 
+ Dex 
+ Furaisen 
+ SeafoamBoi 
+Sausage Legend (Milk Co)
+
+
+THANK YOU FOR PLAYING!!!
+",
+
+
+- プログラマー -
+Seirai
+nullrefrepro
+
+- アニメーター -
+DuDuL
+Smpletan
+Caliyaki
+Kaitsu
+
+- Environment Artists -
+Taho
+MQPixel
+ROM
+
+- イラストレーター -
+Potato7192
+
+- UI -
+Jeremy Hobbs (Ribbon Black)
+
+- 音楽 -
+Eufrik
+Patterns
+Raining Marbles
+
+
+- COVERS: -
+
+ Song: Shiny Smily Story
+Artist: hololive IDOL PROJECT
+
+Song: Suspect
+Artist: hololive IDOL PROJECT
+
+ Song: Candy-Go-Round
+Artist: hololive IDOL PROJECT
+
+ Song: 至上主義アドトラック
+Artist: hololive IDOL PROJECT
+
+ Song: 今宵はHalloween Night!
+Artist: hololive IDOL PROJECT
+
+ Song: Stardust Song
+Artist: hololive IDOL PROJECT
+
+ Song: あすいろClearSky
+Artist: hololive IDOL PROJECT
+
+Artist: hololive Indonesia
+
+ Song: Myth or Treat
+Artist: holoMyth
+
+ Song: Welcome Home (夢見る空へ)
+Artist: hololive IDOL PROJECT
+
+ Song: Ochame Kinou
+Artist: LamazeP
+
+
+- 翻訳者 -
+ハイテンションガイジン(HighGai)
+Miss Wendi Gogh
+
+- QA - 
+Avi 'Sinful' Mishra
+Scorchedwing
+Erg
+Katomon
+Carmatime
+Kaitsu
+Cremepuff
+Tsubi
+Zenora
+Caliyaki
+
+- SPECIAL THANKS - 
+ Walfie 
+ 2Snacks 
+ Dex 
+ Furaisen 
+ SeafoamBoi 
+Sausage Legend (Milk Co)
+
+
+THANK YOU FOR PLAYING!!!
+",
+
+
+- PROGRAMMERS -
+Seirai
+nullrefrepro
+
+- ANIMATORS -
+DuDuL
+Smpletan
+Caliyaki
+Kaitsu
+
+- Environment Artists -
+Taho
+MQPixel
+ROM
+
+- ILLUSTRATORS -
+Potato7192
+
+- UI -
+Jeremy Hobbs (Ribbon Black)
+
+- MUSIC -
+Eufrik
+Patterns
+Raining Marbles
+
+
+Song: Suspect
+Artist: hololive IDOL PROJECT
+
+ Song: Candy-Go-Round
+Artist: hololive IDOL PROJECT
+
+ Song: Shijoshugi Adtruck
+Artist: hololive IDOL PROJECT
+
+ Song: Koyoi wa Halloween Night!
+Artist: hololive IDOL PROJECT
+
+ Song: Stardust Song
+Artist: hololive IDOL PROJECT
+
+ Song: Asuiro ClearSky
+Artist: hololive IDOL PROJECT
+
+Artist: hololive Indonesia
+
+ Song: Myth or Treat
+Artist: holoMyth
+
+ Song: Welcome Home (Yumemiru Sora e)
+Artist: hololive IDOL PROJECT
+
+ Song: Ochame Kinou
+Artist: LamazeP
+
+
+- TRANSLATORS -
+
+Japanese Translation
+
+ハイテンションガイジン(HighGai)
+Miss Wendi Gogh
+
+Indonesian Translation
+
+Minyak Sayur
+D.D.Investigator
+Pincen
+
+- QA - 
+Avi 'Sinful' Mishra
+Scorchedwing
+Erg
+Katomon
+Carmatime
+Kaitsu
+Cremepuff
+Tsubi
+Zenora
+Caliyaki
+
+- SPECIAL THANKS - 
+ Walfie 
+ 2Snacks 
+ Dex 
+ Furaisen 
+ SeafoamBoi 
+Sausage Legend (Milk Co)
+
+
+THANK YOU FOR PLAYING!!!
+",
+	},
+	ChocoCoronetDescription:
+		Spanish: ["Increase all healing by [c_green]10%[/color]. Targets can drop [c_orange]Choco Coronets[/color]. Eating a [c_orange]Choco Coronet[/color] heals 5 HP and increases Max HP by [c_green]10[/color] for 10 seconds.", "Increase all healing by [c_green]20%[/color]. Targets can drop [c_orange]Choco Coronets[/color]. Eating a [c_orange]Choco Coronet[/color] heals 5 HP and increases Max HP by [c_green]15[/color] for 10 seconds.", "Increase all healing by [c_green]30%[/color]. Targets can drop [c_orange]Choco Coronets[/color]. Eating a [c_orange]Choco Coronet[/color] heals 5 HP and increases Max HP by [c_green]20[/color] for 10 seconds."],
+	},
+	a_mioGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Ookami Mio.",
+	},
+	ImDieName:
+		Spanish: "I'm Die, Thank You Forever",
+	},
+	HitCDModDescription:
+		Spanish: "Tasa de acierto +20%",
+	},
+	GrindName:
+		Spanish: "The Real Grind",
+	},
+	f_lamp:
+		Spanish: ["Standing Lamp", ""],
+	},
+	CatReflexesName:
+		Spanish: "Cat(?) Reflexes",
+	},
+	a_shinyfishName:
+		Spanish: "Gotta Catch 'em All",
+	},
+	a_faunaClearDescription:
+		Spanish: "Completa un juego en Modo Escenario con Ceres Fauna.",
+	},
+	nemuShop:
+		Spanish: "Nemu's Plant Shop",
+	},
+	HoshinovaName:
+		Spanish: "Hoshinova & Moona",
+	},
+	HaluDescription:
+		Spanish: ["Increase regular fan spawns, and fans become [c_red]5%[/color] stronger. Gain 1 HoloCoin for every [c_green]5[/color] targets defeated since taking this item.", "Increase regular fan spawns more, and fans become [c_red]15%[/color] stronger. Gain 1 HoloCoin for every [c_green]4[/color] targets defeated since taking this item.", "Increase regular fan spawns further, and fans become [c_red]25%[/color] stronger. Gain 1 HoloCoin for every [c_green]3[/color] targets defeated since taking this item.", "Increase regular fan spawns even further beyond, and fans become [c_red]33%[/color] stronger. [c_yellow]Are you sure about this?[/color]", "[c_red]Don't do it.[/color]"],
+	},
+	gameCollabs:
+		Spanish: "Collabs",
+	},
+	a_koboGachikoiName:
+		Spanish: "True Koboker",
+	},
+	moonaAttackDesc:
+		Spanish: ["Throws a spinning crescent at an arc in front.", "Increase attack size by [c_green]20%[/color].", "Increase damage by [c_green]20%[/color].", "Reduce time between attacks by [c_green]15%[/color].", "Increase attack size and travel distance by [c_green]20%[/color].", "Increase damage by [c_green]30%[/color].", "Every 5 hits creates a full moon."],
+	},
+	},
+	f_exerciseBall:
+		Spanish: ["Medicine Ball", ""],
+	},
+	elfriendDialogue:
+	},
+	StellarDescription:
+		Spanish: ["Critical hits have a 25% chance to increase ATK by [c_green]4%[/color] for 4 seconds, up to [c_green]20%[/color]. If activated, all targets within 75px take that critical hit.", "Critical hits have a 25% chance to increase ATK by [c_green]6%[/color] for 4 seconds, up to [c_green]30%[/color]. If activated, all targets within 75px take that critical hit.", "Critical hits have a 25% chance to increase ATK by [c_green]8%[/color] for 4 seconds, up to [c_green]40%[/color]. If activated, all targets within 75px take that critical hit."],
+	},
+	SoloStickerName:
+		Spanish: "Solo Stamp",
+	},
+	CandyDescription:
+		Spanish: ["Increase haste by [c_green]40%[/color]. All attacks deal [c_red]0.75x[/color] damage, but have a 10% chance to apply a second attack dealing 33% of the initial damage.", "Increase haste by [c_green]50%[/color]. All attacks deal [c_red]0.75x[/color] damage, but have a 10% chance to apply a second attack dealing 33% of the initial damage.", "Increase haste by [c_green]60%[/color]. All attacks deal [c_red]0.75x[/color] damage, but have a 10% chance to apply a second attack dealing 33% of the initial damage."],
+	},
+	a_partTimeJobDescription:
+		Spanish: "Compra todas las mejoras de tienda disponibles.",
+	},
+	a_ayameGachikoiName:
+		Spanish: "True Nakirigumi",
+	},
+	mumeiName:
+		Spanish: "NANASHI MUMEI",
+	},
+	LifeStealStickerName:
+		Spanish: "Life Steal Stamp",
+	},
+	f_vanity:
+		Spanish: ["Vanity Desk", ""],
+	},
+	DLCDescription:
+		Spanish: ["Gain [c_green]1[/color] HoloCoin every 3 seconds. After gaining HoloCoins 5 times, create another Risu (max 3) for 15 seconds, dealing [c_green]30%[/color] of your Weapon damage.", "Gain [c_green]2[/color] HoloCoin every 3 seconds. After gaining HoloCoins 5 times, create another Risu (max 3) for 15 seconds, dealing [c_green]35%[/color] of your Weapon damage.", "Gain [c_green]3[/color] HoloCoin every 3 seconds. After gaining HoloCoins 5 times, create another Risu (max 3) for 15 seconds, dealing [c_green]40%[/color] of your Weapon damage."],
+	},
+	CuttingDeepName:
+		Spanish: "Cutting Deep",
+	},
+		Spanish: ["Crea un área de miasma alrededor, infligiendo daño lento a los objetivos dentro.", "Aumenta el área en [c_green]15%[/color].", "Aumenta el daño en [c_green]30%[/color].", "Aumenta el área en [c_green]25%[/color].", "Aumenta la frecuencia de los golpes en [c_green]20%[/color].", "Aumenta el daño en [c_green]30%[/color].", "Añade un pequeño [c_yellow]retroceso[/color] al golpear."],
+	},
+	azkiName:
+		Spanish: "AZKi",
+	},
+	a_zetaClearName:
+		Spanish: "Zetamin",
+	},
+		Spanish: "Sobrevive durante 30 minutos con Halu nivel 5.",
+	},
+	mioName:
+		Spanish: "OOKAMI MIO",
+	},
+	koboSpecialAttackDesc:
+		Spanish: "Inunda el área, ralentizando a todos los objetivos en un 75% y causando daño constante durante 10 segundos. Durante este tiempo, Kobo se cura un 5% de salud por segundo y aumenta SPD en un 100%.",
+	},
+	i_tuna:
+		Spanish: "Tuna",
+	},
+	chocoSpecialAttackDesc:
+		Spanish: "Todos los objetivos",
+	},
+	AstrologyDescription:
+		Spanish: ["Every 15 seconds, gain a 15 second [c_green]30%[/color] buff to either ATK, SPD, Crit, Pick Up Range, or Haste, or heal for [c_green]30%[/color] HP.", "Every 15 seconds, gain a 15 second [c_green]40%[/color] buff to either ATK, SPD, Crit, Pick Up Range, or Haste, or heal for [c_green]40%[/color] HP.", "Every 15 seconds, gain a 15 second [c_green]50%[/color] buff to either ATK, SPD, Crit, Pick Up Range, or Haste, or heal for [c_green]50%[/color] HP."],
+	},
+	a_moonaGachikoiName:
+		Spanish: "True Moonafic",
+	},
+	getRecruits:
+		Spanish: ["Send out an advertisement to get recruits.", "Roll Recruits for [cost] HoloCoins?", "Hire this Recruit?"],
+	},
+	fubukiName:
+		Spanish: "SHIRAKAMI FUBUKI",
+	},
+	f_Marble_Chair:
+		Spanish: ["Marble Chair", ""],
+	},
+	BounceBallDescription:
+	},
+	a_shionGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Murasaki Shion.",
+	},
+	a_fishfearmeName:
+		Spanish: "Fish Fear Me",
+	},
+	MiCometName:
+		Spanish: "MiComet",
+	},
+	LivingWeaponDescription:
+		Spanish: ["[ "Defeating targets may grant 1 stack of Sharpen (max 50). Every 10 stacks increases ATK by [c_green]4%[/color] and creates a Sharp Aura which deals [c_green]40%[/color] damage","per 10 stacks to targets. When hit, Anya loses 5 stacks." ]", "[ "Defeating targets may grant 1 stack of Sharpen (max 50). Every 10 stacks increases ATK by [c_green]6%[/color] and creates a Sharp Aura which deals [c_green]50%[/color] damage","per 10 stacks to targets. When hit, Anya loses 5 stacks." ]", "[ "Defeating targets may grant 1 stack of Sharpen (max 50). Every 10 stacks increases ATK by [c_green]8%[/color] and creates a Sharp Aura which deals [c_green]60%[/color] damage","per 10 stacks to targets. When hit, Anya loses 5 stacks." ]"],
+	},
+	gameNameOption:
+		Spanish: ["Show", "Don't Show"],
+	},
+	fishSell:
+		Spanish: "Sell",
+	},
+	DancerName:
+		Spanish: "Dancer",
+	},
+	reineName:
+		Spanish: "PAVOLIA REINE",
+	},
+	a_koroneGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Inugami Korone.",
+	},
+	GorillasPawDescription:
+		Spanish: ["Attack damage is multiplied by [c_green]1.2[/color] times, but lose [c_red]20%[/color] critical chance.", "Attack damage is multiplied by [c_green]1.3[/color] times, but lose [c_red]20%[/color] critical chance.", "Attack damage is multiplied by [c_green]1.4[/color] times, but lose [c_red]20%[/color] critical chance.", "Attack damage is multiplied by [c_green]1.5[/color] times."],
+	},
+	FPSMasteryDescription:
+	},
+	f_futon:
+		Spanish: ["Fuuton", ""],
+	},
+	DeliciousCookingDescription:
+		Spanish: ["Targets may drop [c_yellow]Cooking Supplies[/color]. Every 10 Supplies, make a dish to heal 10% HP and gain a [c_green]+10%[/color] Crit Damage stack for 10 seconds, (max [c_green]30%[/color]).", "Targets may drop [c_yellow]Cooking Supplies[/color]. Every 10 Supplies, make a dish to heal 10% HP and gain a [c_green]+15%[/color] Crit Damage stack for 10 seconds, (max [c_green]45%[/color]).", "Targets may drop [c_yellow]Cooking Supplies[/color]. Every 10 Supplies, make a dish to heal 10% HP and gain a [c_green]+20%[/color] Crit Damage stack for 10 seconds, (max [c_green]60%[/color])."],
+	},
+	CoexistenceName:
+		Spanish: "Coexistence",
+	},
+	soraAttackDesc:
+		Spanish: ["Shoot forward a spinning star.", "Increase damage by [c_green]20%[/color].", "Stars last [c_green]1[/color] second longer.", "Shoot [c_green]2[/color] stars.", "Increase size by [c_green]30%[/color].", "Shoot [c_green]3[/color] stars.", "Stars end with a burst."],
+	},
+	a_petDogName:
+		Spanish: "You Can Pet The Dog",
+	},
+	a_bae10Description:
+		Spanish: "Alcanza 10 minutos con Hakos Baelz.",
+	},
+	HopeDescription:
+		Spanish: ["Increase crit by [c_green]5%[/color]. Upon being hit, there is a [c_green]10%[/color] chance to heal [c_green]10%[/color] HP and create a shockwave that knocks back all targets.", "Increase crit by [c_green]10%[/color]. Upon being hit, there is a [c_green]15%[/color] chance to heal [c_green]15%[/color] HP and create a shockwave that knocks back all targets.", "Increase crit by [c_green]15%[/color]. Upon being hit, there is a [c_green]20%[/color] chance to heal [c_green]20%[/color] HP and create a shockwave that knocks back all targets."],
+	},
+	f_Wooden_DiningChair:
+		Spanish: ["Wooden Dining Chair", ""],
+	},
+	subaruSpecialAttackName:
+		Spanish: "Duck Shout",
+	},
+	},
+	robocoAttackName:
+		Spanish: "Hi-Spec Pistol",
+	},
+	a_inaClearName:
+		Spanish: "Ina Ina Ina!",
+	},
+	KonKonName:
+		Spanish: "Kon Kon",
+	},
+	InugamiEnduranceDescription:
+		Spanish: ["Reduce damage taken by [c_green]10%[/color]. Once every 20 seconds, gain [c_orange]Retaliation[/color] if attacked, which increases ATK by [c_green]20%[/color] and more damage reduction temporarily.", "Reduce damage taken by [c_green]20%[/color]. Once every 20 seconds, gain [c_orange]Retaliation[/color] if attacked, which increases ATK by [c_green]40%[/color] and more damage reduction temporarily.", "Reduce damage taken by [c_green]30%[/color]. Once every 20 seconds, gain [c_orange]Retaliation[/color] if attacked, which increases ATK by [c_green]60%[/color] and more damage reduction temporarily."],
+	},
+	WamyWaterDescription:
+		Spanish: ["Create a splash of unknown water in front, knocking targets back.", "Increase damage by [c_green]20%[/color].", "Increase attack area by [c_green]30%[/color].", "Increase splash [c_yellow]knockback[/color].", "Reduce time between attacks by [c_green]20%[/color].", "Increase damage by [c_green]30%[/color].", "Increase attack area by [c_green]30%[/color] and [c_blue]stuns[/color] targets for a short moment after knockback."],
+	},
+	TailplugName:
+		Spanish: "Plug Type Asacoco",
+	},
+	SlowDownStickerName:
+		Spanish: "Slow Stamp",
+	},
+	a_muscleDescription:
+		Spanish: "Recibe un total de más de 500 puntos de daño en un juego.",
+	},
+	inaAttackDesc:
+		Spanish: ["A tentacle shoots out in front.", "Increase damage by [c_green]20%[/color].", "Reduce the time between attacks by [c_green]20%[/color].", "Increase attack area by [c_green]25%[/color].", "Increase damage by [c_green]50%[/color].", "Adds small [c_yellow]knockback[/color] on hit.", "Chain another [c_yellow]3[/color] Tentacles in a chain at a random direction."],
+	},
+	f_Marble_Stump:
+		Spanish: ["Marble Stump", ""],
+	},
+	workerDialogue:
+	},
+	ENCurseDescription:
+		Spanish: ["Fires cursed energy in front. On hit, there is a chance to spread another Curse towards another nearby target.", "Increase chance of chaining curses from 70% to [c_green]80%[/color].", "Increase damage by [c_green]30%[/color].", "Increase the maximum range limit of chaining curses to [c_green]125px[/color].", "Fire [c_green]2[/color] curses and increase chance of chaining to [c_green]90%[/color].", "Reduce the time between attacks by [c_green]15%[/color].", "Fire [c_green]3[/color] curses. Each time a curse spreads, its damage increases by [c_green]10%[/color]."],
+	},
+	thousandDamageName:
+		Spanish: "Thousand Milestone!",
+	},
+	StreamOfTearsName:
+		Spanish: "Stream Of Tears",
+	},
+	SPDDescription:
+	},
+	a_soloBeaterName:
+		Spanish: "Solo Beater",
+	},
+	a_fullCollabDescription:
+		Spanish: "Obtén 4 armas de colaboración en 1 juego",
+	},
+	mikoAttackName:
+		Spanish: "Sakura Gohei",
+	},
+	fl_marble:
+		Spanish: ["Marble Floor", ""],
+	},
+	zetaAttackDesc:
+	},
+	VirtualDivaDescription:
+		Spanish: ["For each second AZKi does not receive damage, increase Haste by [c_green]1%[/color], up to [c_green]10%[/color]. Buff resets to 0% if AZKi takes damage.", "For each second AZKi does not receive damage, increase Haste by [c_green]2%[/color], up to [c_green]20%[/color]. Buff resets to 0% if AZKi takes damage.", "For each second AZKi does not receive damage, increase Haste by [c_green]3%,[/color] up to [c_green]30%[/color]. Buff resets to 0% if AZKi takes damage."],
+	},
+	CheekyBratDescription:
+	},
+	achType:
+		Spanish: ["General", "Especificos del Personaje"],
+	},
+	a_kroniiGachikoiName:
+		Spanish: "True Kronie",
+	},
+	iofiSpecialAttackDesc:
+		Spanish: "¡Pinta el lienzo! Presiona el botón principal o secundario para pintar y causar daño.",
+	},
+	f_GamerChairE:
+		Spanish: ["Gamer Chair (Pink)", ""],
+	},
+	EliteCookingDescription:
+	},
+	stickerActions:
+	},
+	BodyPillowName:
+		Spanish: "Body Pillow",
+	},
+		Spanish: "Completa un escenario (Difícil) sin tomar ningún objeto de curación.",
+	},
+	a_baeGachikoiName:
+		Spanish: "True Brats",
+	},
+	InjectionAsacocoDescription:
+		Spanish: ["Lose [c_red]5%[/color] HP every second (until 1 HP remains), but gain [c_green]40%[/color] ATK.", "Lose [c_red]5%[/color] HP every second (until 1 HP remains), but gain [c_green]60%[/color] ATK.", "Lose [c_red]5%[/color] HP every second (until 1 HP remains), but gain [c_green]80%[/color] ATK."],
+	},
+	HopeSodaDescription:
+		Spanish: ["Increase critical hit damage by [c_green]10%[/color], but increase special cooldown by [c_red]25%[/color].", "Increase critical hit damage by [c_green]20%[/color], but increase special cooldown by [c_red]25%[/color].", "Increase critical hit damage by [c_green]30%[/color], but increase special cooldown by [c_red]25%[/color].", "Increase critical hit damage by [c_green]40%[/color], but increase special cooldown by [c_red]25%[/color].", "Increase critical hit damage by [c_green]50%[/color], but increase special cooldown by [c_red]25%[/color].", "Increase critical hit damage by [c_green]50%[/color]. Every 10th hit is guaranteed to be a Critical Hit."],
+	},
+	yagoostatueDescription:
+		Spanish: "Destruye una estatua de Yagoo.",
+	},
+	f_woodenBed:
+		Spanish: ["Wooden Bed (Blue)", ""],
+	},
+	d_mantaraysoup:
+		Spanish: ["Manta Ray Soup", "Gain 1 extra life."],
+	},
+	RoboDischargeDescription:
+		Spanish: ["Every level up, create an electric ring around Roboco for 5 seconds, dealing [c_green]100%[/color] damage. +1% Discharge damage for each level Roboco has.", "Every level up, create an electric ring around Roboco for 5 seconds, dealing [c_green]125%[/color] damage. +1% Discharge damage for each level Roboco has.", "Every level up, create an electric ring around Roboco for 5 seconds, dealing [c_green]150%[/color] damage. +1% Discharge damage for each level Roboco has."],
+	},
+	anvilSuccessRate:
+		Spanish: "Success Rate:  ",
+	},
+	a_iofiGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Airani Iofifteen.",
+	},
+	noSkills:
+		Spanish: "Skill Issue...    ):",
+	},
+	koroneName:
+		Spanish: "INUGAMI KORONE",
+	},
+	TrumpetStickerName:
+		Spanish: "Trumpet Stamp",
+	},
+	ProjUpName:
+		Spanish: "Projectile Up Stamp",
+	},
+	a_nomainName:
+		Spanish: "No Mains",
+	},
+	a_akiGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Aki Rosenthal.",
+	},
+	inaSpecialAttackName:
+		Spanish: "Tako Spin",
+	},
+	FuburaComingDescription:
+		Spanish: "Derrota a Fubura.",
+	},
+	f_neko:
+		Spanish: ["NEKO Plush", ""],
+	},
+	CurseBallName:
+		Spanish: "Curse Ball",
+	},
+	a_stealfishDescription:
+		Spanish: "Roba un pez a otro HoloMem.",
+	},
+	a_guraClearName:
+		Spanish: "A",
+	},
+	newText:
+		Spanish: "NEW!",
+	},
+	gameQuit:
+		Spanish: "Salir",
+	},
+	fl_tiled:
+		Spanish: ["Tiled Floor", ""],
+	},
+	SimpOfAllTimeDescription:
+		Spanish: ["[ "Targets can drop [c_holoblue]Hololive Merch[/color]. When picking up [c_holoblue]Hololive Merch[/color], Ollie takes 5 damage, but heal back the damage after 2 seconds and gain [c_green]30%[/color]","Haste and SPD for 8 seconds." ]", "[ "Targets can drop [c_holoblue]Hololive Merch[/color]. When picking up [c_holoblue]Hololive Merch[/color], Ollie takes 5 damage, but heal back the damage after 2 seconds and gain [c_green]40%[/color]","Haste and SPD for 8 seconds." ]", "[ "Targets can drop [c_holoblue]Hololive Merch[/color]. When picking up [c_holoblue]Hololive Merch[/color], Ollie takes 5 damage, but heal back the damage after 2 seconds and gain [c_green]50%[/color]","Haste and SPD for 8 seconds." ]"],
+	},
+	aquaSpecialAttackName:
+		Spanish: "NEKO",
+	},
+	a_luckyDayDescription:
+		Spanish: "Abre una caja súper.",
+	},
+	okayuAttackName:
+		Spanish: "Onigiri",
+	},
+	},
+	hiScoreOptions:
+		Spanish: ["Change Username", "Show Hiscore Names", "Use Username", "DELETE SCORES", "[c_red]Delete all scores?[/color]", "Scores deleted. Leaderboards may\ntake a few hours to update"],
+	},
+	f_goldTrophy1:
+		Spanish: ["Golden Shrimp Trophy", ""],
+	},
+	EliteLavaName:
+		Spanish: "Elite Lava Bucket",
+	},
+	testDialogue:
+		Spanish: ["[ "Test NPC","ahh the pepeloni, pepeloni. you know the pepeloni? the nooo one. i always, i always order the, the domino. domino pepeloni and without pepeloni. i always order the pepeloni and without pepeloni. pepeloni! " ]", "[ "Test NPC","i like pepeloni, yeah. i always, i always order the, the cheese- cheese pan. ahh how can i explain? i can explain by my drawing! i always order like the cheese pan that it has cheese on here, this part, the ear." ]", "[ "Test NPC","ear of pizza. and then, i order- wh- when i order pepeloni, the ear- it always have a pepeloni on h- on a top, but i pick up these... away! cause i don't eat it. and then i eat the cheese pan pizza. " ]", "[ "Test NPC","okay? you understand? understandable! pepeloni! yes." ]"],
+	},
+	ColdStickerName:
+		Spanish: "Cold Stamp",
+	},
+	a_reineGachikoiName:
+		Spanish: "True MERAKyat",
+	},
+	a_burgerDescription:
+		Spanish: "Come más de 50 hamburguesas en un juego.",
+	},
+	haatoSpecialAttackDesc:
+		Spanish: "Crea una explosión de corazón que repele a los enemigos o causa un 300% de daño. Cambia entre la forma Haato y la forma Haachama.",
+	},
+	gachaButton:
+		Spanish: "DEBUT!",
+	},
+	f_WoodenCrate:
+		Spanish: ["Wooden Crate", ""],
+	},
+	d_sushiset:
+		Spanish: ["Sushi Set", "Increase Crit by 10%."],
+	},
+	ShortHeightName:
+		Spanish: "Short Height",
+	},
+	baeName:
+		Spanish: "HAKOS BAELZ",
+	},
+	anyaAttackName:
+		Spanish: "Keris",
+	},
+	a_irysClearName:
+	},
+	noWorkers:
+		Spanish: "No workers found.",
+	},
+	lvlHundredName:
+		Spanish: "Glasses are Versatile",
+	},
+	f_Bathtub:
+		Spanish: ["Bathtub", ""],
+	},
+	defeatedYagooName:
+		Spanish: "Fired",
+	},
+	calliSpecialAttackName:
+		Spanish: "The Reaper",
+	},
+	a_obliteratedDescription:
+		Spanish: "Derrota a un jefe de 10 o 20 minutos en menos de 10 segundos.",
+	},
+	a_ameGachikoiName:
+		Spanish: "True Tea-mate",
+	},
+	GlowstickName:
+		Spanish: "Glowstick",
+	},
+	workerStatus:
+		Spanish: ["Exhausted", "Working"],
+	},
+	f_paintingB:
+		Spanish: ["Painting B", ""],
+	},
+	a_subaruGachikoiName:
+		Spanish: "True Subatomo",
+	},
+	a_haatoGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Akai Haato.",
+	},
+	NinjaHeadbandDescription:
+		Spanish: ["Increase SPD by [c_green]20%[/color]. In addition, increase damage of Melee weapons by [c_green]5%[/color].", "Increase SPD by [c_green]30%[/color]. In addition, Increase damage of Melee weapons by [c_green]10%[/color].", "Increase SPD by [c_green]40%[/color]. In addition, Increase damage of Melee weapons by [c_green]15%[/color]."],
+	},
+	mikoSpecialAttackDesc:
+		Spanish: "Crea una zona alrededor de Miko durante 8 segundos, invocando llamas calientes que queman todo. Los objetivos en esta zona reciben un 50% más de daño.",
+	},
+	KlutzDescription:
+		Spanish: ["Gain 1 additional Projectile to all Multi-Shot weapons, but there is a [c_green]30%[/color] chance the projectiles deal [c_red]half[/color] damage.", "Gain 1 additional Projectile to all Multi-Shot weapons, but there is a [c_green]20%[/color] chance the projectiles deal [c_red]half[/color] damage.", "Gain 1 additional Projectile to all Multi-Shot weapons, but there is a [c_green]10%[/color] chance the projectiles deal [c_red]half[/color] damage."],
+	},
+	i_eel:
+		Spanish: "Eel",
+	},
+	farmStatus:
+		Spanish: ["Progress: ", "Remaining Time: "],
+	},
+	DataCollectionName:
+		Spanish: "Data Collection",
+	},
+	SizeModDescription:
+		Spanish: "Tamaño +15%",
+	},
+	a_matsuriGachikoiName:
+		Spanish: "True Matsurisu",
+	},
+	ollieAttackDesc:
+		Spanish: ["Long slash forward.", "Increase damage by [c_green]20%[/color].", "Increase attack size by [c_green]20%[/color].", "Reduce time between attacks by [c_green]10%[/color].", "Increase damage and attack size by [c_green]25%[/color].", "Reduce time between attacks by [c_green]10%[/color].", "Throws the sword."],
+	},
+	MaterialGrindDescription:
+	},
+	irysSpecialAttackName:
+		Spanish: "La esperanza está descendiendo",
+	},
+	f_goldTrophy3:
+		Spanish: ["Golden Tuna Trophy", ""],
+	},
+	DemonWhisperName:
+		Spanish: "Demon Whisper",
+	},
+	a_risuGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Ayunda Risu.",
+	},
+	a_calliClearName:
+		Spanish: "Big Ups!",
+	},
+	f_WoodenHalfWall:
+		Spanish: ["Wooden Half Wall", ""],
+	},
+	SuicopathDescription:
+		Spanish: ["Defeating targets increases Crit by [c_green]2%[/color] for 4 seconds, up to [c_green]20%[/color]. Defeating targets with axe-related weapons has a 10% chance to heal 3 HP.", "Defeating targets increases Crit by [c_green]3%[/color] for 4 seconds, up to [c_green]30%[/color]. Defeating targets with axe-related weapons has a 10% chance to heal 3 HP.", "Defeating targets increases Crit by [c_green]4%[/color] for 4 seconds, up to [c_green]40%[/color]. Defeating targets with axe-related weapons has a 10% chance to heal 3 HP."],
+	},
+	d_vegetablesoup:
+		Spanish: ["Vegetable Soup", "Every 30 seconds, become invincible to all attacks for 5 seconds."],
+	},
+	cookButtons:
+		Spanish: ["Cook", "Set Auto Cook", "Auto Cook ON"],
+	},
+	a_kaelaClearDescription:
+		Spanish: "Completa un juego de Modo Escenario con Kaela Kovalskia.",
+	},
+		Spanish: ["Reduce Special cooldown by [c_green]20%[/color].", "Reduce Special cooldown by [c_green]25%[/color].", "Reduce Special cooldown by [c_green]30%[/color].", "Reduce Special cooldown by [c_green]35%[/color].", "Reduce Special cooldown by [c_green]40%[/color].", "Reduce Special cooldown by [c_green]45%[/color]. Allows the use of Special [c_green]once more[/color] immediately per charge."],
+	},
+	GodName:
+		Spanish: "GOD",
+	},
+	f_BoxA:
+		Spanish: ["Cardboard Box A", ""],
+	},
+	defeatYagooDescription:
+		Spanish: "Derrota a un Yagoo.",
+	},
+	CivilizationName:
+		Spanish: "Civilization",
+	},
+	aimTutorial:
+		Spanish: "Haz clic izquierdo para alternar o joystick derecho para apuntar",
+又は右スティックで狙う",
+	},
+	a_okayuGachikoiName:
+		Spanish: "True Onigiriya",
+	},
+	a_aquaClearDescription:
+		Spanish: "Completa un juego de Modo Escenario con Minato Aqua.",
+	},
+	guraAttackDesc:
+	},
+	f_plantpotC:
+		Spanish: ["Plant Pot C", ""],
+	},
+	TimeBubbleDescription:
+		Spanish: ["Every 10 seconds, create a [c_green]small[/color] time bubble that freezes targets in time, preventing them from moving or attacking.", "Every 10 seconds, create a [c_green]medium[/color] time bubble that freezes targets in time, preventing them from moving or attacking.", "Every 10 seconds, create a [c_green]large[/color] time bubble that freezes targets in time, preventing them from moving or attacking."],
+	},
+	},
+	BreastplateName:
+		Spanish: "Breastplate",
+	},
+	RatNGDescription:
+		Spanish: ["Reduce all attack damage by [c_red]15%[/color], but increase Crit chance by 30%.", "Reduce all attack damage by [c_red]7%[/color], but increase Crit chance by 30%.", "Increase Crit chance by 30%."],
+	},
+	a_tankclassDescription:
+		Spanish: "Tiene más de 500 puntos de salud en 1 carrera.",
+	},
+	a_hammertimeName:
+		Spanish: "It's Hammer Time",
+	},
+	NinjutsuName:
+		Spanish: "Zombie Ninjutsu",
+	},
+	i_lobster:
+		Spanish: "Lobster",
+	},
+	w_eastern:
+		Spanish: ["Eastern Wall", ""],
+	},
+	SizeUpName:
+		Spanish: "Size Up Stamp",
+	},
+	a_mikoClearDescription:
+		Spanish: "Completa un juego de Modo Escenario con Sakura Miko.",
+	},
+	matsuriName:
+		Spanish: "NATSUIRO MATSURI",
+	},
+	FriendzoneName:
+		Spanish: "Friendzone",
+	},
+	f_goldTrophy8:
+		Spanish: ["Golden Manta Ray Trophy", ""],
+	},
+	a_robocoGachikoiName:
+		Spanish: "True Robosa",
+	},
+	a_chocoGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Yuzuki Choco.",
+	},
+	fishingChangeWarning:
+		Spanish: "WARNING: Changing rods will reset the combo chain!",
+	},
+	YubiYubiName:
+		Spanish: "Korone Brainwashing",
+	},
+	suiseiAttackDesc:
+		Spanish: ["Swing a bloody axe in an arc in front.", "Increase damage by [c_green]30%[/color].", "Increase attack area by [c_green]20%[/color].", "Reduce time between attacks by [c_green]10%[/color].", "Increase damage by [c_green]30%[/color].", "Increase attack area by [c_green]20%[/color].", "Crit is guaranteed on Axe Swing and crits deal [c_green]3[/color]x damage."],
+	},
+	a_kiara10Name:
+		Spanish: "Chicken Down",
+	},
+	NurseName:
+		Spanish: "Nurse",
+	},
+	kroniiSpecialAttackDesc:
+	},
+	f_completeTrophy:
+		Spanish: ["Completionist's Grass", ""],
+	},
+	BLLoverName:
+		Spanish: "BL Fujoshi",
+	},
+	a_ollieGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Kureji Ollie.",
+	},
+	a_area15Name:
+		Spanish: "Area 15",
+	},
+	melAttackName:
+		Spanish: "Kapu Kapu",
+	},
+	fullWorkers:
+		Spanish: "Max number of workers reached.",
+	},
+	f_sink:
+		Spanish: ["Bathroom Sink", ""],
+	},
+	EnemyThenDescription:
+		Spanish: ["Attacks have a [c_green]10%[/color] chance to mark a target (max 13). Marked targets receive [c_green]25%[/color] more damage, and a [c_green]20%[/color] chance to heal [c_green]2[/color] HP when defeated.", "Attacks have a [c_green]15%[/color] chance to mark a target (max 13). Marked targets receive [c_green]33%[/color] more damage, and a [c_green]25%[/color] chance to heal [c_green]3[/color] HP when defeated.", "Attacks have a [c_green]20%[/color] chance to mark a target (max 13). Marked targets receive [c_green]50%[/color] more damage, and a [c_green]30%[/color] chance to heal [c_green]4[/color] HP when defeated."],
+	},
+	StudyGlassesName:
+		Spanish: "Study Glasses",
+	},
+	shionSpecialAttackDesc:
+		Spanish: "Salta alto en el aire, volviéndose invencible durante 3 segundos. Luego cae y causa un 1000% de daño a todos los objetivos alrededor.",
+	},
+	BreatheInAsacocoName:
+		Spanish: "Breathe-In Type Asacoco",
+	},
+	risuSpecialAttackDesc:
+		Spanish: "Después de un poderoso canto que aturde a los objetivos durante 3 segundos, Risu invoca nueces grandes que golpean, causando un 400% de daño a todos los objetivos alrededor.",
+	},
+	a_trueRNGName:
+		Spanish: "True RNG",
+	},
+	a_heyheyDescription:
+		Spanish: "Molesta a HoloMem.",
+	},
+	KnockbackStickerName:
+		Spanish: "Knockback Stamp",
+	},
+	i_pufferfish:
+		Spanish: "Pufferfish",
+	},
+	FleshWoundName:
+		Spanish: "Flesh Wound",
+	},
+	w_polkaB:
+		Spanish: ["Polka Dot Wall B", ""],
+	},
+	CreditCardDescription:
+		Spanish: ["Cost of enhancing is reduced by [c_green]20%[/color] and anvils appear [c_green]20%[/color] more often.", "Cost of enhancing is reduced by [c_green]25%[/color] and anvils appear [c_green]40%[/color] more often.", "Cost of enhancing is reduced by [c_green]30%[/color] and anvils appear [c_green]60%[/color] more often.", "Cost of enhancing is reduced by [c_green]35%[/color] and anvils appear [c_green]80%[/color] more often.", "Cost of enhancing is reduced by [c_green]40%[/color] and anvils appear [c_green]twice[/color] as often.", "Cost of enhancing is reduced by [c_green]50%[/color] and anvils appear [c_green]twice[/color] as often. At every minute, an anvil will appear."],
+	},
+	chocoAttackName:
+		Spanish: "Love Needle",
+	},
+	sanaSpecialAttackDesc:
+		Spanish: "Se convierte en Beeg durante 10 segundos. Sana es invencible a todos los ataques y causa un 200% de daño a todos los objetivos. Luego absorbe toda la experiencia en la pantalla.",
+	},
+	AromatherapyDescription:
+		Spanish: ["Targets within [c_green]100px[/color] has a [c_green]15%[/color] chance to gain a debuff (ATK, SPD, or DEF) every 1.5 seconds. Each stack debuffs 10% of that stat up to 30%.", "Targets within [c_green]125px[/color] has a [c_green]25%[/color] chance to gain a debuff (ATK, SPD, or DEF) every 1.5 seconds. Each stack debuffs 10% of that stat up to 30%.", "Targets within [c_green]150px[/color] has a [c_green]35%[/color] chance to gain a debuff (ATK, SPD, or DEF) every 1.5 seconds. Each stack debuffs 10% of that stat up to 30%."],
+	},
+	a_millionaireName:
+		Spanish: "Millionaire",
+	},
+	f_kitchencounterA:
+		Spanish: ["Kitchen Counter ", ""],
+	},
+	DetectiveEyeDescription:
+	},
+	ameSpecialAttackDesc:
+	},
+	a_sanaGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Tsukumo Sana.",
+	},
+	a_donttouchName:
+		Spanish: "Don't Touch",
+	},
+	nemuDialogue:
+	},
+	fishingRods:
+	},
+	YummyDescription:
+		Spanish: ["Increase food drops by [c_green]50%[/color]. When eating food, gain [c_green]40%[/color] ATK, [c_green]15%[/color] SPD, and [c_green]5%[/color] Crit for 8 seconds.", "Increase food drops by [c_green]75%[/color]. When eating food, gain [c_green]60%[/color] ATK, [c_green]25%[/color] SPD, and [c_green]10%[/color] Crit for 8 seconds.", "Increase food drops by [c_green]100%[/color]. When eating food, gain [c_green]80%[/color] ATK, [c_green]35%[/color] SPD, and [c_green]15%[/color] Crit for 8 seconds."],
+	},
+	suiseiSpecialAttackDesc:
+		Spanish: "Invoca una lluvia de bloques que caen que causan un 300% de daño cada uno durante 5 segundos, aplanando los objetivos y haciéndolos incapaces de moverse durante 5 segundos.",
+	},
+	cookTitles:
+		Spanish: ["Recipes", "Food Effect:", "Uses:", "Ingredients:"],
+	},
+	BuyingPowerName:
+		Spanish: "Buying Power",
+	},
+	a_koboClearDescription:
+		Spanish: "Completa un juego de Modo Escenario con Kobo Kanaeru.",
+	},
+	f_dumbells:
+		Spanish: ["Dumbells", ""],
+	},
+	akiSpecialAttackDesc:
+		Spanish: "Canta una canción popular sobrenatural, invocando una tormenta de pétalos de rosa que causa un 50% de daño y aplica un 20% de ralentización mientras se cura un 20% por segundo.",
+	},
+	a_pacifistName:
+		Spanish: "Pacifist",
+	},
+	a_ayameClearDescription:
+		Spanish: "Completa un juego de Modo Escenario con Nakiri Ayame.",
+	},
+	HolyMilkName:
+		Spanish: "Knightly Milk",
+	},
+	f_Toilet:
+		Spanish: ["Toilet", ""],
+	},
+	EnergyDrinkName:
+		Spanish: "Energy Drink",
+	},
+	CuttingBoardName:
+		Spanish: "Cutting Board",
+	},
+	StunStickerDescription:
+		Spanish: ["Weapon hits have a [c_green]10%[/color] chance to stun enemies temporarily. Also has a [c_green]20%[/color] chance to destroy enemy projectiles.", "Weapon hits have a [c_green]20%[/color] chance to stun enemies temporarily. Also has a [c_green]30%[/color] chance to destroy enemy projectiles.", "Weapon hits have a [c_green]30%[/color] chance to stun enemies temporarily. Also has a [c_green]40%[/color] chance to destroy enemy projectiles."],
+	},
+	ComputationDescription:
+		Spanish: ["Defeating a target has a [c_green]10%[/color] chance to drop a [c_blue]Battery[/color]. [c_blue]Batteries[/color] give an additional [c_green]50%[/color] EXP and shocks nearby targets for 0.5 seconds.", "Defeating a target has a [c_green]15%[/color] chance to drop a [c_blue]Battery[/color]. [c_blue]Batteries[/color] give an additional [c_green]75%[/color] EXP and shocks nearby targets for 0.5 seconds.", "Defeating a target has a [c_green]20%[/color] chance to drop a [c_blue]Battery[/color]. [c_blue]Batteries[/color] give an additional [c_green]100%[/color] EXP and shocks nearby targets for 0.5 seconds."],
+	},
+	shirakenElfriendShop:
+		Spanish: "Shiranui Construction Shop",
+	},
+	BrokenDreamsName:
+		Spanish: "Broken Dreams",
+	},
+	a_zeta10Description:
+		Spanish: "Alcanza 10 minutos con Vestia Zeta.",
+	},
+	a_howcouldyouName:
+		Spanish: "How Could You...",
+	},
+	mioAttackDesc:
+		Spanish: ["Throw a card that quickly returns back.", "Increase damage by [c_green]20%[/color].", "Throw [c_green]3[/color] tarot cards.", "Reduce time between attacks by [c_green]15%[/color].", "Throw cards [c_green]farther[/color] and increase damage by [c_green]40%[/color].", "Throw [c_green]4[/color] tarot cards.", "When hitting a target, there is a [c_green]30%[/color] chance that the target may lose [c_green]20%[/color] ATK, SPD, or take [c_green]20%[/color] more damage."],
+	},
+	},
+	HeadphonesName:
+		Spanish: "Headphones",
+	},
+	w_wooden:
+		Spanish: ["Wooden Wall", ""],
+	},
+	StarHalberdDescription:
+		Spanish: ["A large bardiche that deals high critical damage, and summons falling stars."],
+	},
+	a_moonaClearDescription:
+		Spanish: "Completa un juego de Modo Escenario con Moona Hoshinova.",
+	},
+	f_laundrybasket:
+		Spanish: ["Laundry Basket", ""],
+	},
+	UnitStickerName:
+		Spanish: "Unit Stamp",
+	},
+	TheRapperName:
+		Spanish: "The Rapper",
+	},
+	a_shion10Name:
+		Spanish: "Kusogaki Power",
+	},
+	a_faunaGachikoiDescription:
+		Spanish: "Alcanza el nivel de fandom Gachikoi para Ceres Fauna.",
+	},
+	KeyBindButtons:
+		Spanish: ["Confirmar/Deshacer", "Cancelar/Especial", "Izquierda", "Derecha", "Arriba", "Abajo", "CONFIGURAR TODO"],
+	},
+	HaluName:
+		Spanish: "Halu",
+	},
+	gameEnterName:
+		Spanish: "Player Name",
+	},
+	TooHaluName:
+		Spanish: "Went Too Halu",
+	},
+	CopyStickerDescription:
+		Spanish: ["The first target this weapon hits is marked. The marked target will receive [c_green]20%[/color] of the damage inflicted on any other targets.", "The first target this weapon hits is marked. The marked target will receive [c_green]25%[/color] of the damage inflicted on any other targets.", "The first target this weapon hits is marked. The marked target will receive [c_green]30%[/color] of the damage inflicted on any other targets."],
+	},
+	a_korone10Name:
+		Spanish: "Hey Guys~",
+	},
+	managerlevelText:
+		Spanish: "You can now recruit higher tier workers!",
+雇えるようになりました！",
+	},
+	FoxKingName:
+		Spanish: "Fox King",
+	},
+	f_floorCushion:
+		Spanish: ["Floor Cushion", ""],
+	},
+	TearsHappinessName:
+		Spanish: "Tears of Happiness...?",
+	},
+	bloopDialogue2:
+		Spanish: ["[ "Bloop","Oh, Gura! Welcome to the shop! I trade in fishing goods here~ See that pond in front of me? That's where you can fish up all kinds of sea life. If you trade me some of the fish, I'll pay you that sand you love in return." ]", "[ "Bloop","You already have a fishing rod, so you can start immediately. But your starting fishing rod isn't very good, so you won't be able to catch every kind of fish just yet. But worry not! I have a bunch of better rods that I can sell to you." ]", "[ "Bloop","What? No.. please!!! I can't give even you these for free!!" ]", "[ "Bloop","...Anyways, the more fish you catch in a row, the harder it'll be to catch them. But if you can do it, you'll get more bonus fish. ISN' THAT GREAT!?" ]", "[ "Bloop","And if you're super DUPER lucky, you may even catch some.... SHINY fish!!!! I know you'll be able to do it Gura, but I'll reward you lots anyways!" ]", "[ "Bloop","If you find yourself having TOO MUCH sand, I can trade them back for some HoloCoins. But why would you not want sand?" ]", "[ "Bloop","Well, I'll be here if you need me like usual~" ]"],
+	},
+	AlienBrainwashingName:
+		Spanish: "Alien Brainwashing",
+	},
+	a_payToWinDescription:
+		Spanish: "Obtén un arma con +10 mejoras.",
+	},
+	a_azkiClearName:
+		Spanish: "Kon Azki!",
+	},
+	mumeiSpecialAttackName:
+		Spanish: "True Horror",
+	},
+	melSpecialAttackDesc:
+メル付近のボス以外の相手もBANされてしまう。",
+	},
+	XPotatoDescription:
+		Spanish: ["Throw a potato that bounces around the screen before exploding into an X.", "Increase the X explosion size by [c_green]20%[/color].", "Throw [c_green]2[/color] potatoes.", "Increase damage and speed by [c_green]30%[/color].", "Reduce the time between attacks by [c_green]15%[/color] and remove hit limit.", "Increase the size of potatoes and the X explosion size by [c_green]30%[/color].", "Throw [c_green]4[/color] potatoes."],
+	},
+	f_wallMirror:
+		Spanish: ["Wall Mirror", ""],
+	},
+	enhanceDescription:
+		Spanish: "Mejora aún más para aumentar el daño base en [c_green]2[/color].",
+	},
+	timeModeTexts:
+		Spanish: ["Save 4000 fans as fast as you can!\n  [c_yellow]-Collabs can not be created.\n  -Super Items are not obtainable.\n  -Shop Upgrades are standardized.[/color]", "", ""],
+	},
+	subaruAttackName:
+		Spanish: "Baseball Pitch",
+	},
+	shopButtons:
+		Spanish: ["Gacha de Personajes", "Comprar Mejoras", "Armería", "Salir"],
+	},
+	azkiSpecialAttackName:
+		Spanish: "Full Concert",
+	},
+	a_zetaGachikoiName:
+		Spanish: "True Zecretary",
+	},
+	a_ina10Description:
+		Spanish: "Alcanza 10 minutos con Ninomae Inanis.",
+	},
+	NoPressureDescription:
+		Spanish: ["[ "Deals [c_green]75%[/color] damage to all targets within 125px every 2 seconds and reduces their SPD by 20%. Each time a target is hit by pressure within 4 seconds, ","the damage is increased by 25% up to 10 times." ]", "[ "Deals [c_green]100%[/color] damage to all targets within 125px every 2 seconds and reduces their SPD by 20%. Each time a target is hit by pressure within 4 seconds, ","the damage is increased by 25% up to 10 times." ]", "[ "Deals [c_green]125%[/color] damage to all targets within 125px every 2 seconds and reduces their SPD by 20%. Each time a target is hit by pressure within 4 seconds, ","the damage is increased by 25% up to 10 times." ]"],
+	},
+	mioSpecialAttackName:
+		Spanish: "Hatotaurus",
+	},
+	introText:
+	},
+	i_wheat:
+		Spanish: ["Wheat", "Wheat Seed"],
+	},
+	FocusShadesDescription:
+	},
+	DuckASMRDescription:
+		Spanish: ["Create a sound wave every 10 seconds that deals [c_green]100%[/color] damage. Damage increases up to [c_green]400%[/color] and may cause Stun the closer a target is to the center.", "Create a sound wave every 10 seconds that deals [c_green]150%[/color] damage. Damage increases up to [c_green]600%[/color] and may cause Stun the closer a target is to the center.", "Create a sound wave every 10 seconds that deals [c_green]200%[/color] damage. Damage increases up to [c_green]800%[/color] and may cause Stun the closer a target is to the center."],
+	},
+	a_mumeiClearName:
+		Spanish: "I forgor",
+	},
+	fubukiSpecialAttackName:
+		Spanish: "Fubuki Storm",
+	},
+	f_marble_DiningTable:
+		Spanish: ["Marble Dining Table", ""],
+	},
+	WorkaholicDescription:
+		Spanish: ["For each target defeated, increase ATK by [c_green]2%[/color] for 4 seconds up to [c_green]40%[/color]. Refreshes duration on each target defeat.", "For each target defeated, increase ATK by [c_green]3%[/color] for 4 seconds up to [c_green]60%[/color]. Refreshes duration on each target defeat.", "For each target defeated, increase ATK by [c_green]4%[/color] for 4 seconds up to [c_green]80%[/color], and SPD by 2% up to 40%. Refreshes duration on each target defeat."],
+	},
+	EncoreName:
+		Spanish: "Encore!",
+	},
+	DevilHatName:
+		Spanish: "Devil Hat",
+	},
+	},
+	CEOTearsName:
+		Spanish: "CEO's Tears",
+	},
+	a_skillissueDescription:
+	},
+	a_fubukiClearName:
+		Spanish: "Kon Kon Kitsune!",
+	},
+	HPDescription:
+		Spanish: "Aumenta la salud máxima en [c_green]10%[/color].",
+	},
+	SensitiveVoiceDescription:
+		Spanish: ["Increase Crit by [c_green]5%[/color]. Crits have a [c_green]10%[/color] chance to "Charm" targets within 120px for 4 seconds, where they can then be eaten to heal [c_green]3%[/color] HP.", "Increase Crit by [c_green]10%[/color]. Crits have a [c_green]15%[/color] chance to "Charm" targets within 120px for 4 seconds, where they can then be eaten to heal [c_green]4%[/color] HP.", "Increase Crit by [c_green]15%[/color]. Crits have a [c_green]20%[/color] chance to "Charm" targets within 120px for 4 seconds, where they can then be eaten to heal [c_green]5%[/color] HP."],
+	},
+	aquaAttackDesc:
+		Spanish: ["Throws a large spinning broom.", "Increase damage by [c_green]20%[/color].", "Gain small [c_yellow]knockback[/color].", "Throw [c_green]2[/color] Brooms.", "Increase size by [c_green]15%[/color].", "Reduce time between attacks by [c_green]15%[/color].", "Throw [c_green]3[/color] Brooms. Targets have a [c_green]30%[/color] chance to become [c_blue]Wet[/color]. Brooms damage is increased by [c_green]20%[/color] for each stack the target has."],
+	},
+	reineSpecialAttackDesc:
+		Spanish: "Carga 5 puñetazos. Presiona el ataque especial de nuevo para realizar un puñetazo masivo. Cada puñetazo causa un 300% de daño y golpea las monedas Holo de los objetivos.",
+	},
+	PowerOfAtlantisName:
+		Spanish: "Power of Atlantis",
+	},
+	a_kroniiClearDescription:
+		Spanish: "Completa un juego de Modo Escenario con Ouro Kronii.",
+	},
+	moonaSpecialAttackDesc:
+		Spanish: "Se transforma en la forma de la verdadera diosa de la luna.",
+	},
+	iofiAttackName:
+		Spanish: "Paint Brush",
+	},
+	HiLevelName:
+		Spanish: "Hi-Level",
+	},
+	f_GamerChairB:
+		Spanish: ["Gamer Chair (Blue)", ""],
+	},
+	soraName:
+		Spanish: "TOKINO SORA",
+	},
+	allAchievementName:
+		Spanish: "Get Some Help.",
+	},
+	a_plentyoffishName:
+		Spanish: "Plenty of Fish in the Sea",
+	},
+	a_baeClearDescription:
+		Spanish: "Completa un juego de Modo Escenario con Hakos Baelz.",
+	},
+	MuscleName:
+		Spanish: "Muscle!",
+	},
+	MembershipName:
+		Spanish: "Membership",
+	},
+	LightBeamDescription:
+		Spanish: ["Throw glowsticks that explode into targeted beams!"],
+	},
+	f_Wooden_Table:
+		Spanish: ["Wooden Table", ""],
+	},
+	d_calamariset:
+		Spanish: ["Calamari Set", "Increase Max HP by 40."],
+	},
+	robocoSpecialAttackDesc:
+	},
+	BabyLanguageName:
+		Spanish: "Baby Language?",
+	},
+	recruitCollect:
+		Spanish: "Collect",
+	},
+	PoltatoPCDescription:
+		Spanish: [""],
+	},
+	a_inaGachikoiName:
+		Spanish: "True Takodachi",
+	},
+	critName:
+		Spanish: "CRIT UP",
+	},
+	ATKName:
+		Spanish: "ATK UP",
+	},
+	a_MythOrTreatDescription:
+		Spanish: "Derrota al jefe del escenario 3 difícil.",
+	},
+	moveTutorial:
+		Spanish: " o joystick izquierdo para moverte",
+ to move",
+	},
+	LegendarySausageName:
+		Spanish: "Legendary Sausage",
+	},
+	workerFood:
+		Spanish: "Currently wants: ",
+	},
+	f_MarbleColumn:
+		Spanish: ["Marble Column", ""],
+	},
+	ThousandMileStareName:
+		Spanish: "Thousand Mile Stare",
+	},
+	SharkBiteName:
+		Spanish: "Shark Bite",
+	},
+	a_soraClearName:
+		Spanish: "Nun-nun!",
+	},
+	a_fullyLoadedDescription:
+		Spanish: "Completa el arsenal.",
+	},
+	kiaraAttackName:
+		Spanish: "Phoenix Sword",
+	},
+	fl_redCarpet:
+		Spanish: ["Red Carpet Floor", ""],
+	},
+	zetaName:
+		Spanish: "VESTIA ZETA",
+	},
+	SuperChattoTimeName:
+		Spanish: "Super Chatto Time!",
+	},
+	BeetleDescription:
+		Spanish: ["Increase damage of any Character Skill attacks by [c_green]33%[/color]. Increase it by a further 1% for each player level.", "Increase damage of any Character Skill attacks by [c_green]66%[/color]. Increase it by a further 1% for each player level.", "Increase damage of any Character Skill attacks by [c_green]100%[/color]. Increase it by a further 1% for each player level."],
+	},
+	SafeISwearDescription:
+		Spanish: "Completa un escenario utilizando el tipo de enchufe Asacoco.",
+	},
+	},
+	PraiseName:
+		Spanish: "Praise",
+	},
+	a_lookImOnTVName:
+		Spanish: "Look I'm On TV",
+	},
+		Spanish: "Desbloquea y usa un personaje",
+	},
+	hiscoreMenu:
+		Spanish: ["Obteniendo puntuaciones, por favor espera", "No hay puntuaciones para este personaje...", "LEADERBOARD", "RESULTADO FINAL", " HOUR LEFT", " HOURS LEFT", "Falló al obtener puntuaciones", "No hay conexión de red", "ESPERANDO RESULTADOS"],
+	},
+	f_GamerChairG:
+		Spanish: ["Gamer Chair (Orange)", ""],
+	},
+	EliteDescription:
+		Spanish: ["From any healing, Miko gains a 4 second buff that increases ATK and SPD by [c_green]20%[/color]. Any [c_pink]Elite[/color] weapons are 10% larger.", "From any healing, Miko gains a 4 second buff that increases ATK and SPD by [c_green]35%[/color]. Any [c_pink]Elite[/color] weapons are 10% larger.", "From any healing, Miko gains a 4 second buff that increases ATK and SPD by [c_green]50%[/color]. Any [c_pink]Elite[/color] weapons are 10% larger."],
+	},
+	tenThousandDamageDescription:
+		Spanish: "Causa más de 10000 puntos de daño en un ataque.",
+	},
+	DelusionalName:
+		Spanish: "Delusional",
+	},
+	boingDescription:
+		Spanish: "Alcanza 10 minutos con la tabla de cortar o armas relacionadas a ciertos personajes.",
+	},
+	RainbowStickerDescription:
+		Spanish: ["Weapon attacks will look pretty. There is no other effect.", "Nothing happens from leveling this up. What are you expecting it to do, rainbow harder?", "Please stop it already has all the colors we can't invent new colors."],
+	},
+	pickupRangeDescription:
+	},
+	a_reineClearDescription:
+		Spanish: "Completa un juego de Modo Escenario con Pavolia Reine.",
+	},
+	a_barebonesName:
+		Spanish: "Barebones",
+	},
+	LightnessStickerDescription:
+		Spanish: ["Decrease damage of the main weapon by [c_red]20%[/color], and increasing SPD of the character by [c_green]20%[/color].", "Decrease damage of the main weapon by [c_red]20%[/color], and increasing SPD of the character by [c_green]30%[/color].", "Decrease damage of the main weapon by [c_red]20%[/color], and increasing SPD of the character by [c_green]40%[/color]."],
+	},
+	furnitureTypes:
+		Spanish: ["Bedroom", "Living Room", "Kitchen", "Washroom", "Decorations", "Structure", "Wall", "Interior"],
+	},
+	firstBossName:
+		Spanish: "BBBBRRRRRRRREEEEEE",
+	},
+	f_woodenBedC:
+		Spanish: ["Wooden Bed (Green)", ""],
+	},
+	d_pufferfishmeal:
+		Spanish: ["Pufferfish Meal Set", "Increase ATK/SPD/PUR by 20% and Max HP/Crit/Haste by 10%."],
+	},
+	SeisoRepName:
+		Spanish: "Seiso Representative",
+	},
+	PolyglotDescription:
+		Spanish: ["[ "Targets drop Language Orbs that switch Iofi's language, granting ATK/SPD/PUR by [c_green]25%[/color], or Crit/Haste by [c_green]10%[/color]. If the current language gained","is different, create a burst dealing 200% damage." ]", "[ "Targets drop Language Orbs that switch Iofi's language, granting ATK/SPD/PUR by [c_green]50%[/color], or Crit/Haste by [c_green]20%[/color]. If the current language gained","is different, create a burst dealing 200% damage." ]", "[ "Targets drop Language Orbs that switch Iofi's language, granting ATK/SPD/PUR by [c_green]75%[/color], or Crit/Haste by [c_green]30%[/color]. If the current language gained","is different, create a burst dealing 200% damage." ]"],
+	},
+	a_irys10Description:
+		Spanish: "Alcanza 10 minutos con IRyS.",
+	},
+	nousagiBDialogue:
+		Spanish: ["[ "Usaken Nousagi","For the princess!!!!" ]"],
+	},
+	lvlFiftyDescription:
+		Spanish: "Alcanza el nivel 50 en un juego.",
+	},
+	koroneSpecialAttackName:
+		Spanish: "Ending Making Time!",
+	},
+	f_AchanDoll:
+		Spanish: ["A-Chan Doll", ""],
+	},
+	CritUpName:
+		Spanish: "Crit Up Stamp",
+	},
+	ATKUPName:
+		Spanish: "ATK UP Stamp",
+	},
+	a_nothoughtsName:
+		Spanish: "No Thoughts Head Empty",
+	},
+	a_ameClearDescription:
+		Spanish: "Completa un juego de Modo Escenario con Amelia Watson.",
+	},
+	levelButtons:
+		Spanish: ["Reroll", "Eliminate"],
+	},
+	GuardianTreeName:
+		Spanish: "Guardian Tree",
+	},
+	fullCollabDescription:
+		Spanish: "Obtén 4 armas de colaboración en 1 juego.",
+	},
+	workerRemove:
+		Spanish: "Send away to the 'Usual Room'?",
+	},
+	f_nightstandB:
+		Spanish: ["Wooden Nightstand with Lamp", ""],
+	},
+	CursedName:
+		Spanish: "You have been Cursed",
+	},
+	specialattack:
+		Spanish: "SPECIAL",
+	},
+	a_subaruClearDescription:
+		Spanish: "Completa un juego de Modo Escenario con Oozora Subaru.",
+	},
+	a_guraGachikoiName:
+		Spanish: "True Chumbud",
+	},
+	MiKoroneDescription:
+		Spanish: ["Burning hot potatos fall, and targets hit by it leave lava pools as they move."],
+	},
+	kiaraSpecialAttackName:
+		Spanish: "Phoenix Fire",
+	},
+	i_carrot:
+		Spanish: ["Carrot", "Carrot Seed"],
+	},
+	HasteModDescription:
+		Spanish: "Tiempo de enfriamiento -10%",
+	},
+	gameSettings:
+		Spanish: "Settings",
+	},
+	fl_wooden2:
+		Spanish: ["Wooden Floor B", ""],
+	},
+	stageDescription:
+		Spanish: "¡Nuevo escenario desbloqueado!",
+	},
+	CRaticalHitDescription:
+		Spanish: ["Critical hits will roll the same percentage chance again to deal an extended critical hit, dealing [c_green]2[/color] times damage.", "Critical hits will roll the same percentage chance again to deal an extended critical hit, dealing [c_green]3[/color] times damage.", "Critical hits will roll the same percentage chance again to deal an extended critical hit, dealing [c_green]4[/color] times damage."],
+	},
+	CheerleaderDescription:
+		Spanish: ["When hitting a target within 100px, gain [c_green]2%[/color] ATK and [c_green]2%[/color] SPD for 4 seconds, up to [c_green]30%[/color] ATK and [c_green]30%[/color] SPD.", "When hitting a target within 100px, gain [c_green]3%[/color] ATK and [c_green]3%[/color] SPD for 4 seconds, up to [c_green]45%[/color] ATK and [c_green]45%[/color] SPD.", "When hitting a target within 100px, gain [c_green]4%[/color] ATK and [c_green]4%[/color] SPD for 4 seconds, up to [c_green]60%[/color] ATK and [c_green]60%[/color] SPD."],
+	},
+	a_matsuriClearDescription:
+		Spanish: "Completa un juego de Modo Escenario con Natsuiro Matsuri.",
+	},
+	MasterOfBlocksDescription:
+		Spanish: ["Critical hits has a [c_green]15%[/color] chance to summon a falling block from above that deals [c_green]150%[/color] damage. There is a 30% chance to cause [c_yellow]Flattened[/color] on hit.", "Critical hits has a [c_green]20%[/color] chance to summon a falling block from above that deals [c_green]200%[/color] damage. There is a 30% chance to cause [c_yellow]Flattened[/color] on hit.", "Critical hits has a [c_green]25%[/color] chance to summon a falling block from above that deals [c_green]250%[/color] damage. There is a 30% chance to cause [c_yellow]Flattened[/color] on hit."],
+	},
+	irysAttackName:
+		Spanish: "Nephilim Blast",
+	},
+	WhispererDescription:
+		Spanish: ["Every 10 seconds, gain 1 [c_green]Whisper[/color] (max [c_green]3[/color]). Each stack heals 2% HP every 2 seconds. On taking the next hit, consume 1 Whisper to negate the attack.", "Every 10 seconds, gain 1 [c_green]Whisper[/color] (max [c_green]4[/color]). Each stack heals 2% HP every 2 seconds. On taking the next hit, consume 1 Whisper to negate the attack.", "Every 10 seconds, gain 1 [c_green]Whisper[/color] (max [c_green]5[/color]). Each stack heals 2% HP every 2 seconds. On taking the next hit, consume 1 Whisper to negate the attack."],
+	},
+	f_goldTrophy11:
+		Spanish: ["Golden Shark Trophy", ""],
+	},
+	BombStickerName:
+		Spanish: "Bomb Stamp",
+	},
+	RainCloudDescription:
+		Spanish: ["Summons [c_green]1[/color] rain cloud that hovers around nearby enemies, raining and dealing constant [c_green]100%[/color] damage over time.", "Summons [c_green]2[/color] rain clouds that hovers around nearby enemies, raining and dealing constant [c_green]120%[/color] damage over time.", "Summons [c_green]3[/color] rain clouds that hovers around nearby enemies, raining and dealing constant [c_green]150%[/color] damage over time."],
+	},
+	PiggyBankDescription:
+		Spanish: ["Gain 1 coin for every [c_green]100px[/color] traveled and increase SPD by [c_green]20%[/color]. However, reduce Pick Up Range by [c_red]30%[/color].", "Gain 1 coin for every [c_green]75px[/color] traveled and increase SPD by [c_green]30%[/color]. However, reduce Pick Up Range by [c_red]30%[/color].", "Gain 1 coin for every [c_green]50px[/color] traveled and increase SPD by [c_green]40%[/color]. However, reduce Pick Up Range by [c_red]30%[/color].", "Gain 1 coin for every [c_green]25px[/color] traveled and increase SPD by [c_green]50%[/color]."],
+	},
+	a_rhythmmasterName:
+		Spanish: "Rhythm Master",
+	},
+	a_calli10Description:
+		Spanish: "Alcanza 10 minutos con Mori Calliope.",
+	},
+	NakiriumName:
+		Spanish: "Nakirium ",
+	},
+	LightningWeinerDescription:
+		Spanish: ["Shoots Lightning charged weiners that home into targets, and summons lightning to strike down when hit."],
+	},
+	kaelaAttackDesc:
+		Spanish: ["Swings a hammer in front.", "Increase damage by [c_green]30%[/color].", "Increase attack size by [c_green]20%[/color].", "Reduce time between attacks by [c_green]15%[/color].", "Adds a small [c_yellow]knockback[/color] effect.", "Increase damage and attack size by [c_green]30%[/color].", "Increase damage by [c_green]30%[/color]. There is a [c_green]30%[/color] chance to hit several minerals out of the target, which deal [c_green]40%[/color] of the weapon's damage each."],
+	},
+	fishCaught:
+		Spanish: "Total Caught:  ",
+	},
+	},
+	TimeToUpgradeDescription:
+		Spanish: "Usa un yunque.",
+	},
+	d_tunasandwich:
+		Spanish: ["Tuna Sandwich", "Increase SPD by 25%."],
+	},
+	anyaSpecialAttackDesc:
+		Spanish: "Anya se transforma en una daga viviente, volviéndose invencible durante 10 segundos y causa daño constante a cualquier objetivo en su camino.",
+	},
+	AcerolaJuiceName:
+		Spanish: "Acerola Juice",
+	},
+	a_irysGachikoiName:
+		Spanish: "True Irystocrat",
+	},
+	kroniiAttackDesc:
+		Spanish: ["Stab forward with a large clock hand, and at a random target with the smaller clock hand.", "Increase area of attack by [c_green]20%[/color].", "Increase damage by [c_green]30%[/color].", "Reduce the time between attack by [c_green]10%[/color].", "Increase area of attack by [c_green]30%[/color].", "Reduce time between attack by [c_green]15%[/color].", "Increase damage by [c_green]50%[/color] and [c_blue]stun[/color] targets for 0.5 seconds."],
+	},
+	f_berryplant:
+		Spanish: ["Berry Plant", ""],
+	},
+	defeatGoldenYagooName:
+		Spanish: "Payday",
+	},
+	a_okayuClearDescription:
+		Spanish: "Completa un juego de Modo Escenario con Nekomata Okayu.",
+	},
+	a_anyaClearName:
+		Spanish: "Otsukeris~",
+	},
+	MukiroseDescription:
+		Spanish: ["When a target receives a Stat Debuff, there is a [c_green]50%[/color] chance that target takes [c_green]50%[/color] damage for each type of Stat Debuff they currently have.", "When a target receives a Stat Debuff, there is a [c_green]66%[/color] chance that target takes [c_green]75%[/color] damage for each type of Stat Debuff they currently have.", "When a target receives a Stat Debuff, there is a [c_green]75%[/color] chance that target takes [c_green]100%[/color] damage for each type of Stat Debuff they currently have."],
+	},
+	HoloBombDescription:
+		Spanish: ["Una bomba que explota, infligiendo daño a todos los objetivos cercanos.", "Aumenta el tamaño de la explosión en [c_green]15%[/color].", "Aumenta el daño en [c_green]20%[/color].", "Lanza [c_green]2[/color] bombas.", "Reduce el tiempo entre ataques en [c_green]20%[/color].", "Aumenta el tamaño de la explosión en [c_green]20%[/color].", "Lanza [c_green]3[/color] bombas."],
+	},
+	f_paintingD:
+		Spanish: ["Painting D", ""],
+	},
+	ayameAttackDesc:
+		Spanish: ["Slashes twice in front.", "Increase damage by [c_green]20%[/color].", "Increase size by [c_green]10%[/color].", "Reduce time between attacks by [c_green]15%[/color].", "Slashes twice [c_green]behind[/color].", "Increase damage by [c_green]20%[/color].", "If a slash defeats a target, there is a [c_green]40%[/color] chance for the defeated enemy to turn into a Spirit that flies outwards, damaging targets in its path."],
+	},
+	RingOfFitnessName:
+		Spanish: "Ring Of Fitness",
+	},
+	a_suiseiClearName:
+		Spanish: "Cute today too!",
+	},
+	a_hallucinatedDescription:
+		Spanish: "Completa con Halu nivel 5.",
+	},
+	i_golden:
+		Spanish: "Golden",
+	},
+	HasteUpName:
+		Spanish: "Haste Up Stamp",
+	},
+	a_melClearName:
+		Spanish: "Kapu Kapu!",
+	},
+	ollieName:
+		Spanish: "KUREIJI OLLIE",
+	},
+	GreedStickerDescription:
+		Spanish: ["Attacks have a [c_green]3%[/color] chance to hit HoloCoins out of targets per hit. Chance and amount is increased for every 10 damage dealt.", "Attacks have a [c_green]4%[/color] chance to hit HoloCoins out of targets per hit. Chance and amount is increased for every 10 damage dealt.", "Attacks have a [c_green]5%[/color] chance to hit HoloCoins out of targets per hit. Chance and amount is increased for every 10 damage dealt."],
+	},
+	f_goldTrophy5:
+		Spanish: ["Golden Lobster Trophy", ""],
+	},
+	BoneBrosName:
+		Spanish: "Bone Bros.",
+	},
+	a_robocoClearDescription:
+		Spanish: "Clear a game of Stage Mode with Roboco-san.",
+	},
+	a_calliGachikoiName:
+		Spanish: "True Dead Beat",
+	},
+	kaelaSpecialAttackName:
+		Spanish: "The Rarest Material",
+	},
+	HalfAngelName:
+		Spanish: "Half Angel",
+	},
+	f_WoodenWall:
+		Spanish: ["Wooden Wall", ""],
+	},
+	titleButtons:
+		Spanish: ["Jugar", "Holo House", "Tienda", "Leaderboard", "Logros", "Configuracion", "Creditos", "Salir"],
+	},
+	cookingDialogue:
+		Spanish: ["[ "Cooking Cauldron","Hello yeah I'm a magic talking Cauldron, what are you looking at." ]", "[ "Cooking Cauldron","You can use me to cook various dishes. If you have a bunch of fish and crops you don't need, you can throw em into me and I'll pop out a tasty dish, just like that." ]", "[ "Cooking Cauldron","I have a whole bunch of recipes that each require different ingredients, so choose whichever one you like as long as you have the ingredients I'll make it for you." ]", "[ "Cooking Cauldron","These dishses will help you on your adventures by granting stat ups and special effects that may help you in battle. Each time you go into one adventure, you'll eat up 1 use of a Dish and the effects will be active for that run. Each Dish can be used for multiple runs!" ]", "[ "Cooking Cauldron","However, only 1 dish can be active at a time, so don't be too hasty and cook everything. Once you cook a dish, that's the dish you'll use for your next adventure." ]", "[ "Cooking Cauldron","You can set a Dish to be Auto-Cooked, so that as long as you have the ingredients, I'll cook and send it over to you automatically before each adventure. But if you run out of ingredients, then forgetabbouutttitttttttttttttt." ]", "[ "Cooking Cauldron","So what will it be today?" ]"],
+	},
+		Spanish: ["Increase Max HP by [c_green]10[/color]. After being hit, heal 10% HP every 3 seconds until [c_green]80%[/color] of the damage taken is recovered (recovers minimum 1 HP).", "Increase Max HP by [c_green]20[/color]. After being hit, heal 10% HP every 3 seconds until [c_green]90%[/color] of the damage taken is recovered (recovers minimum 1 HP).", "Increase Max HP by [c_green]30[/color]. After being hit, heal 10% HP every 3 seconds until [c_green]100%[/color] of the damage taken is recovered (recovers minimum 1 HP)."],
+	},
+	a_kaelaGachikoiDescription:
+		Spanish: "Reach Gachikoi fandom level for Kaela Kovalskia.",
+	},
+	mainButtons:
+		Spanish: ["CONFIRMAR: ", "CANCELAR: "],
+	},
+	KroniicopterName:
+		Spanish: "Kroniicopter",
+	},
+	herdOptions:
+		Spanish: ["Manage", "Contratar", "Recolectar", "Leer", "Salir"],
+	}
+}
