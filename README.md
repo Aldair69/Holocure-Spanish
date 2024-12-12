@@ -1,5 +1,5 @@
 # Holocure-Spanish
-Traduccion mierdera del holocure usando https://github.com/PippleCultist/HoloCureLanguagePackMod
+Traduccion del holocure usando https://github.com/PippleCultist/HoloCureLanguagePackMod
 
 # Paquete de idiomas de Holocure Mod
 ## Traduccion directa del readme original
